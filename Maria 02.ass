@@ -15,9 +15,9 @@ Video File: 02 [609ABCAB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 398
-Active Line: 407
-Video Position: 33880
+Scroll Position: 392
+Active Line: 411
+Video Position: 34079
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,63 +41,63 @@ Comment: 0,0:23:30.97,0:23:31.01,Default,Chapter,0,0,0,,{Preview}
 Dialogue: 25,0:00:01.32,0:00:07.36,Junketsu,,0,0,0,,{\an8}This was back in the days when the battle\Nagainst England was still ongoing.
 Dialogue: 25,0:00:07.36,0:00:13.97,Junketsu,,0,0,0,,{\an8}There was a witch living near\Nour village who hated wars.
 Dialogue: 25,0:00:13.97,0:00:18.93,Junketsu,,0,0,0,,{\an8}{That witch would not curse\Npeople nor do evil deeds.}{That witch wasn't evil, and never cursed anyone.}She wasn't an evil witch, \Nand never cursed anyone.
-Dialogue: 25,0:00:18.93,0:00:23.00,Junketsu,,0,0,0,,{\an8}{...but instead used her powers\Nto put a stop to the fighting.}Instead, she{'d} used her powers to put a stop to the fighting.
+Dialogue: 25,0:00:18.93,0:00:23.00,Junketsu,,0,0,0,,{\an8}{...but instead used her powers\Nto put a stop to the fighting.}Instead, she{'d} used her powers to put {a stop to the fighting.}an end to the {conflict}{fighting}bloodshed.
 Dialogue: 25,0:00:23.89,0:00:26.32,Junketsu,,0,0,0,,Her name was Maria.
 Dialogue: 25,0:00:26.32,0:00:29.08,Junketsu,,0,0,0,,{She held the same name as the Blessed Virgin,}She shared names with the Blessed Virgin,
 Dialogue: 25,0:00:29.08,0:00:33.01,Junketsu,,0,0,0,,{...and shared her virginal status as well.}{and had the same virginal status as well.}as well as her state of innocence.{nay, i reckon that virin wasn't as innocent as the bible tells it}
 Dialogue: 25,0:02:17.52,0:02:24.20,Junketsu,,0,0,0,,{\an8}{So... it was you and the other one who\Nsummoned a dragon to stop the warfare...}So you're the ones who summoned the dragon and stopped the fighting.
 Dialogue: 25,0:02:24.20,0:02:25.58,Junketsu,,0,0,0,,Artemis.
-Dialogue: 25,0:02:26.38,0:02:27.75,Junketsu,,0,0,0,split,{Please lay beside me tonight...}{Please.}I beg you,
+Dialogue: 25,0:02:26.38,0:02:27.75,Junketsu,,0,0,0,split,{Please lay beside me tonight...}{Please.}I beg of you,
 Dialogue: 25,0:02:27.75,0:02:30.17,Junketsu,,0,0,0,,{Sleep with me tonight.}spend the night with me.
 Dialogue: 25,0:02:30.17,0:02:32.99,Junketsu,,0,0,0,,{You're going to call for your forces to strike}You'll be calling your forces to attack
 Dialogue: 25,0:02:32.99,0:02:36.55,Junketsu,,0,0,0,TLC,{against the French Imperial Army across\Nthe bridge tomorrow night, right?}the french army across that bridge tomorrow night{at dawn?}, right?{at night or at dawn Rageo, night warfare wasn't common back then afaik}
-Dialogue: 25,0:02:36.55,0:02:40.48,Junketsu,,0,0,0,,You're the honorable{Honorable knight of England,} {Falstaff.}Fastolf,{http://en.wikipedia.org/wiki/Falstaff#Sir_John_Fastolf and http://en.wikipedia.org/wiki/John_Fastolf}{The actual knight's name was Fastolf, Falstaff is his name being slightly changed in a Shakespeare play. It makes sense for it to be Fastolf, but she clearly says Falstaff though, so it could go either way. What do you guys think?}{itsP: it's just the accent and funi throwing you off}{go with Falstaff and then include it in release notes. }{i disagree, the show has been very accurate thus far and the bastardization of his name is more likely a funi translator mistake than an intentional one} Knight of England, 
+Dialogue: 25,0:02:36.55,0:02:40.48,Junketsu,,0,0,0,,You're the honorable{Honorable knight of England,} {Falstaff.}Fastolf,{http://en.wikipedia.org/wiki/Falstaff#Sir_John_Fastolf and http://en.wikipedia.org/wiki/John_Fastolf}{The actual knight's name was Fastolf, Falstaff is his name being slightly changed in a Shakespeare play. It makes sense for it to be Fastolf, but she clearly says Falstaff though, so it could go either way. What do you guys think?}{itsP: it's just the accent and funi throwing you off}{go with Falstaff and then include it in release notes. }{i disagree, the show has been very accurate thus far and the bastardization of his name is more likely a funi translator mistake than an intentional one} Knight of England,
 Dialogue: 25,0:02:40.48,0:02:42.97,Junketsu,,0,0,0,,{Yet you yearn 'For a woman on such a night?}{Yet you're here, yearning for a woman on such a night?}yet here you are, yearning for a woman on such an important night.
 Dialogue: 25,0:02:42.97,0:02:46.34,Junketsu,,0,0,0,,{I care for neither England nor\Nthe Roman Catholic Church!}I don't give a damn about England or the Roman Catholic Church!
 Dialogue: 25,0:02:46.34,0:02:50.98,Junketsu,,0,0,0,,{You are my king and my god, Artemis!}You're my only true god and king, Artemis!
 Dialogue: 25,0:02:51.84,0:02:55.03,Junketsu,,0,0,0,,My adorable, foolish Christian...
 Dialogue: 25,0:02:55.03,0:02:57.67,Junketsu,,0,0,0,,{Cry like a prostitute.}Let's hear you moan like a whore.{I /really/ want to replace all of funi's prostitutes with whore or something else}
 Dialogue: 25,0:03:05.46,0:03:06.91,Junketsu,,0,0,0,,{What is going on?}What's going on?
-Dialogue: 25,0:03:07.39,0:03:10.52,Junketsu,,0,0,0,,{England was showing signs\Nof imminent attack this morning...}{It looked like England was gearing up for an attack this morning,}The English seemed posed to attack in the morning,
+Dialogue: 25,0:03:07.39,0:03:10.52,Junketsu,,0,0,0,,{England was showing signs\Nof imminent attack this morning...}{It looked like England was gearing up for an attack this morning,}The English seemed {posed}poised to attack in the morning,{You mean "poised", right? "Posed" seems a bit meh}
 Dialogue: 25,0:03:10.52,0:03:14.25,Junketsu,,0,0,0,,{...and yet now they are fleeing in haste.}{but now they're on a hasty retreat.}but now they're on the retreat.
 Dialogue: 25,0:03:14.75,0:03:16.05,Junketsu,,0,0,0,,{Le Comte Guillaume!}Commander Guillaume!{http://fr.wikipedia.org/wiki/Guillaume_de_Flavy I assume}{any complaints to this? Could also be Captain, since that's what capitaine translates to most literally.}
-Dialogue: 25,0:03:16.48,0:03:19.20,Junketsu,,0,0,0,,{It seems confusion arose\Namong the enemy ranks!}It seems confusion had arose among the enemy ranks!
-Dialogue: 25,0:03:19.61,0:03:25.43,Junketsu,,0,0,0,,{Those leading the force are calling out\Nthe name of Artemis as if possessed...}{The knights who were leading the forces are all talking drivel about Artemis.}Their leadership is driveling on about some Artemis.
+Dialogue: 25,0:03:16.05,0:03:19.61,Junketsu,,0,0,0,,{It seems confusion arose\Namong the enemy ranks!}It seems confusion {had/has }arose amongst the enemy ranks!{http://www.oxforddictionaries.com/words/among-or-amongst}{Tense seems weird here. I would have had as "It seems confusion arose..."\NMight be tempted to do "...had arisen..." but the pluperfect form wouldn't work here IMO.\NBut I'm pretty sure "had arose" is incorrect. It's definitely past tense, but "had" is usually used in past perfect, whereas "arose" is simple past.}
+Dialogue: 25,0:03:19.61,0:03:25.43,Junketsu,,0,0,0,,{Those leading the force are calling out\Nthe name of Artemis as if possessed...}{The knights who were leading the forces are all talking drivel about Artemis.}Their leadership is driveling on about some Artemis.{I guess leadership works. But why not commanders? Or maybe that's not the right 1300's term. Idk what is}
 Dialogue: 25,0:03:25.43,0:03:28.93,Junketsu,,0,0,0,,{Artemis? Diana of Rome?}Artemis? You mean Diana of Rome?
-Dialogue: 25,0:03:29.20,0:03:30.34,Junketsu,,0,0,0,,It's Maria!
+Dialogue: 25,0:03:28.93,0:03:30.34,Junketsu,,0,0,0,,It's Maria!
 Dialogue: 25,0:03:30.82,0:03:33.44,Junketsu,,0,0,0,,Does the merchant leader know something?
-Dialogue: 25,0:03:33.70,0:03:36.87,Junketsu,,0,0,0,,{Maria is the witch who lives around here.}Maria is a{the} witch {that}who lives around here.
+Dialogue: 25,0:03:33.44,0:03:36.87,Junketsu,,0,0,0,,{Maria is the witch who lives around here.}Maria is a{the} witch {that}who lives around here.
 Dialogue: 25,0:03:36.87,0:03:40.15,Junketsu,,0,0,0,,{These are the doings of\NMaria's familiar, the succubus!}This is all the work of Maria's familiar, a succubus!
 Dialogue: 25,0:03:40.15,0:03:42.69,Junketsu,,0,0,0,,Wait, her name is Maria?
 Dialogue: 25,0:03:42.69,0:03:44.27,Junketsu,,0,0,0,,How dare that witch!?
 Dialogue: 25,0:03:44.27,0:03:48.41,Junketsu,,0,0,0,,{Regardless, unlike previously,\Nwe were saved this time.}Regardless, this time around we've been saved.
-Dialogue: 25,0:03:48.71,0:03:53.18,Junketsu,,0,0,0,TLC,{I was prepared to retreat with news of delay\Nfrom the Duke of Bourbon's aid, but...}I was prepared to retreat with news of delay from the Duke of Bourbon's aid.{save pls rageo}
+Dialogue: 25,0:03:48.41,0:03:53.18,Junketsu,,0,0,0,TLC,{I was prepared to retreat with news of delay\Nfrom the Duke of Bourbon's aid, but...}I was prepared to retreat with news of delay from the Duke of Bourbon's aid.{save pls rageo}
 Dialogue: 25,0:03:53.60,0:03:57.11,Junketsu,,0,0,0,,{Lord in the heavens, forgive me\Nfor giving thanks to the witch...}My Lord, please forgive me for feeling indebted toward the witch—
 Dialogue: 25,0:03:57.11,0:03:57.96,Junketsu,,0,0,0,,No.
 Dialogue: 25,0:03:57.96,0:04:00.38,Junketsu,,0,0,0,,This is also by the will of God.
 Dialogue: 25,0:04:00.81,0:04:05.49,Junketsu,,0,0,0,,{Rather than giving thanks to the agent of heresy\Ntainting the name of the Blessed Virgin...}{Rather than thanking a heretic who insults the name of the Blessed Virgin,}Rather than thank the heretic who insults the name of the Blessed Virgin,
 Dialogue: 25,0:04:05.49,0:04:07.80,Junketsu,,0,0,0,,{...-burning her at the stake\Nwould be much more befitting!}{burning her at the stake is much more befitting!}it would be much more fitting to burn her at the stake!
 Dialogue: 25,0:04:11.84,0:04:12.79,Junketsu,,0,0,0,,So cold... {Well get a blanket and don't sleep naked, baka. oh wait, i forgot: fanservice}
-Dialogue: 25,0:04:12.79,0:04:16.27,Junketsu,,0,0,0,,Maria! Maria!
+Dialogue: 25,0:04:12.79,0:04:16.27,Junketsu,,0,0,0,,{\ko175}Maria! {\ko173}Maria!
 Dialogue: 25,0:04:16.80,0:04:18.77,Junketsu,,0,0,0,,{\ko72}Ma{\ko42}ri{\ko83}a!
 Dialogue: 25,0:04:18.77,0:04:22.39,Junketsu,,0,0,0,,{What insolence, calling upon\Nthe name of a witch in such ease!}How arrogant, calling for a witch so casually...
-Dialogue: 25,0:04:22.78,0:04:23.28,Junketsu,,0,0,0,,Huh?
+Comment: 25,0:04:22.78,0:04:23.28,Junketsu,,0,0,0,,Huh?
 Dialogue: 25,0:04:23.28,0:04:25.00,Junketsu,,0,0,0,,It's me, Anne!
 Dialogue: 25,0:04:25.00,0:04:27.03,Junketsu,,0,0,0,,Oh, Martha's granddaughter.
 Dialogue: 25,0:04:27.03,0:04:28.70,Junketsu,,0,0,0,split,{Thank you, Maria! Father returned yesterday!}Thank you, Maria!
 Dialogue: 25,0:04:28.70,0:04:30.75,Junketsu,,0,0,0,,Father came home yesterday!
 Dialogue: 25,0:04:30.75,0:04:31.73,Junketsu,,0,0,0,,Huh?
 Dialogue: 25,0:04:32.27,0:04:33.62,Junketsu,,0,0,0,,Oh, that.
-Dialogue: 25,0:04:33.90,0:04:35.63,Junketsu,,0,0,0,,{So, here's a gift!}So, this is for you!
+Dialogue: 25,0:04:33.62,0:04:35.63,Junketsu,,0,0,0,,{So, here's a gift!}So, this is for you!
 Dialogue: 25,0:04:35.63,0:04:36.95,Junketsu,,0,0,0,,{A gift...?}For me?
 Dialogue: 25,0:04:36.95,0:04:38.30,Junketsu,,0,0,0,,{Yes, a gift!}Yes, for you!
-Dialogue: 25,0:04:48.95,0:04:49.64,Junketsu,,0,0,0,,What?{flowerhead maria so cute}
+Dialogue: 25,0:04:48.64,0:04:49.64,Junketsu,,0,0,0,,What?{flowerhead maria so cute}
 Dialogue: 25,0:04:51.64,0:04:53.76,Junketsu,,0,0,0,,I got it at mass.
-Dialogue: 25,0:04:53.76,0:04:56.93,Junketsu,,0,0,0,,{They said this bread is a\Npart of Lord Jesus' body!}They told me this bread was a part of Jesus' body!{i remember this from manga, but still waaaaat}
+Dialogue: 25,0:04:53.76,0:04:57.33,Junketsu,,0,0,0,,{They said this bread is a\Npart of Lord Jesus' body!}They told me this bread was a part of Jesus' body!{i remember this from manga, but still waaaaat}
 Dialogue: 25,0:04:57.33,0:04:58.52,Junketsu,,0,0,0,,Why don't you attend, Maria?
 Dialogue: 25,0:04:58.52,0:05:00.78,Junketsu,,0,0,0,TLC,{No. I don't want to.}No thanks. I hate it.{can we have her say "i'm not welcome" in any of the lines in this conversation??}
-Dialogue: 25,0:05:00.78,0:05:04.61,Junketsu,,0,0,0,,{I really like Saint Margaret!}You know, I {\i1}really{\i0} like Saint Margaret!
-Dialogue: 25,0:05:04.61,0:05:06.11,Junketsu,,0,0,0,,{Do you want me to talk about her?}Do you want to tell you about her?
+Dialogue: 25,0:05:00.78,0:05:04.61,Junketsu,,0,0,0,,{I really like Saint Margaret!}You know, I {\i1}really{\fsp3} {\r}like Saint Margaret!
+Dialogue: 25,0:05:04.61,0:05:06.11,Junketsu,,0,0,0,,{Do you want me to talk about her?}Do you want me{loli yes} to tell you about her?{oh... nah}
 Dialogue: 25,0:05:06.11,0:05:07.12,Junketsu,,0,0,0,,No thanks.
 Dialogue: 25,0:05:07.12,0:05:11.15,Junketsu,,0,0,0,,{Really? Well, I think most\Neveryone else likes Saint Michael.}Really? I guess everyone else likes Saint Michael.
 Dialogue: 25,0:05:11.15,0:05:12.93,Junketsu,,0,0,0,,{Maria, do you like Saint Michael?}Does that mean you like Saint Michael?
@@ -105,9 +105,9 @@ Dialogue: 25,0:05:12.93,0:05:13.93,Junketsu,,0,0,0,,I hate him.
 Dialogue: 25,0:05:13.93,0:05:15.87,Junketsu,,0,0,0,,They say he's scary, too.
 Dialogue: 25,0:05:17.08,0:05:21.38,Junketsu,,0,0,0,,{But Saint Michael watches over\Nall of us, all the time, everywhere.}But Saint Michael is always protecting us, \Nno matter where we are.
 Dialogue: 25,0:05:21.38,0:05:23.87,Junketsu,,0,0,0,,{He isn't watching over us,\Nhe's just keeping watch.}He's not protecting {us}anyone, he's just keeping watch.
-Dialogue: 25,0:05:24.49,0:05:28.84,Junketsu,,0,0,0,,You know, a kid like you shouldn't\Nbe coming to this kind of place.
+Dialogue: 25,0:05:24.49,0:05:28.84,Junketsu,,0,0,0,,You know, a kid like you shouldn't\Nbe coming to {this kind of place}a place like this.
 Dialogue: 25,0:05:29.41,0:05:30.05,Junketsu,,0,0,0,,{And...}Moreover,
-Dialogue: 25,0:05:30.44,0:05:32.22,Junketsu,,0,0,0,split,{...no matter how often you pray, the angels\Nwon't protect you from bandits or wolves.}no matter how much you pray,\N
+Dialogue: 25,0:05:30.05,0:05:32.22,Junketsu,,0,0,0,split,{...no matter how often you pray, the angels\Nwon't protect you from bandits or wolves.}no matter how much you pray,\N
 Dialogue: 25,0:05:32.22,0:05:35.89,Junketsu,,0,0,0,,the angels won't protect you from bandits or wolves.
 Dialogue: 25,0:05:37.18,0:05:41.63,Junketsu,,0,0,0,,{Well, the angels aren't really\Ngoing to appear to protect us.}{Well of course, the angels aren't really going to swoop down and protect us.}Well, I know the angels aren't really going to swoop down and protect us.
 Dialogue: 25,0:05:41.63,0:05:43.44,Junketsu,,0,0,0,,{Divine protection is...}The angels will...{wtf to do with this, rageo?}
@@ -119,7 +119,7 @@ Dialogue: 25,0:05:51.34,0:05:52.20,Junketsu,,0,0,0,,Huh?
 Dialogue: 25,0:05:52.62,0:05:54.58,Junketsu,,0,0,0,,Good morning, Lady Maria.
 Dialogue: 25,0:05:54.58,0:05:56.58,Junketsu,,0,0,0,,{You sure have gall, coming here!}You've got guts, coming back here.{Aren't you just a cheeky fucker, coming back here!}
 Dialogue: 25,0:05:56.58,0:05:58.33,Junketsu,,0,0,0,,Huh? Well...
-Dialogue: 25,0:05:58.33,0:06:01.84,Junketsu,,0,0,0,,{You knew I hated wars, and yet\Nyou went to the battlefield!}You knew I hated wars, but you went to fight anyway!
+Dialogue: 25,0:05:58.33,0:06:01.84,Junketsu,,0,0,0,,{You knew I hated wars, and yet\Nyou went to the battlefield!}You knew I hated wars, {but}yet you went to fight anyway!
 Dialogue: 25,0:06:01.84,0:06:03.67,Junketsu,,0,0,0,,{Um... The flowers...}Uh, the flowers...
 Dialogue: 25,0:06:04.42,0:06:07.63,Junketsu,,0,0,0,retime me,T{Ah, t}h-{t}This is nothing! Nothing at all!
 Dialogue: 25,0:06:07.63,0:06:08.59,Junketsu,,0,0,0,,{Huh...}Right...
@@ -127,8 +127,8 @@ Dialogue: 25,0:06:09.01,0:06:13.51,Junketsu,,0,0,0,,{Well, I just came to say th
 Dialogue: 25,0:06:13.94,0:06:17.52,Junketsu,,0,0,0,,Thank you very much for saving us back then.
 Comment: 25,0:06:17.52,0:06:18.52,Junketsu,,0,0,0,split,{Hm? Oh, uh... You were there?\NNot that I knew about it.}Huh?
 Dialogue: 25,0:06:18.52,0:06:23.02,Junketsu,,0,0,0,,O-Oh, you were there? I had no idea.
-Dialogue: 25,0:06:23.02,0:06:24.61,Junketsu,,0,0,0,,Are you Maria's friend also?
-Dialogue: 25,0:06:25.53,0:06:27.70,Junketsu,,0,0,0,,Friend? Why, of course not.
+Dialogue: 25,0:06:23.02,0:06:24.61,Junketsu,,0,0,0,,Are you Maria's friend {also?}{Technically speaking, this is wrong. But since she's a kid, I think she would make this mistake. Plus, it's not like she's gotten a proper education, being a female in the 1300's and all}too?
+Dialogue: 25,0:06:25.23,0:06:27.70,Junketsu,,0,0,0,,Friend? Why, of course not.
 Dialogue: 25,0:06:27.70,0:06:29.24,Junketsu,,0,0,0,,Then you're her lover?
 Dialogue: 25,0:06:29.24,0:06:32.60,Junketsu,,0,0,0,,Listen here! He's just the messenger\Nfor Commander Guillaume!{Le Comte Guillaume}
 Dialogue: 25,0:06:32.60,0:06:35.08,Junketsu,,0,0,0,,{And as far as this "friend"\Nthing goes, the witch Maria is...}And as for this "friend" thing, the witch Maria—
@@ -138,10 +138,10 @@ Dialogue: 25,0:06:39.17,0:06:41.00,Junketsu,,0,0,0,,I missed my landing.{drop th
 Dialogue: 25,0:06:41.51,0:06:43.21,Junketsu,,0,0,0,,What in the world are you doing!?
 Dialogue: 25,0:06:43.21,0:06:45.00,Junketsu,,0,0,0,split,{Come now, I was working\Nall last night without rest.}{Come now,}Give me a break!
 Dialogue: 25,0:06:45.00,0:06:47.30,Junketsu,,0,0,0,,{I've been busting my butt all night.}{working my arse/ass all night}{dancing my hips all night}I nearly destroyed my derrière last night.
-Dialogue: 25,0:06:47.71,0:06:49.89,Junketsu,,0,0,0,,{My hips are taking a hit, see?}Just look at how chapped I am.{borrowed from begna's books}
+Dialogue: 25,0:06:47.30,0:06:50.31,Junketsu,,0,0,0,,{My hips are taking a hit, see?}Just look at how chapped I am.{borrowed from begna's books}
 Dialogue: 25,0:06:50.31,0:06:51.30,Junketsu,,0,0,0,,{M-Mind your manners!}That's so vulgar{lewd (¬‿¬)}!
-Dialogue: 25,0:06:51.30,0:06:53.89,Junketsu,,0,0,0,,{That's an odd thing to say to a succubus.}Should you really be saying that to a succubus?
-Dialogue: 25,0:06:54.18,0:06:57.10,Junketsu,,0,0,0,,{Um... We'd like to excuse ourselves...}Hey... We're about ready to excuse ourselves.
+Dialogue: 25,0:06:51.30,0:06:53.89,Junketsu,,0,0,0,,{That's an odd thing to say to a succubus.}{Should you really be saying that to a succubus?}What kind of conversation do you expect from a succubus?{<<itsP}
+Dialogue: 25,0:06:53.89,0:06:57.10,Junketsu,,0,0,0,,{Um... We'd like to excuse ourselves...}Hey... We're about ready to excuse ourselves.
 Dialogue: 25,0:06:57.10,0:06:58.09,Junketsu,,0,0,0,,Oh, is that so?
 Dialogue: 25,0:06:58.09,0:07:00.23,Junketsu,,0,0,0,,Anne, give my regards to Martha.
 Dialogue: 25,0:07:00.23,0:07:01.76,Junketsu,,0,0,0,,Yes! I'll come again.
@@ -149,7 +149,7 @@ Dialogue: 25,0:07:01.76,0:07:02.38,Junketsu,,0,0,0,,"Again"?
 Dialogue: 25,0:07:02.38,0:07:03.37,Junketsu,,0,0,0,,Until next time.
 Dialogue: 25,0:07:03.37,0:07:04.77,Junketsu,,0,0,0,,Right, next time...
 Dialogue: 25,0:07:05.32,0:07:08.32,Junketsu,,0,0,0,,Maria, weren't you angry with Joseph?
-Dialogue: 25,0:07:08.63,0:07:10.57,Junketsu,,0,0,0,,{You know, for what he did\Ndespite agreeing with you.}You know, for leaving.
+Dialogue: 25,0:07:08.32,0:07:10.57,Junketsu,,0,0,0,,{You know, for what he did\Ndespite agreeing with you.}You know, for leaving.
 Dialogue: 25,0:07:11.08,0:07:13.57,Junketsu,,0,0,0,,{Th-That aside, how did things go?}More importantly, how'd things go?
 Dialogue: 25,0:07:14.13,0:07:17.69,Junketsu,,0,0,0,,{I massaged them enough to deplete\Ntheir reserves for ten years.}They'll be running on dry for the next ten years with how much I pumped out.{im sure begna has ideas for this}{Their wells will probably run dry for a decade or more now that I've drank my fill.}
 Dialogue: 25,0:07:18.09,0:07:18.95,Junketsu,,0,0,0,,{Only...}Except...
@@ -164,7 +164,7 @@ Dialogue: 25,0:07:37.72,0:07:39.22,Junketsu,,0,0,0,,Sire!
 Dialogue: 25,0:07:39.22,0:07:41.08,Junketsu,,0,0,0,,Do not fret.
 Dialogue: 25,0:07:41.08,0:07:45.36,Junketsu,,0,0,0,,{She must be the familiar of a witch\Ncontracted by the King of Bourges.}She must be the familiar of {that}a witch {that} the King of Bourges contracted.
 Dialogue: 25,0:07:45.36,0:07:46.98,Junketsu,,0,0,0,,{Females are filth.}Women are filth.
-Dialogue: 25,0:07:46.98,0:07:50.11,Junketsu,,0,0,0,,{With the form of pure love that we embrace...}As long as we share this pure love
+Dialogue: 25,0:07:46.98,0:07:50.11,Junketsu,,0,0,0,,{With the form of pure love that we embrace...}As long as we share this pure love{end with comma},
 Dialogue: 25,0:07:50.11,0:07:53.74,Junketsu,,0,0,0,,{...there is nothing this familiar can do but leave.}this familiar has no choice but to leave.{this familiar will never have her way with us.}
 Dialogue: 25,0:07:54.53,0:07:55.72,Junketsu,,0,0,0,,Ah, dear Sire!
 Dialogue: 24,0:07:55.72,0:07:58.37,Junketsu,,0,0,0,,{\1a&HFF&\t(1950,2150,\bord0)}Oh, my dear Benjamin.
@@ -175,11 +175,11 @@ Dialogue: 25,0:08:01.28,0:08:04.00,Junketsu,,0,0,0,,{Say, Maria? Let's make an i
 Dialogue: 25,0:08:04.00,0:08:04.88,Junketsu,,0,0,0,,Huh!?
 Dialogue: 25,0:08:04.88,0:08:06.25,Junketsu,,0,0,0,,{A male demon.}A male familiar.
 Dialogue: 25,0:08:06.79,0:08:08.34,Junketsu,,0,0,0,,There's no need for one.
-Dialogue: 25,0:08:08.71,0:08:11.34,Junketsu,,0,0,0,,{Don't tell me you can't make... a man.}Are you saying you can't make one, a man?
+Dialogue: 25,0:08:08.34,0:08:11.34,Junketsu,,0,0,0,,{Don't tell me you can't make... a man.}Are you saying you can't make one, a man?
 Dialogue: 25,0:08:13.39,0:08:15.59,Junketsu,,0,0,0,,{Because you... haven't seen it before?}Because you've never seen {\i1}it{\fsp4} {\r}before?
-Dialogue: 25,0:08:18.10,0:08:20.60,Junketsu,,0,0,0,,{Oh, come on, hurry and\Nget rid of your virginity!}Oh my God! Go loose your virginity already!
+Dialogue: 25,0:08:18.10,0:08:20.60,Junketsu,,0,0,0,,{Oh, come on, hurry and\Nget rid of your virginity!}Oh my God! Go lose your virginity already!
 Dialogue: 25,0:08:20.60,0:08:22.59,Junketsu,,0,0,0,,{Your unfathomable innocence\Nis really becoming a hassle!}You're so innocent it's becoming a headache!
-Dialogue: 25,0:08:22.59,0:08:24.48,Junketsu,,0,0,0,,{\t(287,1580,\fscx110\fscy110)}Shut up!
+Dialogue: 25,0:08:22.59,0:08:24.48,Junketsu,,0,0,0,retime me,{\t(287,1580,\fscx110\fscy110)}Shut up!
 Dialogue: 25,0:08:32.49,0:08:35.53,Junketsu,,0,0,0,,{It's a clumsy male that was lost in the woods.}It's a clumsy male I found lost in the woods.{He's some clutz I found in the woods.}
 Dialogue: 25,0:08:35.53,0:08:38.08,Junketsu,,0,0,0,,{Pretty much fit to become\Nan incubus, don't you think?}He'll work just fine as an incubus, don't you think?
 Dialogue: 25,0:08:38.67,0:08:42.54,Junketsu,,0,0,0,,{See? He's saying that he wants\Nto give thanks by doing his best.}See? He said he wants to thank you by working his hardest.
@@ -199,7 +199,7 @@ Dialogue: 25,0:09:29.38,0:09:30.52,Junketsu,,0,0,0,,Yes!
 Dialogue: 25,0:09:34.98,0:09:36.18,Junketsu,,0,0,0,,Maria?
 Dialogue: 25,0:09:36.18,0:09:40.18,Junketsu,,0,0,0,,{One of his key features as an\Nincubus is a bit hazy, you know?}I think you left one of his key features as an incubus a bit hazy.
 Dialogue: 25,0:09:41.06,0:09:43.60,Junketsu,,0,0,0,,{That's because I haven't seen one\Nof them before... It's embarrassing...}That's because I've never seen one. It's embarrassing...
-Dialogue: 25,0:09:43.90,0:09:46.60,Junketsu,,0,0,0,,{"Priapus," my ass! You no-good witch!}{\i1}Priapus{\r} my ass! You pathetic witch!
+Dialogue: 25,0:09:43.60,0:09:46.60,Junketsu,,0,0,0,,{"Priapus," my ass! You no-good witch!}{\i1}Priapus{\r} my ass! You pathetic witch!
 Dialogue: 25,0:09:46.60,0:09:47.63,Junketsu,,0,0,0,,Stupid virgin!
 Dialogue: 25,0:09:47.63,0:09:48.60,Junketsu,,0,0,0,,Shut up!
 Dialogue: 25,0:09:49.52,0:09:50.49,Junketsu,,0,0,0,,{Follow me!}Come with me!
@@ -209,7 +209,7 @@ Dialogue: 25,0:09:54.74,0:09:57.99,Junketsu,,0,0,0,,{Then I'll teach you so you 
 Dialogue: 25,0:09:57.01,0:09:58.83,Junketsu,,0,0,0,,{\an8}No! No!
 Dialogue: 25,0:09:58.83,0:10:03.12,Junketsu,,0,0,0,TLC,{Um... So what am I supposed to do now?}Uh, what should I do about this?{rageo?}
 Dialogue: 25,0:10:03.93,0:10:07.12,Junketsu,,0,0,0,,{Ahead is the fort where the\Nrabble soldiers of Bourges dwell!}Bourges' peasant{this is totally an excuse to use plebeian} soldiers are occupying that fort up ahead!
-Dialogue: 25,0:10:07.51,0:10:12.22,Junketsu,,0,0,0,,{In the name of our majesty, the wise\NKing Henry, king of England and of France...}In the name of{ our majesty,} His Majesty,\N the wise King Henry of England and of France,{Scanlation TL Notes explain why he's called this.}
+Dialogue: 25,0:10:07.12,0:10:12.22,Junketsu,,0,0,0,,{In the name of our majesty, the wise\NKing Henry, king of England and of France...}In the name of{ our majesty,} His Majesty,\N the wise King Henry of England and of France,{Scanlation TL Notes explain why he's called this.}
 Dialogue: 25,0:10:12.22,0:10:14.13,Junketsu,,0,0,0,,we shall destroy the enemy!
 Dialogue: 25,0:10:15.24,0:10:19.13,Junketsu,,0,0,0,,{England doesn't have the military might,\Nbut the mist is siding with them.}England might not have the military might, but they have the benefit of this mist.
 Dialogue: 25,0:10:19.50,0:10:23.14,Junketsu,,0,0,0,,{If their advancement to the fort isn't noticed,\Ntheir surprise attack may prove successful.}If they can maintain this shrewd approach, their surprise attack may prove successful.
@@ -221,13 +221,13 @@ Dialogue: 25,0:10:36.65,0:10:37.63,Junketsu,,0,0,0,,The eye! Aim for the eye!
 Dialogue: 25,0:10:37.63,0:10:39.08,Junketsu,,0,0,0,,{Rather }Shouldn't we {rather }retreat!?
 Dialogue: 25,0:10:39.66,0:10:40.86,Junketsu,,0,0,0,,Sire!
 Dialogue: 25,0:10:40.86,0:10:42.66,Junketsu,,0,0,0,,Show no fear! Forward!
-Dialogue: 25,0:10:42.99,0:10:45.66,Junketsu,,0,0,0,,{If you're not going to stop fighting,\Nprepare yourselves!}If you don't plan on retreating, prepare yourselves!
+Dialogue: 25,0:10:42.66,0:10:45.66,Junketsu,,0,0,0,,{If you're not going to stop fighting,\Nprepare yourselves!}If you don't plan on retreating, prepare yourselves!
 Dialogue: 25,0:10:49.42,0:10:51.92,Junketsu,,0,0,0,,L-Let me do something, too!{I want to help!}{double I stuttering looks gay, i'd avoid it where possible}
 Dialogue: 25,0:10:52.47,0:10:53.95,Junketsu,,0,0,0,,{You don't need to do anything.}{I don't need you for anything.}You aren't needed here.
 Dialogue: 25,0:10:53.95,0:10:56.21,Junketsu,,0,0,0,,{Go back home ahead,\Nand prepare something to eat.}Head back home and prepare something to eat.
 Dialogue: 25,0:10:56.21,0:10:58.24,Junketsu,,0,0,0,,Th-That's not fair!
 Comment: 25,0:10:58.24,0:10:59.22,Junketsu,,0,0,0,,My, oh my.
-Dialogue: 25,0:10:59.22,0:11:03.18,Junketsu,,0,0,0,,{What's she going to do\Nwith that half-baked incubus?}What's she plan to do with {that half-baked}a neutered incubus?{i've read all the owl wiki's and i cant make the joke include an owl reference}
+Dialogue: 25,0:10:59.22,0:11:03.18,Junketsu,,0,0,0,,{What's she going to do\Nwith that half-baked incubus?}What does she plan to do with {that half-baked}a neutered incubus?{i've read all the owl wiki's and i cant make the joke include an owl reference}{"What does" cant be contracted. Should be a present continuous. Alternatively: "What does she plan...".}
 Dialogue: 25,0:11:03.59,0:11:05.09,Junketsu,,0,0,0,,That witch again, I see.
 Dialogue: 25,0:11:05.09,0:11:07.56,Junketsu,,0,0,0,,She is quite something, summoning a cyclops.
 Dialogue: 25,0:11:08.93,0:11:12.56,Junketsu,,0,0,0,,{Let's see how much longer\Nher selfishness will last...}Let's see how much longer she'll get away with that selfishness.
@@ -244,7 +244,7 @@ Comment: 25,0:11:41.30,0:11:42.68,Junketsu,,0,0,0,,Hm...
 Dialogue: 25,0:11:43.29,0:11:45.32,Junketsu,,0,0,0,,Good evening, my dear.
 Dialogue: 25,0:11:45.32,0:11:47.19,Junketsu,,0,0,0,,{Like a prostitute, you shall...}I'll have you moaning—
 Dialogue: 25,0:11:47.19,0:11:47.93,Junketsu,,0,0,0,,Huh?
-Dialogue: 25,0:11:48.68,0:11:51.32,Junketsu,,0,0,0,,{Oh, my, are you the rumored demonic cutie?}My... Are you the rumored demonic cutie{cupcake}{sweetie}?
+Dialogue: 25,0:11:48.68,0:11:51.32,Junketsu,,0,0,0,,{Oh, my, are you the rumored demonic cutie?}Oh my{My}... Are you the rumored demonic cutie{cupcake}{sweetie}?{how about making it "Oh my... Are you..."\NJust having it as "My... Are you..." is a little weird.}
 Dialogue: 25,0:11:51.32,0:11:53.04,Junketsu,,0,0,0,,{Ah, I'm sorry, I made a mista...}{Ah, I'm sorry! I've made a—}Ah, I'm sorry! Wrong win—
 Dialogue: 25,0:11:53.04,0:11:54.69,Junketsu,,0,0,0,,Wha—!? What!?
 Dialogue: 25,0:11:54.69,0:11:57.64,Junketsu,,0,0,0,,{U-Um, I believe this person is a homosexual!}Hey! I think this guy's a homosexual!
@@ -264,7 +264,7 @@ Dialogue: 25,0:12:20.83,0:12:22.17,Junketsu,,0,0,0,,{Oh, what the hell...}I gues
 Dialogue: 25,0:12:22.17,0:12:24.68,Junketsu,,0,0,0,,My dear, do you like girls?
 Dialogue: 25,0:12:25.28,0:12:27.86,Junketsu,,0,0,0,,{Oh, my, a succubus, too?}Oh, there's a succubus too?
 Dialogue: 25,0:12:27.86,0:12:31.06,Junketsu,,0,0,0,,{I'm sorry, but I hate outdated women like you.}I'm sorry, but {I hate}I'm not into antiques like you.{Sorry, but I'm into lolis.}{Sorry, but I'm not a fan of MILFs}
-Dialogue: 25,0:12:32.35,0:12:34.78,Junketsu,,0,0,0,,{Bring me someone younger.}Bring me someone a little less crude.
+Dialogue: 25,0:12:32.10,0:12:34.78,Junketsu,,0,0,0,,{Bring me someone younger.}Bring me someone a little less crude.
 Dialogue: 25,0:12:34.78,0:12:37.86,Junketsu,,0,0,0,,{Or else make this cutie do\Nthe work he's supposed to do.}If not, then make this cutie here do the work he's supposed to{submit himself to me}.
 Dialogue: 25,0:12:40.40,0:12:41.67,Junketsu,,0,0,0,,{Work.}Get to work.
 Dialogue: 25,0:12:42.63,0:12:44.67,Junketsu,,0,0,0,,Artemis, that's a bit too—
@@ -275,9 +275,9 @@ Dialogue: 25,0:12:51.45,0:12:53.46,Junketsu,,0,0,0,,A-Artemis!?
 Dialogue: 25,0:12:56.83,0:12:59.55,Junketsu,,0,0,0,,{Now... Who's going to do me first?}So, who wants to go first?
 Dialogue: 25,0:13:03.13,0:13:04.10,Junketsu,,0,0,0,,What?
 Dialogue: 25,0:13:06.05,0:13:07.05,Junketsu,,0,0,0,,Hey, look!
-Dialogue: 25,0:13:11.06,0:13:14.56,Junketsu,,0,0,0,,{A serpent!? That must have\Nbeen a sight to see, then!}A serpent!? That must have been a sight to see!
+Dialogue: 25,0:13:11.06,0:13:14.56,Junketsu,,0,0,0,,{A serpent!? That must have\Nbeen a sight to see, then!}A serpent!? That must have been a sight to {see}behold{<<itsP}!
 Dialogue: 25,0:13:15.97,0:13:17.60,Junketsu,,0,0,0,,Don't you move, Artemis!
-Dialogue: 25,0:13:17.90,0:13:19.73,Junketsu,,0,0,0,,{I'll douse this place along\Nwith you in a sea of fire!}I'll douse you in a sea of fire!
+Dialogue: 25,0:13:17.60,0:13:19.73,Junketsu,,0,0,0,,{I'll douse this place along\Nwith you in a sea of fire!}I'll douse you in a sea of fire!
 Dialogue: 25,0:13:19.73,0:13:20.98,Junketsu,,0,0,0,,{Come on, bring it!}Take your best shot!
 Dialogue: 25,0:13:22.71,0:13:23.99,Junketsu,,0,0,0,,Maria! Behind you!
 Comment: 25,0:13:23.99,0:13:24.99,Junketsu,,0,0,0,,Huh?
@@ -286,18 +286,18 @@ Dialogue: 25,0:13:41.30,0:13:42.59,Junketsu,,0,0,0,,Michael?
 Dialogue: 25,0:13:43.05,0:13:44.86,Junketsu,,0,0,0,,That must've been a warning.{must've been fate that i can use must've again}
 Dialogue: 25,0:13:44.86,0:13:45.88,Junketsu,,0,0,0,,Come on!
 Dialogue: 25,0:13:47.05,0:13:51.06,Junketsu,,0,0,0,,{Just when I wanted to work as an incubus...}Right when I was {starting to do work}about to prove my worth as an incubus...
-Dialogue: 25,0:13:57.35,0:14:00.14,Junketsu,,0,0,0,,Of everyone, it had to be the Archangel.
+Dialogue: 25,0:13:57.35,0:14:00.14,Junketsu,,0,0,0,,Of everyone, it had to be the Archangel.{is an angel an "everyone"}
 Dialogue: 25,0:14:00.14,0:14:02.02,Junketsu,,0,0,0,,You've been attracting too much attention.
 Dialogue: 25,0:14:02.02,0:14:04.90,Junketsu,,0,0,0,,I just hate fighting, that's all!
 Dialogue: 25,0:14:04.90,0:14:05.70,Junketsu,,0,0,0,,Maria?
 Dialogue: 25,0:14:05.70,0:14:06.55,Junketsu,,0,0,0,,What?
 Dialogue: 25,0:14:06.55,0:14:09.03,Junketsu,,0,0,0,,It looks like Martha and Anne's village is on fire.
-Dialogue: 25,0:14:14.90,0:14:18.42,Junketsu,,0,0,0,,Famished mercenaries turned marauders, it seems.
+Dialogue: 25,0:14:14.54,0:14:18.42,Junketsu,,0,0,0,,Famished mercenaries turned marauders, it seems.
 Dialogue: 25,0:14:20.59,0:14:23.13,Junketsu,,0,0,0,,{How dare they do such a thing\Nin front of the witch, Maria!?}How dare they do this in front of me, the witch Maria!?{How dare they do this in the realm of the witch Maria?}
 Dialogue: 25,0:14:25.01,0:14:27.34,Junketsu,,0,0,0,,{Um, are you sure it's safe?}Uh, are you sure this is {safe}wise?
 Dialogue: 25,0:14:27.34,0:14:30.84,Junketsu,,0,0,0,,{You just received warning\Nfrom Archangel Michael...}You received a warning from\N Archangel\hMichael just a moment ago.
-Dialogue: 25,0:14:33.68,0:14:36.08,Junketsu,,0,0,0,,{With the world this beautiful}The world is such a beautiful place.
-Dialogue: 25,0:14:36.08,0:14:38.52,Junketsu,,0,0,0,,{why are the hearts of people so foolish?}{why are the hearts of those on it so foolish?}Why are the hearts of the people on it so ugly?
+Dialogue: 25,0:14:33.68,0:14:36.08,Junketsu,,0,0,0,,{\i1}{With the world this beautiful}The world is such a beautiful place.
+Dialogue: 25,0:14:36.08,0:14:38.52,Junketsu,,0,0,0,,{\i1}{why are the hearts of people so foolish?}{why are the hearts of those on it so foolish?}Why are the hearts of the people on it so ugly?
 Dialogue: 25,0:14:41.07,0:14:45.03,Junketsu,,0,0,0,,That village was the first village\Nto have ever accepted me.{That village was the first village to accept me.}
 Dialogue: 25,0:14:47.01,0:14:50.74,Junketsu,,0,0,0,,{Yahweh created the world in six days,\Nand then took a day to rest.}It's said that {They say }Yahweh created the world in six days,\Nand then took a day to rest.
 Dialogue: 25,0:14:51.93,0:14:55.50,Junketsu,,0,0,0,,{Yahweh should have worked one extra day..}Maybe Yahweh should have spent one more day on it.
@@ -313,7 +313,7 @@ Dialogue: 25,0:15:21.56,0:15:26.32,Junketsu,,0,0,0,,{Yes! The chief gave us the 
 Dialogue: 25,0:15:26.32,0:15:30.15,Junketsu,,0,0,0,,{Hey! So that's all of 'em in the village, right?!}Hey! This is all of 'em in the village, right!?
 Dialogue: 25,0:15:30.15,0:15:31.57,Junketsu,,0,0,0,,Wh-What!?
 Dialogue: 25,0:15:31.57,0:15:34.41,Junketsu,,0,0,0,,{Sir Captain! This isn't what you promised!}Captain, sir! This isn't what you promised!{"Sir Captain" pls funi wtf. Possibly Chief, like the other guy maybe?}
-Dialogue: 25,0:15:34.41,0:15:36.79,Junketsu,,0,0,0,,{Ahh!? So what?}Ahh!? And what about it?
+Dialogue: 25,0:15:34.41,0:15:37.20,Junketsu,,0,0,0,,{Ahh!? So what?}Ahh!? And what about it?
 Dialogue: 25,0:15:37.20,0:15:39.41,Junketsu,,0,0,0,,{We got another one that was hiding!}We found another one that was hiding!
 Dialogue: 25,0:15:41.40,0:15:42.35,Junketsu,,0,0,0,,Grandmother!
 Dialogue: 25,0:15:42.35,0:15:42.96,Junketsu,,0,0,0,,Anne!
@@ -327,7 +327,7 @@ Dialogue: 25,0:16:00.71,0:16:02.09,Junketsu,,0,0,0,,Saint Michael...
 Dialogue: 25,0:16:02.95,0:16:03.90,Junketsu,,0,0,0,,Maria!
 Dialogue: 25,0:16:06.93,0:16:08.73,Junketsu,,0,0,0,,Foolish marauders!
 Dialogue: 25,0:16:09.52,0:16:11.24,Junketsu,,0,0,0,,You shall pay for your sins!
-Dialogue: 25,0:16:13.23,0:16:14.62,Junketsu,,0,0,0,,Who the hell are you!?
+Dialogue: 25,0:16:12.86,0:16:14.62,Junketsu,,0,0,0,,Who the hell are you!?
 Dialogue: 25,0:16:15.47,0:16:17.62,Junketsu,,0,0,0,,M-{I-Is it you, }Maria{?}, is that you?
 Dialogue: 25,0:16:18.36,0:16:21.78,Junketsu,,0,0,0,,{Fear beset you, so you never\Nlay siege to this village again!}Let fear beset you, so you never lay siege to this village again!
 Dialogue: 25,0:16:23.08,0:16:24.37,Junketsu,,0,0,0,,Taranis! {http://en.wikipedia.org/wiki/Taranis}
@@ -347,24 +347,25 @@ Dialogue: 25,0:16:56.99,0:17:01.07,Junketsu,,0,0,0,,Maria... Thank you, but plea
 Dialogue: 25,0:17:01.07,0:17:03.25,Junketsu,,0,0,0,,If you use your magic any further—
 Dialogue: 25,0:17:12.07,0:17:13.25,Junketsu,,0,0,0,,Michael!?
 Dialogue: 25,0:17:14.22,0:17:15.72,Junketsu,,0,0,0,,T-Taranis!
-Dialogue: 25,0:17:16.05,0:17:19.97,Junketsu,,0,0,0,,{I said those who wield arms!\NBurn Michael's eyes, too!}I said those who are armed! Burn Michael's eyes, too!
+Dialogue: 25,0:17:15.72,0:17:18.05,Junketsu,,0,0,0,split,{I said those who wield arms!\NBurn Michael's eyes, too!}I said those who are armed!
+Dialogue: 25,0:17:18.05,0:17:19.97,Junketsu,,0,0,0,,Burn Michael's eyes, too!
 Dialogue: 25,0:17:19.97,0:17:24.51,Junketsu,,0,0,0,,{In the name of Michael, servant of the\NAlmighty Father, God, I command you.}I, Michael, servant of the\N Almighty Father, command you,{beggy would make a good benevolent being}
 Dialogue: 25,0:17:24.51,0:17:27.98,Junketsu,,0,0,0,,{Ancient one, return to the darkness of the past.}ancient one, to return to the darkness of the past.{why has this now turned into comma-fest-2015?}
 Dialogue: 25,0:17:30.42,0:17:31.81,Junketsu,,0,0,0,,Maria?
 Dialogue: 25,0:17:31.81,0:17:34.15,Junketsu,,0,0,0,,Is that... Saint Michael?
 Dialogue: 25,0:17:34.15,0:17:34.74,Junketsu,,0,0,0,,Huh?
 Dialogue: 25,0:17:36.03,0:17:37.74,Junketsu,,0,0,0,,You're all cowards!
-Dialogue: 25,0:17:38.03,0:17:41.12,Junketsu,,0,0,0,,{All those on earth are praying for salvation!}There are people all over earth praying for salvation!
+Dialogue: 25,0:17:37.74,0:17:41.12,Junketsu,,0,0,0,,{All those on earth are praying for salvation!}There are people all over the earth praying for salvation!{all over the earth}
 Dialogue: 25,0:17:41.12,0:17:44.41,Junketsu,,0,0,0,,{And yet, none of you come to give it!}And yet, they never see any of it!
 Dialogue: 25,0:17:44.41,0:17:46.58,Junketsu,,0,0,0,,{That's why I'm the one\Ntrying to do all the saving!}That's why I'm the one trying to do the saving here!
 Dialogue: 25,0:17:49.38,0:17:54.17,Junketsu,,0,0,0,,{Two hills beyond here, a village\Nis being marauded by bandits.}There's a village two hills beyond here being pillaged at this very moment.
 Dialogue: 25,0:17:54.93,0:17:57.30,Junketsu,,0,0,0,,In the far east, a fortress is under siege.
-Dialogue: 25,0:17:57.78,0:18:00.84,Junketsu,,0,0,0,,{and in the city to the north,}And in the city to the north,
-Dialogue: 25,0:18:00.84,0:18:04.18,Junketsu,,0,0,0,,{eight innocents were burned at the\Nstake by the church of this world.}eight innocents were just burned at the stake by the the church of earth.
+Dialogue: 25,0:17:57.78,0:18:00.84,Junketsu,,0,0,0,,{and in the city to the north,}And in {the}a city to the north,
+Dialogue: 25,0:18:00.84,0:18:04.18,Junketsu,,0,0,0,,{eight innocents were burned at the\Nstake by the church of this world.}eight innocents were just burned at the stake by the the Church of earth.
 Dialogue: 25,0:18:04.68,0:18:06.44,Junketsu,,0,0,0,,{Why do you not save them?}Why didn't you save them?
 Dialogue: 25,0:18:07.44,0:18:08.97,Junketsu,,0,0,0,,You do it!
-Dialogue: 25,0:18:08.97,0:18:10.81,Junketsu,,0,0,0,,Isn't that what the church\Nof the heavens is for!?
-Dialogue: 25,0:18:11.11,0:18:14.28,Junketsu,,0,0,0,,The church of the heavens\Nkeeps watch over the world.
+Dialogue: 25,0:18:08.97,0:18:10.81,Junketsu,,0,0,0,,Isn't that what the Church of the heavens is for!?
+Dialogue: 25,0:18:10.81,0:18:14.28,Junketsu,,0,0,0,,The Church of the heavens keeps watch over the world.
 Dialogue: 25,0:18:14.28,0:18:18.70,Junketsu,,0,0,0,,We stop those like yourself to maintain order.
 Dialogue: 25,0:18:19.93,0:18:22.89,Junketsu,,0,0,0,,{Mercenaries attacking cities is\Nthe natural law of this world}So mercenaries attacking cities is the natural law of the world,
 Dialogue: 25,0:18:23.30,0:18:26.66,Junketsu,,0,0,0,,{and me stopping that disrupts order?}{and me, the one stopping that, is the one disrupting order?}and I, by stopping them, am the one disrupting order?
@@ -379,24 +380,24 @@ Dialogue: 25,0:18:37.12,0:18:40.01,Junketsu,,0,0,0,,{They're the only ones blind
 Dialogue: 25,0:18:48.27,0:18:52.27,Junketsu,,0,0,0,,Ah! Damn nag! I pulled a muscle!
 Dialogue: 25,0:18:53.82,0:18:56.82,Junketsu,,0,0,0,,{Is anyone around!? Get me up!}Anyone around!? Help me up!
 Dialogue: 25,0:18:56.82,0:18:59.74,Junketsu,,0,0,0,,Will you blind the eyes of the villagers next?
-Dialogue: 25,0:19:01.62,0:19:03.00,Junketsu,,0,0,0,,Halt, everyone!
-Dialogue: 25,0:19:03.69,0:19:06.91,Junketsu,,0,0,0,,{Those blinded will not\Nbe able to see for awhile!}{thanks funi, blind people can't see}{Those who were blinded will stay that way for awhile!}Those who were blinded will be no threat to you for a while!{Those who were blinded will stay that way for a while!}
+Dialogue: 25,0:19:01.62,0:19:03.41,Junketsu,,0,0,0,,Halt, everyone!
+Dialogue: 25,0:19:03.41,0:19:06.91,Junketsu,,0,0,0,,{Those blinded will not\Nbe able to see for awhile!}{thanks funi, blind people can't see}{Those who were blinded will stay that way for awhile!}Those who were blinded will be no threat to you {for a while!}{Those who were blinded will stay that way for a while!}any longer!{<<itsP}
 Dialogue: 25,0:19:06.91,0:19:09.89,Junketsu,,0,0,0,,{Bind their hands and feet,\Nand remove them to afar!}Bind their hands and feet, and haul them far away!
 Dialogue: 25,0:19:09.89,0:19:11.94,Junketsu,,0,0,0,,{Do not mar yourself with meaningless sins!}You shouldn't taint yourself with meaningless sins!
 Dialogue: 25,0:19:11.94,0:19:16.38,Junketsu,,0,0,0,,When their eyes heal,\N they will likely attack another village.
-Dialogue: 25,0:19:19.26,0:19:21.03,Junketsu,,0,0,0,,Maria left?
+Dialogue: 25,0:19:19.17,0:19:21.03,Junketsu,,0,0,0,,Maria left?
 Dialogue: 25,0:19:21.79,0:19:23.22,Junketsu,,0,0,0,,Men of the village...
 Dialogue: 25,0:19:23.22,0:19:26.43,Junketsu,,0,0,0,,{Let us listen to Maria,\Nand throw down our arms.}Let us listen to Maria, and drop our weapons!
-Dialogue: 25,0:19:26.78,0:19:29.10,Junketsu,,0,0,0,,The prayers of people are not requests
+Dialogue: 25,0:19:26.43,0:19:29.10,Junketsu,,0,0,0,,The prayers of people are not requests
 Dialogue: 25,0:19:29.10,0:19:30.65,Junketsu,,0,0,0,,nor are they commands.
 Dialogue: 25,0:19:30.65,0:19:32.72,Junketsu,,0,0,0,,{All are actions of the world....}{They are all just actions of this world}They are all just actions of this world,
 Dialogue: 25,0:19:32.72,0:19:34.94,Junketsu,,0,0,0,,{The heavens do not mediate in such matters.}and the heavens do{es} not meddle in such affairs.
 Dialogue: 25,0:19:37.25,0:19:42.07,Junketsu,,0,0,0,,{You simply cannot bear seeing\Nwhat you hate in front of you.}You, on the other hand, cannot bear the idea of keeping quiet when you despise something.
 Dialogue: 25,0:19:42.53,0:19:45.33,Junketsu,,0,0,0,,{That brings disorder to\Nthe natural law of this world.}That disrupts the natural order of this world.
-Dialogue: 25,0:19:45.58,0:19:47.20,Junketsu,,0,0,0,split,You're not convincing me!{You can't change my mind!}
+Dialogue: 25,0:19:45.33,0:19:47.20,Junketsu,,0,0,0,split,You're not convincing me!{You can't change my mind!}
 Dialogue: 25,0:19:47.20,0:19:49.32,Junketsu,,0,0,0,,What's wrong with that as my reason!?{My motives/reasons are good!}
 Dialogue: 25,0:19:49.32,0:19:52.12,Junketsu,,0,0,0,,If everyone did that,\N there would be no fighting in this world!
-Dialogue: 25,0:19:52.37,0:19:53.55,Junketsu,,0,0,0,,Everyone?
+Dialogue: 25,0:19:52.12,0:19:53.55,Junketsu,,0,0,0,,Everyone?
 Dialogue: 25,0:19:53.55,0:19:55.88,Junketsu,,0,0,0,,{That is called arrogance, witch.}That's just arrogance, witch.
 Dialogue: 25,0:19:55.88,0:19:58.22,Junketsu,,0,0,0,,Yes, I'm a witch.
 Dialogue: 25,0:19:58.22,0:20:00.30,Junketsu,,0,0,0,,{I don't need to be preached to by an angel!}I don't need a sermon from an angel!
@@ -410,7 +411,7 @@ Dialogue: 25,0:20:26.82,0:20:29.07,Junketsu,,0,0,0,,Maria went home to the fores
 Dialogue: 25,0:20:29.54,0:20:30.80,Junketsu,,0,0,0,,Who are you!?
 Dialogue: 25,0:20:30.80,0:20:33.17,Junketsu,,0,0,0,,{I am a servant of the lord of this land!}I am a servant to the lord of this land!
 Dialogue: 25,0:20:34.14,0:20:35.63,Junketsu,,0,0,0,,{Ah, he's the one that was at Maria's place.}Ah, he's that guy who was at Maria's home.
-Dialogue: 25,0:20:35.91,0:20:40.06,Junketsu,,0,0,0,,{While heading to the forest, I saw smoke\Nfrom the village, so I came to assist.}I was heading to the forest, \Nbut I saw the smoke and came here to help.
+Dialogue: 25,0:20:35.63,0:20:40.06,Junketsu,,0,0,0,,{While heading to the forest, I saw smoke\Nfrom the village, so I came to assist.}I was heading to the forest, \Nbut I saw the smoke and came here to help.
 Dialogue: 25,0:20:40.63,0:20:43.47,Junketsu,,0,0,0,split,{I saw lightning and light, but is\Nthe witch, Lady Maria, here?}I saw{ the} flashes of light and{ the} lightning.
 Dialogue: 25,0:20:43.47,0:20:45.68,Junketsu,,0,0,0,,Does that mean Lady Maria is here?
 Dialogue: 25,0:20:46.11,0:20:47.14,Junketsu,,0,0,0,,Joseph!
@@ -436,10 +437,10 @@ Dialogue: 25,0:21:44.38,0:21:46.03,Junketsu,,0,0,0,,Please let Maria go!
 Dialogue: 25,0:21:46.73,0:21:48.19,Junketsu,,0,0,0,,{Familiars...}Familiars,
 Dialogue: 25,0:21:48.19,0:21:50.78,Junketsu,,0,0,0,,{This is what the witch, Maria, desires...}this is what this witch, Maria, desires—
 Dialogue: 25,0:21:53.50,0:21:54.60,Junketsu,,0,0,0,,Maria!
-Dialogue: 25,0:21:55.04,0:21:56.40,Junketsu,,0,0,0,,Let go of Lady Maria!
+Dialogue: 25,0:21:55.04,0:21:56.80,Junketsu,,0,0,0,,Let go of Lady Maria!
 Dialogue: 25,0:21:56.80,0:21:57.70,Junketsu,,0,0,0,,Next...
 Dialogue: 25,0:21:59.14,0:22:00.49,Junketsu,,0,0,0,,I'll aim for your head!
-Dialogue: 25,0:23:33.07,0:23:35.39,Junketsu,,0,0,10,,{\an8}{I'm with the church of the heavens.}The church of the heavens sent me.
+Dialogue: 25,0:23:33.07,0:23:35.39,Junketsu,,0,0,10,,{\an8}{I'm with the church of the heavens.}The Church of the heavens sent me.
 Dialogue: 25,0:23:35.39,0:23:38.55,Junketsu,,0,0,10,,{\an8}From what I heard, Archangel Michael...
 Dialogue: 25,0:23:38.55,0:23:40.44,Junketsu,,0,0,10,,{\an8}{All are in futility...}It'll all be futile...
 Dialogue: 25,0:23:41.36,0:23:43.28,Junketsu,,0,0,10,,{\an8}May your sins be absolved.
