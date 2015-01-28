@@ -15,8 +15,8 @@ Video File: 02 [609ABCAB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 357
-Active Line: 371
+Scroll Position: 351
+Active Line: 402
 Video Position: 29590
 
 [V4+ Styles]
@@ -81,7 +81,7 @@ Dialogue: 25,0:03:16.05,0:03:19.61,Junketsu,,0,0,0,,It seems confusion arose amo
 Dialogue: 25,0:03:19.61,0:03:25.43,Junketsu,,0,0,0,,Their leadership seems to be driveling on about some Artemis as if taken by black magic.
 Dialogue: 25,0:03:25.43,0:03:28.93,Junketsu,,0,0,0,,Artemis? You mean Diana of Rome?
 Dialogue: 25,0:03:28.93,0:03:30.34,Junketsu,,0,0,0,,It's Maria!
-Dialogue: 25,0:03:30.82,0:03:33.44,Junketsu,,0,0,0,,Does the merchant leader know something?
+Dialogue: 25,0:03:30.82,0:03:33.44,Junketsu,,0,0,0,,Do you know something about this, Master Merchant?
 Dialogue: 25,0:03:33.44,0:03:36.87,Junketsu,,0,0,0,,Maria is a witch who lives around here.
 Dialogue: 25,0:03:36.87,0:03:40.15,Junketsu,,0,0,0,,This is the work of Maria's familiar, a succubus!
 Dialogue: 25,0:03:40.15,0:03:42.69,Junketsu,,0,0,0,,Wait, her name is Maria?
@@ -317,7 +317,7 @@ Dialogue: 25,0:15:05.84,0:15:07.01,Junketsu,,0,0,0,,Mother!
 Dialogue: 25,0:15:07.01,0:15:09.20,Junketsu,,0,0,0,,It's fine. Everything will be okay.
 Dialogue: 25,0:15:09.20,0:15:11.34,Junketsu,,0,0,0,,The bishop will do something about this.
 Dialogue: 25,0:15:13.10,0:15:17.81,Junketsu,,0,0,0,,Ch-Chief! M-My load's been brewin' so long it hurts! Please!
-Dialogue: 25,0:15:20.27,0:15:21.56,Junketsu,,0,0,0,,Take your pick.
+Dialogue: 25,0:15:20.27,0:15:21.56,Junketsu,,0,0,0,,Do what you want.
 Dialogue: 25,0:15:21.56,0:15:26.32,Junketsu,,0,0,0,,Yeah! Chief gave us the go! We can have the girls!
 Dialogue: 25,0:15:26.32,0:15:30.15,Junketsu,,0,0,0,,Hey! This is all of 'em in the village, right!?
 Dialogue: 25,0:15:30.15,0:15:31.57,Junketsu,,0,0,0,,Wh-What!?
@@ -410,7 +410,7 @@ Dialogue: 25,0:19:52.12,0:19:53.55,Junketsu,,0,0,0,,Everyone?
 Dialogue: 25,0:19:53.55,0:19:55.88,Junketsu,,0,0,0,,That is just arrogance, witch.
 Dialogue: 25,0:19:55.88,0:19:58.22,Junketsu,,0,0,0,,That's right, I'm a witch.
 Dialogue: 25,0:19:58.22,0:20:00.30,Junketsu,,0,0,0,,I don't need a sermon from an angel!
-Dialogue: 25,0:20:02.30,0:20:04.30,Junketsu,,0,0,0,,Archangel Michael...
+Dialogue: 25,0:20:02.30,0:20:04.30,Junketsu,,0,0,0,,Michael the Archangel...
 Dialogue: 25,0:20:05.23,0:20:06.81,Junketsu,,0,0,0,,Here goes nothing.
 Dialogue: 25,0:20:11.81,0:20:13.61,Junketsu,,0,0,0,,Winds of Nerthus!
 Dialogue: 25,0:20:18.57,0:20:21.03,Junketsu,,0,0,0,,Let me go, you scum!
@@ -443,14 +443,14 @@ Dialogue: 25,0:21:40.61,0:21:42.61,Junketsu,,0,0,0,,I see. Well, then...
 Dialogue: 25,0:21:42.61,0:21:44.38,Junketsu,,0,0,0,,Michael! Wait a moment!
 Dialogue: 25,0:21:44.38,0:21:46.03,Junketsu,,0,0,0,,Please let Maria go!
 Dialogue: 25,0:21:46.73,0:21:48.19,Junketsu,,0,0,0,,Familiars,
-Dialogue: 25,0:21:48.19,0:21:50.78,Junketsu,,0,0,0,,this is what this witch, Maria, desires—
+Dialogue: 25,0:21:48.19,0:21:50.78,Junketsu,,0,0,0,,this is what the witch, Maria, desires—
 Dialogue: 25,0:21:53.50,0:21:54.60,Junketsu,,0,0,0,,Maria!
 Dialogue: 25,0:21:55.04,0:21:56.80,Junketsu,,0,0,0,,Let go of Lady Maria!
 Dialogue: 25,0:21:56.80,0:21:57.70,Junketsu,,0,0,0,,Next...
 Dialogue: 25,0:21:59.14,0:22:00.49,Junketsu,,0,0,0,,I'll aim for your head!
-Dialogue: 25,0:23:33.07,0:23:35.39,Junketsu,,0,0,10,,{\an8}I was sent here from Heaven.
-Dialogue: 25,0:23:35.39,0:23:38.55,Junketsu,,0,0,10,,{\an8}From what I heard, Archangel Michael...
-Dialogue: 25,0:23:38.55,0:23:40.44,Junketsu,,0,0,10,,{\an8}It'll all be futile...
+Dialogue: 25,0:23:33.07,0:23:35.39,Junketsu,,0,0,10,,{\an8}I'm a divine entity.
+Dialogue: 25,0:23:35.39,0:23:38.55,Junketsu,,0,0,10,,{\an8}From what I heard, the Archangel Michael—
+Dialogue: 25,0:23:38.55,0:23:40.44,Junketsu,,0,0,10,,{\an8}All efforts to stop this are futile.
 Dialogue: 25,0:23:41.36,0:23:43.28,Junketsu,,0,0,10,,{\an8}May your sins be absolved.
 Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,,This line separates the pain from the pleasure
 Comment: 0,0:00:33.01,0:00:33.05,Default,,0,0,0,START FRAME,OP START FRAME
