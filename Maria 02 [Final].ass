@@ -15,8 +15,8 @@ Video File: 02 [609ABCAB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 351
-Active Line: 402
+Scroll Position: 294
+Active Line: 348
 Video Position: 29590
 
 [V4+ Styles]
@@ -66,7 +66,7 @@ Dialogue: 25,0:02:24.20,0:02:25.58,Junketsu,,0,0,0,,Artemis...
 Dialogue: 25,0:02:26.38,0:02:27.75,Junketsu,,0,0,0,,I beg of you,
 Dialogue: 25,0:02:27.75,0:02:30.17,Junketsu,,0,0,0,,spend the night with me.
 Dialogue: 25,0:02:30.17,0:02:32.99,Junketsu,,0,0,0,,You'll be calling your forces to attack
-Dialogue: 25,0:02:32.99,0:02:36.55,Junketsu,,0,0,0,,the french army across that bridge tomorrow, right?
+Dialogue: 25,0:02:32.99,0:02:36.55,Junketsu,,0,0,0,,the French army across that bridge tomorrow, right?
 Dialogue: 25,0:02:36.55,0:02:40.48,Junketsu,,0,0,0,,You're the honorable Fastolf, Knight of England,
 Dialogue: 25,0:02:40.48,0:02:42.97,Junketsu,,0,0,0,,yet here you are, yearning for a woman on such an important night.
 Dialogue: 25,0:02:42.97,0:02:46.34,Junketsu,,0,0,0,,I don't give a damn about England or the Roman Catholic Church!
@@ -107,10 +107,10 @@ Dialogue: 25,0:04:33.62,0:04:35.63,Junketsu,,0,0,0,,So, this is for you!
 Dialogue: 25,0:04:35.63,0:04:36.95,Junketsu,,0,0,0,,For me?
 Dialogue: 25,0:04:36.95,0:04:38.30,Junketsu,,0,0,0,,Yes, for you!
 Dialogue: 25,0:04:48.64,0:04:49.64,Junketsu,,0,0,0,,What?
-Dialogue: 25,0:04:51.64,0:04:53.76,Junketsu,,0,0,0,,I got it at mass.
+Dialogue: 25,0:04:51.64,0:04:53.76,Junketsu,,0,0,0,,I got it at Mass.
 Dialogue: 25,0:04:53.76,0:04:57.33,Junketsu,,0,0,0,,They told me this bread is Jesus' body!
 Dialogue: 25,0:04:57.33,0:04:58.52,Junketsu,,0,0,0,,Why don't you attend, Maria?
-Dialogue: 25,0:04:58.52,0:05:00.78,Junketsu,,0,0,0,,No thanks. I hate mass.
+Dialogue: 25,0:04:58.52,0:05:00.78,Junketsu,,0,0,0,,No thanks. I hate Mass.
 Dialogue: 25,0:05:00.78,0:05:04.61,Junketsu,,0,0,0,,You know, I {\i1}really{\fsp3} {\r}like Saint Margaret!
 Dialogue: 25,0:05:04.61,0:05:06.11,Junketsu,,0,0,0,,Do you want me to tell you about her?
 Dialogue: 25,0:05:06.11,0:05:07.12,Junketsu,,0,0,0,,No thanks.
@@ -119,8 +119,8 @@ Dialogue: 25,0:05:11.15,0:05:12.93,Junketsu,,0,0,0,,Does that mean you like Sain
 Dialogue: 25,0:05:12.93,0:05:13.93,Junketsu,,0,0,0,,I hate him.
 Dialogue: 25,0:05:13.93,0:05:15.87,Junketsu,,0,0,0,,They say he's scary, too.
 Dialogue: 25,0:05:17.08,0:05:21.38,Junketsu,,0,0,0,,But Saint Michael is always protecting us, \Nno matter where we are.
-Dialogue: 25,0:05:21.38,0:05:23.87,Junketsu,,0,0,0,,He's not protecting anyone, he's just keeping watch.
-Dialogue: 25,0:05:24.49,0:05:28.84,Junketsu,,0,0,0,,You know, a kid like you shouldn't\Nbe coming to a place like this.
+Dialogue: 25,0:05:21.38,0:05:23.87,Junketsu,,0,0,0,,He's not protecting anyone. He's just keeping watch.
+Dialogue: 25,0:05:24.49,0:05:28.84,Junketsu,,0,0,0,,You know, a kid like you shouldn't\Nbe in{coming to} a place like this.
 Dialogue: 25,0:05:29.41,0:05:30.05,Junketsu,,0,0,0,,Besides,
 Dialogue: 25,0:05:30.05,0:05:32.22,Junketsu,,0,0,0,,no matter how much you pray,\N
 Dialogue: 25,0:05:32.22,0:05:35.89,Junketsu,,0,0,0,,the angels won't protect you from bandits or wolves.
@@ -225,7 +225,7 @@ Dialogue: 25,0:10:07.12,0:10:12.22,Junketsu,,0,0,0,,In the name of His Majesty,\
 Dialogue: 25,0:10:12.22,0:10:14.13,Junketsu,,0,0,0,,we shall destroy the enemy!
 Dialogue: 25,0:10:15.24,0:10:19.13,Junketsu,,0,0,0,,England might not have the military might, but they have the benefit of this mist.
 Dialogue: 25,0:10:19.50,0:10:23.14,Junketsu,,0,0,0,,If they can maintain this shrewd approach, their surprise attack may prove successful.
-Dialogue: 25,0:10:23.55,0:10:28.62,Junketsu,,0,0,0,,Either way, we valkyries will be leading the perished to Valhalla.
+Dialogue: 25,0:10:23.55,0:10:28.62,Junketsu,,0,0,0,,Either way, we valkyries will be leading the fallen to Valhalla.
 Dialogue: 25,0:10:28.62,0:10:29.14,Junketsu,,0,0,0,,Hm?
 Dialogue: 25,0:10:32.10,0:10:33.77,Junketsu,,0,0,0,,Wh-What's that!?
 Dialogue: 25,0:10:35.28,0:10:36.65,Junketsu,,0,0,0,,I-It's a cyclops!
@@ -243,7 +243,7 @@ Dialogue: 25,0:11:03.59,0:11:05.09,Junketsu,,0,0,0,,That witch again, I see.
 Dialogue: 25,0:11:05.09,0:11:07.56,Junketsu,,0,0,0,,She really is something, summoning a cyclops.
 Dialogue: 25,0:11:08.93,0:11:12.56,Junketsu,,0,0,0,,Let's see how much longer she'll get away with that selfishness.
 Dialogue: 25,0:11:16.07,0:11:17.40,Junketsu,,0,0,0,,It's so cold.
-Dialogue: 25,0:11:17.40,0:11:21.49,Junketsu,,0,0,0,,Fighting all day and working all night, \Nyou'll kill me at this rate.
+Dialogue: 25,0:11:17.40,0:11:21.49,Junketsu,,0,0,0,,Fighting all day and working all night... \Nyou'll kill me at this rate.
 Dialogue: 25,0:11:21.49,0:11:23.42,Junketsu,,0,0,0,,Tell that to Priapus.
 Dialogue: 25,0:11:23.42,0:11:25.41,Junketsu,,0,0,0,,He's adamant about doing this.
 Dialogue: 25,0:11:25.41,0:11:29.01,Junketsu,,0,0,0,,I'll show you how good I am as an incubus.
@@ -295,14 +295,14 @@ Dialogue: 25,0:13:41.30,0:13:42.59,Junketsu,,0,0,0,,Michael?
 Dialogue: 25,0:13:43.05,0:13:44.86,Junketsu,,0,0,0,,That must've been a warning.
 Dialogue: 25,0:13:44.86,0:13:45.88,Junketsu,,0,0,0,,Come on!
 Dialogue: 25,0:13:47.05,0:13:51.06,Junketsu,,0,0,0,,I was looking forward to working as an incubus, too...
-Dialogue: 25,0:13:57.35,0:14:00.14,Junketsu,,0,0,0,,Of everyone, it had to be the Archangel.
+Dialogue: 25,0:13:57.35,0:14:00.14,Junketsu,,0,0,0,,Of everyone, it had to be the archangel.
 Dialogue: 25,0:14:00.14,0:14:02.02,Junketsu,,0,0,0,,You've been attracting too much attention.
 Dialogue: 25,0:14:02.02,0:14:04.90,Junketsu,,0,0,0,,I just hate fighting, that's all!
 Dialogue: 25,0:14:04.90,0:14:05.70,Junketsu,,0,0,0,,Maria?
 Dialogue: 25,0:14:05.70,0:14:06.55,Junketsu,,0,0,0,,What?
 Dialogue: 25,0:14:06.55,0:14:09.03,Junketsu,,0,0,0,,It looks like Martha and Anne's village is on fire.
 Dialogue: 25,0:14:14.54,0:14:18.42,Junketsu,,0,0,0,,Famished mercenaries turned marauders, it seems.
-Dialogue: 25,0:14:20.59,0:14:23.13,Junketsu,,0,0,0,,How dare they do this in the realm of the witch Maria!
+Dialogue: 25,0:14:20.59,0:14:23.13,Junketsu,,0,0,0,,How dare they do this in the realm of the witch Maria!?
 Dialogue: 25,0:14:25.01,0:14:27.34,Junketsu,,0,0,0,,Uh, are you sure this is wise?
 Dialogue: 25,0:14:27.34,0:14:30.84,Junketsu,,0,0,0,,You received a warning from\N Archangel\hMichael just a moment ago.
 Dialogue: 25,0:14:33.68,0:14:36.08,Junketsu,,0,0,0,,{\i1}The world is such a beautiful place.
@@ -338,7 +338,7 @@ Dialogue: 25,0:16:06.93,0:16:08.73,Junketsu,,0,0,0,,Foolish marauders!
 Dialogue: 25,0:16:09.52,0:16:11.24,Junketsu,,0,0,0,,You shall pay for your sins!
 Dialogue: 25,0:16:12.86,0:16:14.62,Junketsu,,0,0,0,,Who the hell are you!?
 Dialogue: 25,0:16:15.47,0:16:17.62,Junketsu,,0,0,0,,M-Maria, is that you?
-Dialogue: 25,0:16:18.36,0:16:21.78,Junketsu,,0,0,0,,Let fear beset you, so you never lay siege to this village again!
+Dialogue: 25,0:16:18.36,0:16:21.78,Junketsu,,0,0,0,,Let fear beset you so you never lay siege to this village again!
 Dialogue: 25,0:16:23.08,0:16:24.37,Junketsu,,0,0,0,,Taranis!
 Dialogue: 25,0:16:24.37,0:16:28.49,Junketsu,,0,0,0,,Drive forth from this well with your wheel, and, with the thunderbolt you hurl,
 Dialogue: 25,0:16:28.49,0:16:31.47,Junketsu,,0,0,0,,burn the tainted eyes of those armed!
@@ -365,7 +365,7 @@ Dialogue: 25,0:17:31.81,0:17:34.15,Junketsu,,0,0,0,,Is that... Saint Michael?
 Dialogue: 25,0:17:34.15,0:17:34.74,Junketsu,,0,0,0,,Huh?
 Dialogue: 25,0:17:36.03,0:17:37.74,Junketsu,,0,0,0,,You're all cowards!
 Dialogue: 25,0:17:37.74,0:17:41.12,Junketsu,,0,0,0,,There are people all around the world praying for salvation!
-Dialogue: 25,0:17:41.12,0:17:44.41,Junketsu,,0,0,0,,And yet, their prayers never get answered!
+Dialogue: 25,0:17:41.12,0:17:44.41,Junketsu,,0,0,0,,And yet their prayers never get answered!
 Dialogue: 25,0:17:44.41,0:17:46.58,Junketsu,,0,0,0,,That's why I'm the one trying to do the saving here!
 Dialogue: 25,0:17:49.38,0:17:54.17,Junketsu,,0,0,0,,There's a village two hills beyond here being pillaged at this very moment.
 Dialogue: 25,0:17:54.93,0:17:57.30,Junketsu,,0,0,0,,In the far east, a fortress is under siege.
@@ -396,7 +396,7 @@ Dialogue: 25,0:19:09.89,0:19:11.94,Junketsu,,0,0,0,,Don't taint yourself with me
 Dialogue: 25,0:19:11.94,0:19:16.38,Junketsu,,0,0,0,,When their eyes heal,\N they will likely attack another village.
 Dialogue: 25,0:19:19.17,0:19:21.03,Junketsu,,0,0,0,,Maria left?
 Dialogue: 25,0:19:21.79,0:19:23.22,Junketsu,,0,0,0,,Men of the village...
-Dialogue: 25,0:19:23.22,0:19:26.43,Junketsu,,0,0,0,,Let us listen to Maria, and drop our weapons!
+Dialogue: 25,0:19:23.22,0:19:26.43,Junketsu,,0,0,0,,Let us listen to Maria and drop our weapons!
 Dialogue: 25,0:19:26.43,0:19:29.10,Junketsu,,0,0,0,,The prayers of people are not requests,
 Dialogue: 25,0:19:29.10,0:19:30.65,Junketsu,,0,0,0,,nor are they commands.
 Dialogue: 25,0:19:30.65,0:19:32.72,Junketsu,,0,0,0,,They are but the concerns of men,

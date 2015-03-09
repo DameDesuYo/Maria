@@ -17,8 +17,8 @@ Video File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/01/01 [12A303F6].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 357
-Active Line: 382
+Scroll Position: 301
+Active Line: 363
 Video Position: 34064
 
 [V4+ Styles]
@@ -172,7 +172,7 @@ Dialogue: 25,0:07:04.97,0:07:06.30,Junketsu,,0,0,0,,About that...
 Dialogue: 25,0:07:06.30,0:07:07.07,Junketsu,,0,0,0,,What?
 Dialogue: 25,0:07:07.50,0:07:10.34,Junketsu,,0,0,0,,As of today, my duties as my lord's messenger are over.
 Dialogue: 25,0:07:10.34,0:07:12.95,Junketsu,,0,0,0,,I've been conscripted as a soldier to partake in the war.
-Dialogue: 25,0:07:13.96,0:07:19.59,Junketsu,,0,0,0,,I will go to regain control of England's position located up the Loire, for passage to Calais.
+Dialogue: 25,0:07:13.96,0:07:19.59,Junketsu,,0,0,0,,I will go to regain control of England's position located up the Loire for passage to Calais.
 Dialogue: 25,0:07:21.95,0:07:27.03,Junketsu,,0,0,0,,A brat like you, who doesn't know a thing about girls,\N is going to go off and fight in some stupid war?
 Dialogue: 25,0:07:27.03,0:07:27.96,Junketsu,,0,0,0,,You're an idiot.
 Dialogue: 25,0:07:28.49,0:07:30.71,Junketsu,,0,0,0,,It's my duty...
@@ -188,7 +188,7 @@ Dialogue: 25,0:08:05.34,0:08:06.50,Junketsu,,0,0,0,,Please forget that.
 Dialogue: 25,0:08:06.50,0:08:08.00,Junketsu,,0,0,0,,Be careful.
 Dialogue: 25,0:08:08.62,0:08:12.95,Junketsu,,0,0,0,,Some of your superiors know that you've been coming to see me, right?
 Dialogue: 25,0:08:12.95,0:08:14.26,Junketsu,,0,0,0,,Well, yes.
-Dialogue: 25,0:08:14.26,0:08:17.00,Junketsu,,0,0,0,,At times people will sell others for their own sake.
+Dialogue: 25,0:08:14.26,0:08:17.00,Junketsu,,0,0,0,,Some people will sell out others for their own sake.
 Dialogue: 25,0:08:17.41,0:08:19.27,Junketsu,,0,0,0,,So if you are ever questioned,
 Dialogue: 25,0:08:19.81,0:08:23.21,Junketsu,,0,0,0,,tell the Church I manipulated you, in order to gain their forgiveness.
 Dialogue: 25,0:08:26.50,0:08:28.77,Junketsu,,0,0,0,,M-May I have the grace of your hand?
@@ -219,7 +219,7 @@ Dialogue: 25,0:09:56.72,0:09:59.32,Junketsu,,0,0,0,,Really, why you?
 Dialogue: 25,0:10:00.41,0:10:01.91,Junketsu,,0,0,0,,Why do you have to go to war?
 Dialogue: 25,0:10:02.29,0:10:03.55,Junketsu,,0,0,0,,It can't be helped.
 Dialogue: 25,0:10:03.95,0:10:06.59,Junketsu,,0,0,0,,I don't want to go, but this is still my duty.
-Dialogue: 25,0:10:06.59,0:10:08.70,Junketsu,,0,0,0,,If only we could afford to pay out your levy.
+Dialogue: 25,0:10:06.59,0:10:08.70,Junketsu,,0,0,0,,If only we could afford to buy out your levy.
 Dialogue: 25,0:10:09.29,0:10:11.63,Junketsu,,0,0,0,,If I survive, I'll be back soon.
 Dialogue: 25,0:10:11.63,0:10:13.34,Junketsu,,0,0,0,,Father!
 Dialogue: 25,0:10:14.51,0:10:16.42,Junketsu,,0,0,0,,I made this!
@@ -231,9 +231,9 @@ Dialogue: 25,0:10:27.02,0:10:31.89,Junketsu,,0,0,0,,I'll be fine! And Maria will
 Dialogue: 25,0:10:31.89,0:10:33.02,Junketsu,,0,0,0,,The Blessed Virgin?
 Dialogue: 25,0:10:33.35,0:10:34.92,Junketsu,,0,0,0,,No, the one in the forest.
 Dialogue: 25,0:10:34.92,0:10:38.25,Junketsu,,0,0,0,,She said she'll protect you with her magic!
-Dialogue: 25,0:10:39.54,0:10:42.46,Junketsu,,0,0,0,,Anne, that Maria in the forest, people call her a heretic.
+Dialogue: 25,0:10:39.54,0:10:42.46,Junketsu,,0,0,0,,Anne, that Maria in the forest—people call her a heretic.
 Dialogue: 25,0:10:42.46,0:10:44.64,Junketsu,,0,0,0,,You mustn't speak her name in public, you hear?
-Dialogue: 25,0:10:45.04,0:10:48.08,Junketsu,,0,0,0,,It would be a hassle, should the priests hear you.
+Dialogue: 25,0:10:45.04,0:10:48.08,Junketsu,,0,0,0,,It would be a hassle should the priests hear you.
 Dialogue: 25,0:10:50.14,0:10:53.21,Junketsu,,0,0,0,,But she said she would protect you...
 Dialogue: 25,0:10:53.21,0:10:56.26,Junketsu,,0,0,0,,Puny Britons! I'll crush them!
 Dialogue: 25,0:10:56.26,0:10:57.21,Junketsu,,0,0,0,,That's right!
@@ -274,7 +274,7 @@ Dialogue: 25,0:12:45.72,0:12:49.20,Junketsu,,0,0,0,,The name's Galfa.\N Make sur
 Dialogue: 25,0:12:49.20,0:12:50.19,Junketsu,,0,0,0,,Yes!
 Dialogue: 25,0:12:50.19,0:12:51.45,Junketsu,,0,0,0,,My name is Joseph!
 Dialogue: 25,0:12:52.34,0:12:54.56,Junketsu,,0,0,0,,Someone you know, Galfa?
-Dialogue: 25,0:12:54.56,0:12:57.23,Junketsu,,0,0,0,,More like, "someone I used to know."
+Dialogue: 25,0:12:54.56,0:12:57.23,Junketsu,,0,0,0,,More like "someone I used to know."
 Dialogue: 25,0:12:57.23,0:12:59.96,Junketsu,,0,0,0,,He's as good as dead out here.
 Dialogue: 25,0:13:10.36,0:13:12.54,Junketsu,,0,0,0,,Both sides seem to be pretty calm.
 Dialogue: 25,0:13:12.54,0:13:15.96,Junketsu,,0,0,0,,My succubus did pretty well, too.
@@ -353,9 +353,9 @@ Dialogue: 25,0:18:14.38,0:18:16.21,Junketsu,,0,0,0,,Say, who's coming?
 Dialogue: 25,0:18:16.21,0:18:17.80,Junketsu,,0,0,0,,Heed my warning!
 Dialogue: 25,0:18:17.80,0:18:18.49,Junketsu,,0,0,0,,Huh?
 Dialogue: 25,0:18:22.45,0:18:25.11,Junketsu,,0,0,0,,Heed my orders, soldiers of the battlefield.
-Dialogue: 25,0:18:25.11,0:18:27.04,Junketsu,,0,0,0,,All who are within my sight.
+Dialogue: 25,0:18:25.11,0:18:27.04,Junketsu,,0,0,0,,All who are within my sight,
 Dialogue: 25,0:18:27.62,0:18:28.54,Junketsu,,0,0,0,,Lady Maria...
-Dialogue: 25,0:18:28.54,0:18:30.29,Junketsu,,0,0,0,,Cease your fighting!
+Dialogue: 25,0:18:28.54,0:18:30.29,Junketsu,,0,0,0,,cease your fighting!
 Dialogue: 25,0:18:34.77,0:18:37.05,Junketsu,,0,0,0,,Ancient foe of Saint Marcel of Paris,
 Dialogue: 25,0:18:37.60,0:18:39.80,Junketsu,,0,0,0,,answer the call of the witch of the hearth
 Dialogue: 25,0:18:39.80,0:18:42.15,Junketsu,,0,0,0,,and appear before me now!

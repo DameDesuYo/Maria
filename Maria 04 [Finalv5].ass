@@ -17,8 +17,8 @@ Video File: 04 [E3E6878E].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 431
-Active Line: 434
+Scroll Position: 246
+Active Line: 301
 Video Position: 33875
 
 [V4+ Styles]
@@ -60,7 +60,7 @@ Comment: 0,0:11:35.79,0:11:35.84,Junketsu,chapter,0,0,0,,{Part B}
 Comment: 0,0:22:00.79,0:22:00.84,Junketsu,chapter,0,0,0,,{ED}
 Comment: 0,0:23:30.80,0:23:30.84,Junketsu,chapter,0,0,0,,{Preview}
 Dialogue: 21,0:00:00.99,0:00:05.92,Junketsu,,0,0,0,,{\an8\rsp}L{\r}ong ago, there was a witch\Nwho lived in the forest.
-Dialogue: 21,0:00:05.92,0:00:09.86,Junketsu,,0,0,0,,{\an8\rsp}S{\r}he intervened in the war between {\rsp}F{\r}rance and {\rsp}E{\r}ngland,
+Dialogue: 21,0:00:05.92,0:00:09.86,Junketsu,,0,0,0,,{\an8\rsp}S{\r}he intervened in the war between {\rsp}F{\r}rance and {\rsp}E{\r}ngland
 Dialogue: 21,0:00:09.86,0:00:12.26,Junketsu,,0,0,0,,{\an8}and used her power to end the bloodshed.
 Dialogue: 21,0:00:12.26,0:00:14.45,Junketsu,,0,0,0,,{\an8\rsp}A{\r}n unusual witch, indeed.
 Dialogue: 21,0:00:14.45,0:00:16.61,Junketsu,,0,0,0,,{\rsp}H{\r}er name was {\rsp}M{\r}aria.
@@ -153,7 +153,7 @@ Dialogue: 21,0:06:19.83,0:06:24.22,Junketsu,,0,0,0,,The next time you use magic 
 Dialogue: 21,0:06:24.22,0:06:25.86,Junketsu,,0,0,0,,About that...
 Dialogue: 21,0:06:26.75,0:06:30.56,Junketsu,,0,0,0,,If Maria loses her magic,\N what will become of us familiars?
 Dialogue: 21,0:06:30.56,0:06:32.27,Junketsu,,0,0,0,,I'm not entirely sure,
-Dialogue: 21,0:06:32.27,0:06:36.68,Junketsu,,0,0,0,,but natural law dictates that familiars without a witch return to their original form.
+Dialogue: 21,0:06:32.27,0:06:36.68,Junketsu,,0,0,0,,but natural law dictates that familiars without a witch return to their original forms.
 Dialogue: 21,0:06:36.68,0:06:40.75,Junketsu,,0,0,0,,What an inflexible world you folks strive for.
 Dialogue: 21,0:06:41.48,0:06:42.22,Junketsu,,0,0,0,,Maria?
 Comment: 21,0:06:42.22,0:06:43.11,Junketsu,,0,0,0,,Huh?
@@ -257,7 +257,7 @@ Comment: 21,0:10:43.65,0:10:43.84,Junketsu,,0,0,0,,Hm?
 Comment: 21,0:00:00.00,0:00:00.00,Junketsu,,0,0,0,,Huh?
 Dialogue: 21,0:10:45.33,0:10:47.23,Junketsu,,0,0,0,,S-So cute!
 Dialogue: 21,0:10:47.23,0:10:48.37,Junketsu,,0,0,0,,Is he your familiar!?
-Dialogue: 21,0:10:48.37,0:10:51.25,Junketsu,,0,0,0,,Though I wouldn't exactly call him a night-prowler.
+Dialogue: 21,0:10:48.37,0:10:51.25,Junketsu,,0,0,0,,Though I wouldn't exactly call him a night prowler.
 Dialogue: 21,0:10:51.25,0:10:52.85,Junketsu,,0,0,0,,So he's a virgin!?
 Dialogue: 21,0:10:52.85,0:10:55.09,Junketsu,,0,0,0,,What timing! He will do nicely!
 Dialogue: 21,0:10:55.09,0:10:56.34,Junketsu,,0,0,0,,W-Wait!
@@ -354,7 +354,7 @@ Dialogue: 21,0:15:05.55,0:15:07.55,Junketsu,,0,0,0,,Sure thing!
 Dialogue: 21,0:15:10.05,0:15:12.05,Junketsu,,0,0,0,,Why do {\i1}I{\fsp4} {\r}have to go shopping!?
 Dialogue: 21,0:15:12.05,0:15:14.38,Junketsu,,0,0,0,,You're eating from our table too!
 Dialogue: 21,0:15:14.38,0:15:16.85,Junketsu,,0,0,0,,I'm supposed to be supervising Maria!
-Dialogue: 21,0:15:16.85,0:15:19.42,Junketsu,,0,0,0,,You're the cook, you shouldn't need me to tag along!
+Dialogue: 21,0:15:16.85,0:15:19.42,Junketsu,,0,0,0,,You're the cook! You shouldn't need me to tag along!
 Dialogue: 21,0:15:19.42,0:15:22.54,Junketsu,,0,0,0,,Maria needs time alone to think about things!
 Dialogue: 21,0:15:22.98,0:15:25.99,Junketsu,,0,0,0,,I doubt it! I've never seen her think!
 Dialogue: 21,0:15:26.61,0:15:28.99,Junketsu,,0,0,0,,Ah! Isn't that a village over there?

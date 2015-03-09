@@ -17,8 +17,7 @@ Video File: 03 [C12C253].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 306
-Active Line: 357
+Active Line: 49
 Video Position: 31577
 
 [V4+ Styles]
@@ -57,7 +56,7 @@ Comment: 0,0:10:38.95,0:10:38.99,Default,chapter,0,0,0,,{Part-B}
 Comment: 0,0:22:00.88,0:22:00.92,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:23:30.93,0:23:30.97,Default,chapter,0,0,0,,{Preview}
 Dialogue: 22,0:00:00.71,0:00:05.82,Junketsu,,0,0,0,,{\an8}Long ago, there was a witch\Nwho lived in the forest.
-Dialogue: 22,0:00:05.82,0:00:09.82,Junketsu,,0,0,0,,{\an8}She intervened in the war between France and England,
+Dialogue: 22,0:00:05.82,0:00:09.82,Junketsu,,0,0,0,,{\an8}She intervened in the war between France and England
 Dialogue: 22,0:00:09.82,0:00:12.70,Junketsu,,0,0,0,,{\an8}and used her power to end the bloodshed.
 Dialogue: 22,0:00:12.70,0:00:13.95,Junketsu,,0,0,0,,{\an8}An unusual witch, indeed.
 Dialogue: 22,0:00:14.72,0:00:17.00,Junketsu,,0,0,0,,Her name was Maria.
@@ -73,7 +72,7 @@ Dialogue: 22,0:00:36.89,0:00:38.39,Junketsu,,0,0,0,,Children of God...
 Dialogue: 22,0:00:38.80,0:00:40.72,Junketsu,,0,0,0,,your bolts cannot stop me.
 Dialogue: 22,0:00:41.03,0:00:42.92,Junketsu,,0,0,0,,Stop it, both of you.
 Dialogue: 22,0:00:42.92,0:00:44.69,Junketsu,,0,0,0,,Do you know who this is?
-Dialogue: 22,0:00:45.03,0:00:46.65,Junketsu,,0,0,0,,It's the Archangel Michael.
+Dialogue: 22,0:00:45.03,0:00:46.65,Junketsu,,0,0,0,,He's the Archangel Michael.
 Dialogue: 22,0:00:48.25,0:00:50.72,Junketsu,,0,0,0,,{\ko154}A-Archangel... {\ko93}Michael!?
 Dialogue: 22,0:02:30.25,0:02:32.53,Junketsu,,0,0,0,,S-Saint Michael...
 Dialogue: 22,0:02:36.72,0:02:39.55,Junketsu,,0,0,0,,{\an8}Your bewilderment reveals that you did not realize who I was.
@@ -81,11 +80,11 @@ Dialogue: 22,0:02:40.57,0:02:44.09,Junketsu,,0,0,0,,{\an8}God in the heavens, pl
 Dialogue: 22,0:02:44.77,0:02:46.24,Junketsu,,0,0,0,,{\an8}Children of God,
 Dialogue: 22,0:02:46.24,0:02:49.14,Junketsu,,0,0,0,,{\an8}why would you protect this witch, \Nwho hears not the Voice of Heaven?
 Dialogue: 22,0:02:49.14,0:02:53.15,Junketsu,,0,0,0,,{\an8}But, Saint Michael, Maria saved everyone!
-Dialogue: 22,0:02:53.45,0:02:55.90,Junketsu,,0,0,0,,She makes medicine for my grandmother,
+Dialogue: 22,0:02:53.45,0:02:55.90,Junketsu,,0,0,0,,She makes medicine for my grandmother
 Dialogue: 22,0:02:55.90,0:02:58.15,Junketsu,,0,0,0,,and protected my father in battle!
 Dialogue: 22,0:02:58.15,0:03:03.08,Junketsu,,0,0,0,,Saint Michael! I wouldn't be here if it wasn't for Lady Maria!
-Dialogue: 22,0:03:03.08,0:03:04.16,Junketsu,,0,0,0,,And I'm not the only one,
-Dialogue: 22,0:03:04.51,0:03:06.44,Junketsu,,0,0,0,,she's saved countless others too!
+Dialogue: 22,0:03:03.08,0:03:04.16,Junketsu,,0,0,0,,And I'm not the only one.
+Dialogue: 22,0:03:04.51,0:03:06.44,Junketsu,,0,0,0,,She's saved countless others too!
 Dialogue: 22,0:03:08.79,0:03:11.00,Junketsu,,0,0,0,,In order to uphold the natural order of this world,
 Dialogue: 22,0:03:11.00,0:03:14.17,Junketsu,,0,0,0,,the witch Maria must be punished.
 Dialogue: 22,0:03:14.17,0:03:15.59,Junketsu,,0,0,0,,Punished?
@@ -94,12 +93,12 @@ Dialogue: 22,0:03:20.17,0:03:21.34,Junketsu,,0,0,0,,Enough of this!
 Dialogue: 22,0:03:21.34,0:03:22.76,Junketsu,,0,0,0,,Anne, Joseph, run!
 Dialogue: 22,0:03:24.26,0:03:26.51,Junketsu,,0,0,0,,E-Even if that's the case...
 Dialogue: 22,0:03:27.66,0:03:30.94,Junketsu,,0,0,0,,I'll... draw my bow against an archangel!
-Dialogue: 22,0:03:31.20,0:03:33.19,Junketsu,,0,0,0,,As the Great Commandment says, "love thy neighbor"...
+Dialogue: 22,0:03:31.20,0:03:33.19,Junketsu,,0,0,0,,As the Great Commandments says, "love thy neighbor"...
 Dialogue: 22,0:03:33.69,0:03:34.86,Junketsu,,0,0,0,,We...
 Dialogue: 22,0:03:35.39,0:03:36.69,Junketsu,,0,0,0,,I...
 Dialogue: 22,0:03:36.69,0:03:38.94,Junketsu,,0,0,0,,love the witch Maria!
 Dialogue: 22,0:03:51.40,0:03:56.21,Junketsu,,0,0,0,,The heavens have let forth showers of blessing on this witch and the faithful alike.
-Dialogue: 22,0:03:57.00,0:04:00.21,Junketsu,,0,0,0,,The Lord of the Heavens has reached a decision.
+Dialogue: 22,0:03:57.00,0:04:00.21,Junketsu,,0,0,0,,The Lord of the heavens has reached a decision.
 Dialogue: 22,0:04:00.21,0:04:03.79,Junketsu,,0,0,0,,The witch Maria shall be granted clemency.
 Dialogue: 22,0:04:05.93,0:04:06.60,Junketsu,,0,0,0,,However,
 Dialogue: 22,0:04:06.60,0:04:12.56,Junketsu,,0,0,0,,under no circumstances may she use her magic in the presence of people.
@@ -135,7 +134,7 @@ Dialogue: 22,0:05:35.69,0:05:40.55,Junketsu,,0,0,0,,Simply put, if you believe t
 Dialogue: 22,0:05:40.55,0:05:44.04,Junketsu,,0,0,0,,then you should be prepared to sacrifice your happiness and pleasures to prove it.
 Dialogue: 22,0:05:44.04,0:05:45.40,Junketsu,,0,0,0,,Got it?
 Dialogue: 22,0:05:48.16,0:05:49.38,Junketsu,,0,0,0,,Wait a minute!
-Dialogue: 22,0:05:49.38,0:05:53.20,Junketsu,,0,0,0,,Are you saying that, if I lose my virginity, I'll lose my magic too!?
+Dialogue: 22,0:05:49.38,0:05:53.20,Junketsu,,0,0,0,,Are you saying that if I lose my virginity, I'll lose my magic too!?
 Dialogue: 22,0:05:53.20,0:05:54.41,Junketsu,,0,0,0,,Exactly.
 Dialogue: 22,0:05:54.41,0:05:55.83,Junketsu,,0,0,0,,Forget it!
 Dialogue: 22,0:05:55.83,0:05:58.86,Junketsu,,0,0,0,,If that's the case, then I'll never...
@@ -199,8 +198,8 @@ Dialogue: 22,0:08:23.28,0:08:25.60,Junketsu,,0,0,0,,More than a heretic, she's a
 Dialogue: 22,0:08:25.60,0:08:30.99,Junketsu,,0,0,0,,I know that, but the bishop\Nsaid that heretics are evil.
 Dialogue: 22,0:08:31.38,0:08:37.51,Junketsu,,0,0,0,,He said that a girl who has short hair or exposes her legs is probably a heretic.
 Dialogue: 22,0:08:37.51,0:08:39.54,Junketsu,,0,0,0,,So what about the dove over there, then?
-Dialogue: 22,0:08:39.80,0:08:42.10,Junketsu,,0,0,0,,I'm a divine entity,
-Dialogue: 22,0:08:42.10,0:08:45.17,Junketsu,,0,0,0,,the rules of this world don't apply to me.
+Dialogue: 22,0:08:39.80,0:08:42.10,Junketsu,,0,0,0,,I'm a divine entity.
+Dialogue: 22,0:08:42.10,0:08:45.17,Junketsu,,0,0,0,,The rules of this world don't apply to me.
 Dialogue: 22,0:08:45.17,0:08:47.82,Junketsu,,0,0,0,,So what happens if Maria goes into a city?
 Dialogue: 22,0:08:47.82,0:08:49.82,Junketsu,,0,0,0,,No matter how you look at it, she's a witch...
 Dialogue: 22,0:08:49.82,0:08:51.26,Junketsu,,0,0,0,,She'd be burned at the stake on sight.
@@ -290,7 +289,7 @@ Dialogue: 22,0:13:02.55,0:13:04.51,Junketsu,,0,0,0,,Witch... you say?
 Dialogue: 22,0:13:04.51,0:13:08.35,Junketsu,,0,0,0,,Yes. I received word she appeared on the battlefield again.
 Dialogue: 22,0:13:09.55,0:13:11.10,Junketsu,,0,0,0,,What shall we do?
 Dialogue: 22,0:13:11.38,0:13:14.85,Junketsu,,0,0,0,,{\q3}She has been quite the topic of controversy among the people lately.
-Dialogue: 22,0:13:14.85,0:13:17.65,Junketsu,,0,0,0,,{\q3}There have been requests to the church for it's opinion of her.
+Dialogue: 22,0:13:14.85,0:13:17.65,Junketsu,,0,0,0,,{\q3}There have been requests to the church for its opinion of her.
 Dialogue: 22,0:13:21.23,0:13:23.69,Junketsu,,0,0,0,,May God's blessing be with you.
 Dialogue: 22,0:13:24.08,0:13:26.12,Junketsu,,0,0,0,,Thank you very much.
 Dialogue: 22,0:13:26.12,0:13:28.87,Junketsu,,0,0,0,,The hearts of the people are being led astray.
@@ -322,7 +321,7 @@ Dialogue: 22,0:14:41.40,0:14:44.50,Junketsu,,0,0,0,,but if one does, I'll be sur
 Dialogue: 22,0:14:46.65,0:14:48.90,Junketsu,,0,0,0,,W-Whose side are you on?
 Dialogue: 22,0:14:50.07,0:14:52.99,Junketsu,,0,0,0,,I turned my bow against Saint Michael.
 Dialogue: 22,0:15:03.64,0:15:04.63,Junketsu,,0,0,0,,What's going on?
-Dialogue: 22,0:15:05.10,0:15:08.22,Junketsu,,0,0,0,,It looks like a hog is being judged for it's sins.
+Dialogue: 22,0:15:05.10,0:15:08.22,Junketsu,,0,0,0,,It looks like a hog is being judged for its sins.
 Dialogue: 22,0:15:08.22,0:15:12.60,Junketsu,,0,0,0,,It is clear that this beast mercilessly trampled a person to death.
 Dialogue: 22,0:15:12.60,0:15:15.97,Junketsu,,0,0,0,,This court, with God's blessing, \Nshall now pass judgment.
 Dialogue: 22,0:15:17.98,0:15:19.06,Junketsu,,0,0,0,,Guilty!
@@ -399,7 +398,7 @@ Dialogue: 22,0:18:54.21,0:18:54.78,Junketsu,,0,0,0,,Yes?
 Dialogue: 22,0:18:55.30,0:18:59.61,Junketsu,,0,0,0,,Notify the bishop that I would\Nlike to make a confession of sin.
 Dialogue: 22,0:19:00.21,0:19:01.43,Junketsu,,0,0,0,,Understood.
 Dialogue: 22,0:19:01.94,0:19:05.19,Junketsu,,0,0,0,,I have exchanged words with an impure witch.
-Dialogue: 22,0:19:05.62,0:19:08.00,Junketsu,,0,0,0,,Ego Te Absolvo...
+Dialogue: 22,0:19:05.62,0:19:08.00,Junketsu,,0,0,0,,Ego te absolvo...
 Dialogue: 22,0:19:08.43,0:19:09.79,Junketsu,,0,0,0,,Witch Maria...
 Dialogue: 22,0:19:10.62,0:19:12.45,Junketsu,,0,0,0,,may your sins be absolved.
 Dialogue: 22,0:19:13.91,0:19:15.75,Junketsu,,0,0,0,,Lady Maria, how was it?
