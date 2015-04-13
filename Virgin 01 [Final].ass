@@ -11,15 +11,15 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Last Style Storage: Maria
+Last Style Storage: Default
 Audio File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/01/01 [12A303F6].mkv
 Video File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/01/01 [12A303F6].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 301
-Active Line: 363
-Video Position: 34064
+Video Zoom Percent: 0.875000
+Scroll Position: 354
+Active Line: 369
+Video Position: 30846
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,10 +27,10 @@ Style: Default,Arial,52,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,
 Style: Junketsu,BlackBullet-dialogue,56,&H00FFFFFF,&HFF000000,&H00180020,&H00000000,0,0,0,0,100,100,0.5,0,1,3,0,2,100,100,36,1
 Style: Signs,SubSymbol,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
-Style: Philosophy of Dear World - Romaji - Initial-furigana,Linux Biolinum,18.5,&H003C3C3C,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0.5,0,1,0,0,7,40,40,20,1
-Style: Philosophy of Dear World - Translation - Initial-furigana,Linux Biolinum,16.5,&H003C3C3C,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,1.2,0,1,0,0,7,40,40,57,1
 Style: Philosophy of Dear World - Translation - Initial,Linux Biolinum,33,&H003C3C3C,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,1.2,0,1,0,0,7,40,40,57,1
 Style: Philosophy of Dear World - Romaji - Initial,Linux Biolinum,37,&H003C3C3C,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0.5,0,1,0,0,7,40,40,20,1
+Style: Philosophy of Dear World - Romaji - Initial - Echo,Linux Biolinum,37,&H003C3C3C,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0.5,0,1,0,0,7,40,40,20,1
+Style: Philosophy of Dear World - Romaji - Initial - F_Echo,Linux Biolinum,37,&H003C3C3C,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0.5,0,1,0,0,7,40,40,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -64,12 +64,12 @@ Dialogue: 25,0:01:58.17,0:01:59.64,Junketsu,,0,0,0,,Go on and take it.
 Dialogue: 25,0:01:59.64,0:02:02.26,Junketsu,,0,0,0,,It's the usual medicinal concoction.
 Dialogue: 25,0:02:04.42,0:02:07.14,Junketsu,,0,0,0,,Maria, you really are a kind witch!
 Dialogue: 25,0:02:07.14,0:02:09.01,Junketsu,,0,0,0,,But I wonder why...
-Dialogue: 25,0:02:09.01,0:02:12.48,Junketsu,,0,0,0,,{\q3}the bishop said that witches are evil, indecent, and corrupt—
+Dialogue: 25,0:02:09.01,0:02:12.48,Junketsu,,0,0,0,,{\q3}the priest said that witches are evil, indecent, and corrupt—
 Dialogue: 25,0:02:12.48,0:02:13.52,Junketsu,,0,0,0,,Mind your manners, Anne!
 Dialogue: 25,0:02:13.92,0:02:15.30,Junketsu,,0,0,0,,I-I'm so sorry!
 Dialogue: 25,0:02:15.71,0:02:17.15,Junketsu,,0,0,0,,Don't worry about it.
 Dialogue: 25,0:02:17.15,0:02:22.63,Junketsu,,0,0,0,,Villages used to respect witches for our magic and medicines.
-Dialogue: 25,0:02:22.63,0:02:25.09,Junketsu,,0,0,0,,Now, about the bishop's words, let's see...
+Dialogue: 25,0:02:22.63,0:02:25.09,Junketsu,,0,0,0,,Now, about the priest's words, let's see...
 Dialogue: 25,0:02:25.09,0:02:28.93,Junketsu,,0,0,0,,The Roman Catholic Church isn't short on enemies, so...
 Dialogue: 25,0:02:28.93,0:02:29.85,Junketsu,,0,0,0,,Enemies?
 Dialogue: 25,0:02:29.85,0:02:33.01,Junketsu,,0,0,0,,I suppose you're too young to understand.
@@ -80,12 +80,12 @@ Dialogue: 25,0:02:38.76,0:02:41.64,Junketsu,,0,0,0,,Well, I could make Grandmoth
 Dialogue: 25,0:02:41.64,0:02:46.39,Junketsu,,0,0,0,,{\q3}and I could use magic to help my father when he's hurt.
 Dialogue: 25,0:02:46.39,0:02:49.16,Junketsu,,0,0,0,,Has something happened to your father?
 Dialogue: 25,0:02:49.16,0:02:52.10,Junketsu,,0,0,0,,Father is going to war.
-Dialogue: 25,0:02:53.36,0:02:57.81,Junketsu,,0,0,0,,By our Lord's decree, we have to send soldiers from our village.
+Dialogue: 25,0:02:53.36,0:02:57.81,Junketsu,,0,0,0,,By our lord's decree, we have to send soldiers from our village.
 Dialogue: 25,0:02:57.81,0:02:59.99,Junketsu,,0,0,0,,Father was chosen to be one of them.
 Dialogue: 25,0:03:00.79,0:03:03.88,Junketsu,,0,0,0,,People get hurt when they go to war, right?
 Dialogue: 25,0:03:03.88,0:03:05.71,Junketsu,,0,0,0,,But if I could use magic—
 Dialogue: 25,0:03:05.71,0:03:07.37,Junketsu,,0,0,0,,You're not fit for that.
-Dialogue: 25,0:03:08.46,0:03:11.98,Junketsu,,0,0,0,,After all, you are one of the church's sheep.
+Dialogue: 25,0:03:08.46,0:03:11.98,Junketsu,,0,0,0,,After all, you are one of the church's lambs.
 Dialogue: 25,0:03:11.98,0:03:16.00,Junketsu,,0,0,0,,Besides, magic isn't something that can simply be taught.
 Dialogue: 25,0:03:16.41,0:03:17.88,Junketsu,,0,0,0,,I see.
 Dialogue: 25,0:03:17.88,0:03:21.51,Junketsu,,0,0,0,,Therefore, I'll watch over him for you.
@@ -217,7 +217,7 @@ Dialogue: 25,0:09:51.47,0:09:54.61,Junketsu,,0,0,0,,If something happens to me, 
 Dialogue: 25,0:09:54.61,0:09:56.31,Junketsu,,0,0,0,,I'm sure they'll help you.
 Dialogue: 25,0:09:56.72,0:09:59.32,Junketsu,,0,0,0,,Really, why you?
 Dialogue: 25,0:10:00.41,0:10:01.91,Junketsu,,0,0,0,,Why do you have to go to war?
-Dialogue: 25,0:10:02.29,0:10:03.55,Junketsu,,0,0,0,,It can't be helped.
+Dialogue: 25,0:10:02.29,0:10:03.55,Junketsu,,0,0,0,,I know how you feel.
 Dialogue: 25,0:10:03.95,0:10:06.59,Junketsu,,0,0,0,,I don't want to go, but this is still my duty.
 Dialogue: 25,0:10:06.59,0:10:08.70,Junketsu,,0,0,0,,If only we could afford to buy out your levy.
 Dialogue: 25,0:10:09.29,0:10:11.63,Junketsu,,0,0,0,,If I survive, I'll be back soon.
@@ -226,14 +226,14 @@ Dialogue: 25,0:10:14.51,0:10:16.42,Junketsu,,0,0,0,,I made this!
 Dialogue: 25,0:10:16.69,0:10:19.41,Junketsu,,0,0,0,,It's a charm that Grandmother taught me!
 Dialogue: 25,0:10:19.41,0:10:20.84,Junketsu,,0,0,0,,Thank you, Anne.
 Dialogue: 25,0:10:20.84,0:10:22.93,Junketsu,,0,0,0,,I have nothing to be afraid of with this.
-Dialogue: 25,0:10:23.95,0:10:27.02,Junketsu,,0,0,0,,Be a nice girl, and listen to what the others say.
+Dialogue: 25,0:10:23.95,0:10:27.02,Junketsu,,0,0,0,,Be a good girl and listen to what the others say.
 Dialogue: 25,0:10:27.02,0:10:31.89,Junketsu,,0,0,0,,I'll be fine! And Maria will be protecting you, Father!
 Dialogue: 25,0:10:31.89,0:10:33.02,Junketsu,,0,0,0,,The Blessed Virgin?
 Dialogue: 25,0:10:33.35,0:10:34.92,Junketsu,,0,0,0,,No, the one in the forest.
 Dialogue: 25,0:10:34.92,0:10:38.25,Junketsu,,0,0,0,,She said she'll protect you with her magic!
 Dialogue: 25,0:10:39.54,0:10:42.46,Junketsu,,0,0,0,,Anne, that Maria in the forest—people call her a heretic.
 Dialogue: 25,0:10:42.46,0:10:44.64,Junketsu,,0,0,0,,You mustn't speak her name in public, you hear?
-Dialogue: 25,0:10:45.04,0:10:48.08,Junketsu,,0,0,0,,It would be a hassle should the priests hear you.
+Dialogue: 25,0:10:45.04,0:10:48.08,Junketsu,,0,0,0,,It would be a problem if the monks were to hear you.
 Dialogue: 25,0:10:50.14,0:10:53.21,Junketsu,,0,0,0,,But she said she would protect you...
 Dialogue: 25,0:10:53.21,0:10:56.26,Junketsu,,0,0,0,,Puny Britons! I'll crush them!
 Dialogue: 25,0:10:56.26,0:10:57.21,Junketsu,,0,0,0,,That's right!
@@ -312,7 +312,7 @@ Dialogue: 25,0:15:20.39,0:15:22.36,Junketsu,,0,0,0,,If so, there's nothing to wo
 Dialogue: 25,0:15:22.36,0:15:27.23,Junketsu,,0,0,0,,Maria has never broken a promise, ever.
 Dialogue: 25,0:15:28.11,0:15:31.74,Junketsu,,0,0,0,,And he has the charm you made him, too.
 Dialogue: 25,0:15:32.13,0:15:32.95,Junketsu,,0,0,0,,Yes!
-Dialogue: 25,0:15:34.03,0:15:35.95,Junketsu,,0,0,0,,Don't come near, Gallia!
+Dialogue: 25,0:15:34.03,0:15:35.95,Junketsu,,0,0,0,,Don't come near, gauls!
 Dialogue: 25,0:15:49.51,0:15:51.01,Junketsu,,0,0,0,,That bastard.
 Dialogue: 25,0:15:54.94,0:15:56.64,Junketsu,,0,0,0,,Wait, did he...?
 Dialogue: 25,0:16:06.69,0:16:07.55,Junketsu,,0,0,0,,Hurry it up!
@@ -325,8 +325,8 @@ Dialogue: 25,0:16:21.83,0:16:23.58,Junketsu,,0,0,0,,With God's divine protection
 Dialogue: 25,0:16:23.58,0:16:25.33,Junketsu,,0,0,0,,With God's divine protection!
 Dialogue: 25,0:16:28.45,0:16:29.92,Junketsu,,0,0,0,,This is for earlier!
 Dialogue: 25,0:16:40.27,0:16:42.15,Junketsu,,0,0,0,,Come on, start walking.
-Dialogue: 25,0:16:42.15,0:16:45.27,Junketsu,,0,0,0,,Be sure to pay your dues to the Red Arm Routiers.
-Dialogue: 25,0:16:45.56,0:16:47.13,Junketsu,,0,0,0,,The lmperial Ordinance Cavalry?
+Dialogue: 25,0:16:42.15,0:16:45.27,Junketsu,,0,0,0,,Be sure to pay your dues to the Red Arms.
+Dialogue: 25,0:16:45.56,0:16:47.13,Junketsu,,0,0,0,,The royal cavalry?
 Dialogue: 25,0:16:47.13,0:16:49.48,Junketsu,,0,0,0,,They must be after the best of the spoils.
 Dialogue: 25,0:16:49.79,0:16:53.13,Junketsu,,0,0,0,,That bog should slow them down,
 Dialogue: 25,0:16:53.13,0:16:55.28,Junketsu,,0,0,0,,so we'll have to grab as much as we can first.
@@ -358,7 +358,7 @@ Dialogue: 25,0:18:27.62,0:18:28.54,Junketsu,,0,0,0,,Lady Maria...
 Dialogue: 25,0:18:28.54,0:18:30.29,Junketsu,,0,0,0,,cease your fighting!
 Dialogue: 25,0:18:34.77,0:18:37.05,Junketsu,,0,0,0,,Ancient foe of Saint Marcel of Paris,
 Dialogue: 25,0:18:37.60,0:18:39.80,Junketsu,,0,0,0,,answer the call of the witch of the hearth
-Dialogue: 25,0:18:39.80,0:18:42.15,Junketsu,,0,0,0,,and appear before me now!
+Dialogue: 25,0:18:39.80,0:18:42.15,Junketsu,,0,0,0,,and show yourself!
 Dialogue: 25,0:18:42.89,0:18:45.14,Junketsu,,0,0,0,,Have any here bore witness to a dragon before?
 Dialogue: 25,0:18:45.14,0:18:46.56,Junketsu,,0,0,0,,No! But now you shall!
 Dialogue: 25,0:19:05.29,0:19:07.29,Junketsu,,0,0,0,,D-Dragon!?
@@ -366,12 +366,12 @@ Dialogue: 25,0:19:21.08,0:19:25.36,Junketsu,,0,0,0,,Dragon! We're not the same a
 Dialogue: 25,0:19:25.36,0:19:27.53,Junketsu,,0,0,0,,Don't bring harm to any of them, you hear?
 Dialogue: 25,0:19:30.36,0:19:31.77,Junketsu,,0,0,0,,Run!
 Dialogue: 25,0:19:31.77,0:19:35.48,Junketsu,,0,0,0,,Anne, don't go asking favors from such a terrifying witch!
-Dialogue: 25,0:19:38.12,0:19:40.36,Junketsu,,0,0,0,,I hate battles!
+Dialogue: 25,0:19:38.12,0:19:40.36,Junketsu,,0,0,0,,I hate fighting!
 Dialogue: 25,0:19:40.75,0:19:44.20,Junketsu,,0,0,0,,And with that established,\N I won't go easy on anyone who resists!
 Dialogue: 25,0:19:44.20,0:19:46.70,Junketsu,,0,0,0,,Aw, there she goes again.
 Dialogue: 25,0:19:46.70,0:19:51.05,Junketsu,,0,0,0,,{\q3}Doesn't she understand that she's ruining all our succubi's hard work?
 Dialogue: 25,0:19:51.05,0:19:52.12,Junketsu,,0,0,0,,Right?
-Dialogue: 25,0:19:52.71,0:19:55.05,Junketsu,,0,0,0,,Hate... battles?
+Dialogue: 25,0:19:52.71,0:19:55.05,Junketsu,,0,0,0,,Hate... fighting?
 Dialogue: 25,0:19:56.13,0:19:57.94,Junketsu,,0,0,0,,That was close.
 Dialogue: 25,0:19:57.94,0:20:00.64,Junketsu,,0,0,0,,If the knights had charged into battle,\N we could have won.
 Dialogue: 25,0:20:00.64,0:20:03.84,Junketsu,,0,0,0,,When Maria appears, things always get muddled.
@@ -403,7 +403,7 @@ Dialogue: 25,0:21:09.69,0:21:11.75,Junketsu,,0,0,0,,How about making a confessio
 Dialogue: 25,0:21:13.05,0:21:17.20,Junketsu,,0,0,0,,What are you saying!? The Roman Catholic Church is full of people who're scared of women!
 Dialogue: 25,0:21:17.20,0:21:22.03,Junketsu,,0,0,0,,Do you know what they did to La Pucelle, the girl who rose to save France!?
 Dialogue: 25,0:21:22.83,0:21:26.50,Junketsu,,0,0,0,,They jammed their fingers inside her to see if she was a virgin,
-Dialogue: 25,0:21:26.50,0:21:28.89,Junketsu,,0,0,0,,used her, betrayed her, \Nand burned her to death at the stake!
+Dialogue: 25,0:21:26.50,0:21:28.89,Junketsu,,0,0,0,,used her, betrayed her, \Nand burned her at the stake!
 Dialogue: 25,0:21:30.72,0:21:31.89,Junketsu,,0,0,0,,Just you see!
 Dialogue: 25,0:21:32.21,0:21:37.78,Junketsu,,0,0,0,,One day, they'll canonize the girl they treated like a witch as a maiden of patriotism!
 Dialogue: 25,0:21:37.78,0:21:40.41,Junketsu,,0,0,0,,I won't lose to that kind of Roman Catholic Church!
@@ -434,35 +434,612 @@ Dialogue: 1,0:00:16.12,0:00:20.50,Signs,,0,0,0,,{\fad(500,0)\blur2\bord2\1a&HFF\
 Dialogue: 2,0:00:16.12,0:00:20.50,Signs,,0,0,0,,{\fad(500,0)\blur0.5\yshad-3\xshad0\an2\fnDosis\fs42\pos(640,700)\c&HECEDE9&\4c&H000000&\4a&H10&}The Middle Ages, Northeastern France
 Comment: 0,0:00:00.00,0:00:00.02,Signs,,0,0,0,,SIGNS
 Comment: 0,0:00:00.00,0:00:00.02,Signs,,0,0,0,,OPED
+Comment: 0,0:21:58.04,0:21:58.08,Philosophy of Dear World - Translation - Initial,,0,0,0,START FRAME,OP(ED VER) START FRAME
+Comment: 0,0:22:01.46,0:22:04.76,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k17}wa{\k18}ta{\k17}shi {\k35}wa {\k15}a{\k16}i {\k17}wo {\k23}shi{\k31}t{\k141}ta
+Comment: 1,0:22:01.46,0:22:04.76,Philosophy of Dear World - Romaji - Initial - Echo,,0,0,0,karaoke,{\k17}watashi wa ai wo shitt{\k18}{\k17}{\k35}{\k15}{\k16}{\k17}{\k23}{\k120}{\k7\alpha&HFF&\-echo}a|{\k9}#|{\k9}#|{\k8}#|{\k19}#|
+Comment: 0,0:22:21.45,0:22:25.30,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k37}hen{\k16}{\k17}ke{\k34}n{\k17} {\k17}no {\k18}mu{\k36}re {\k30}ga {\k30}ha{\k25}shi{\k33}ru {\k19}yo{\k56}ru
+Comment: 0,0:22:26.58,0:22:30.74,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k39}tsu{\k19}ki{\k33} {\k17}mo {\k19}ko{\k37}{\k16}ko{\k15}ro {\k34}mo {\k16}mi{\k18}chi{\k17}te {\k16}wa {\k34}ka{\k17}ke{\k15}yu{\k54}ku
+Comment: 0,0:22:32.15,0:22:36.88,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k34}da{\k27}re{\k25}{\k19}ka {\k25}no{\k24} {\k18}shi{\k34}mei {\k16}to {\k32}wa{\k19}ta{\k22}shi {\k33}no{\k31} {\k36}se{\k17}i{\k16}gi {\k45}ga
+Comment: 0,0:22:37.29,0:22:42.03,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k33}di{\k35}le{\k36}m{\k21}ma {\k46}ni{\k36} {\k52}ma{\k37}ka{\k35}re{\k143}ta
+Comment: 0,0:22:43.82,0:22:46.29,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k23}i{\k13}ku{\k16}hya{\k22}ku{\k16}ne{\k27}n{\k10} {\k15}a{\k20}ru{\k29}ki {\k17}tsu{\k21}zu{\k18}ke
+Comment: 0,0:22:46.60,0:22:48.31,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k16}a{\k20}shi{\k22}mo{\k13}to {\k14}no {\k37}ha{\k18}na {\k15}ni {\k16}mo
+Comment: 0,0:22:48.55,0:22:52.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k13}ki{\k18}zu{\k18}ke{\k15}zu {\k18}ni {\k18}i{\k15}te{\k15} {\k20}sa{\k15}shi{\k21}ko{\k35}n{\k32}da {\k35}rin{\k23}ka{\k73}ku
+Comment: 0,0:22:52.78,0:22:56.00,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k18}so{\k19}re {\k32}wa{\k23} {\k33}a{\k15}na{\k21}ta {\k78}no{\k24} {\k16\-extra}hi{\k20}ka{\k23}ri
+Comment: 0,0:22:56.15,0:22:56.67,Philosophy of Dear World - Romaji - Initial - Echo,,0,0,0,karaoke,sore wa anata no {\k15\-echo}hi{\k15}ka{\k22}ri
+Comment: 0,0:22:56.83,0:22:57.40,Philosophy of Dear World - Romaji - Initial - F_Echo,,0,0,0,karaoke,sore wa anata no {\k15\-echo}hi{\k17}ka{\k25}ri
+Comment: 0,0:22:57.32,0:23:02.41,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\-extra\k16}to{\k12}da{\k20}e{\k38}na{\k27}i {\k23}sho{\k18}u{\k16}do{\k17}u {\k24}wo{\k13} {\k17}so{\k18}ra {\k16}ni {\k15}mu{\k16}ke{\k33}te {\k20}sa{\k17}ke{\k17}bi{\k35}tsu{\k17}zu{\k18}ke{\k46}ta
+Comment: 0,0:23:02.66,0:23:05.35,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k9\-extra}ko{\k9}to{\k17}wa{\k16}ri {\k17}ga {\k28}yo {\k39}wo {\k10}su{\k10}be{\k11}ru {\k19}se{\k16}ka{\k35}i {\k33}de
+Comment: 0,0:23:05.60,0:23:07.99,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k30\-extra}wa{\k20}ta{\k33}shi {\k37}wa {\k34}ai {\k17}wo {\k19}shi{\k16}t{\k33}ta
+Comment: 0,0:23:08.36,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k18\-extra}a{\k15}na{\k23}ta {\k22}no{\k10} {\k15}i{\k19}ki{\k20}ru{\k13} {\k18}a{\k18}su {\k16}no{\k18} {\k14}ta{\k18}me {\k11}ni
+Comment: 0,0:23:11.04,0:23:14.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k22\-extra}fu{\k15}ta{\k19}ri {\k18}de{\k20} {\k17}o{\k16}ro{\k35}ka{\k17}mo{\k19}no {\k32}ni {\k18}na{\k18}ro{\k42}u
+Comment: 0,0:23:14.39,0:23:20.30,Philosophy of Dear World - Romaji - Initial,,0,0,0,karaoke,{\k17\-extra}ko{\k15}ko {\k19}wa {\k17}ka{\k36}mi {\k15}no {\k20}ha{\k17}ko{\k17}ni{\k16}wa {\k16}ja {\k139}na{\k11}i {\k10}ka{\k226}ra
+Comment: 0,0:22:01.46,0:22:04.76,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,{\be0.1}I've learned of love's meaning
+Comment: 0,0:22:21.45,0:22:25.30,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,A fleeing mob of peasants passed by in the night
+Comment: 0,0:22:26.58,0:22:30.74,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,As the moon waned, my spirit too grew dim
+Comment: 0,0:22:32.15,0:22:36.88,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,Their orders went against my justice
+Comment: 0,0:22:37.29,0:22:42.03,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,and left me with a dilemma
+Comment: 0,0:22:43.82,0:22:46.29,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,For hundreds of years
+Comment: 0,0:22:46.60,0:22:48.31,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,I simply passed over the flowers surrounding me
+Comment: 0,0:22:48.55,0:22:52.39,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,until I noticed a silhouette cast in light,
+Comment: 0,0:22:52.78,0:22:56.00,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,and it happened to be you
+Comment: 0,0:22:57.32,0:23:02.41,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,I couldn't help but shout toward the heavens
+Comment: 0,0:23:02.66,0:23:05.35,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,In this world governed by cold reason
+Comment: 0,0:23:05.60,0:23:07.99,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,I've learned of love's meaning
+Comment: 0,0:23:08.36,0:23:11.04,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,For a future with a place for you,
+Comment: 0,0:23:11.04,0:23:14.12,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,I'll become a fool at your side
+Comment: 0,0:23:14.39,0:23:20.30,Philosophy of Dear World - Translation - Initial,,0,0,0,karaoke,After all, we aren't in God's Garden
 Comment: 0,0:23:30.93,0:23:30.97,Philosophy of Dear World - Translation - Initial,,0,0,0,END FRAME,OP(ED VER) END FRAME
-Dialogue: 0,0:22:01.23,0:22:05.23,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(171.23125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3850,4001,\clip(0,20,1280,20))}watashi wa ai wo shitta
-Dialogue: 0,0:22:21.20,0:22:25.56,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(213.45, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4210,4361,\clip(0,20,1280,20))}daken no mure ga hashiru yoru
-Dialogue: 0,0:22:26.35,0:22:31.00,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(275.50625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4500,4651,\clip(0,20,1280,20))}tsuki mo kokoro mo michite wa kake yuku
-Dialogue: 0,0:22:31.83,0:22:37.10,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,91)\an5\pos(258.5, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5225.5,5272,\clip(0,20,1280,20))}dareka no shimei to watashi no seigi ga
-Dialogue: 0,0:22:37.10,0:22:42.46,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(169,300)\an5\pos(157.675, 38.5)\be0.1\clip(0,57,1280,57)\t(84.5,170,\clip(0,20,1280,57))\t(5209,5360,\clip(0,20,1280,20))}dilemma ni makareta
-Dialogue: 0,0:22:43.64,0:22:46.42,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,101.5)\an5\pos(190.575, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2730.75,2782.5,\clip(0,20,1280,20))}ikuhyakunen aruki tsuzuke
-Dialogue: 0,0:22:46.42,0:22:48.40,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(188.5,84)\an5\pos(174.25625, 38.5)\be0.1\clip(0,57,1280,57)\t(94.25,189.5,\clip(0,20,1280,57))\t(1940.5,1983.5,\clip(0,20,1280,20))}ashimoto no hana ni mo
-Dialogue: 0,0:22:48.40,0:22:52.54,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(231.9625, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4074.25,4143.5,\clip(0,20,1280,20))}kizukezu ni ite sashikonda rinkaku
-Dialogue: 0,0:22:52.55,0:22:56.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(169.9, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3630,3781,\clip(0,20,1280,20))}sore wa anata no hikari
-Dialogue: 0,0:22:57.09,0:23:02.53,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,91)\an5\pos(344.65625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5395.5,5442,\clip(0,20,1280,20))}tomaranai shoudou wo sora ni mukete sakebitsuzuketa
-Dialogue: 0,0:23:02.53,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(169,98)\an5\pos(247.375, 38.5)\be0.1\clip(0,57,1280,57)\t(84.5,170,\clip(0,20,1280,57))\t(2858,2908,\clip(0,20,1280,20))}kotowari ga ryouhou someru sekai de
-Dialogue: 0,0:23:05.43,0:23:08.15,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(182,136.5)\an5\pos(171.23125, 38.5)\be0.1\clip(0,57,1280,57)\t(91,183,\clip(0,20,1280,57))\t(2650.25,2719.5,\clip(0,20,1280,20))}watashi wa ai wo shitta
-Dialogue: 0,0:23:08.16,0:23:10.93,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,0)\an5\pos(202.825, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2770,2771,\clip(0,20,1280,20))}anata no ikiru asu no tame ni
-Dialogue: 0,0:23:10.93,0:23:14.26,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,63)\an5\pos(219.74375, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3301.5,3334,\clip(0,20,1280,20))}futari de orokamono ni narou yo
-Dialogue: 0,0:23:14.26,0:23:20.73,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(117,300)\an5\pos(249.7125, 38.5)\be0.1\clip(0,57,1280,57)\t(58.5,118,\clip(0,20,1280,57))\t(6317,6468,\clip(0,20,1280,20))}koko wa kami no hakoniwa ja nain da
-Dialogue: 0,0:22:01.23,0:22:05.23,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(184.15234375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(3700,3851,\clip(0,57,1280,57))}I've learned of love's meaning
-Dialogue: 0,0:22:21.20,0:22:25.56,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(287.273828125, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(4060,4211,\clip(0,57,1280,57))}I watched the mongrels running through the night
-Dialogue: 0,0:22:26.35,0:22:31.00,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(271.580078125, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(4350,4501,\clip(0,57,1280,57))}The sight made me shine as bright as the moon
-Dialogue: 0,0:22:31.83,0:22:37.10,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,91)\an5\pos(243.30859375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(5180,5226.5,\clip(0,57,1280,57))}The choice between my mission or justice
-Dialogue: 0,0:22:37.10,0:22:42.46,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(169,300)\an5\pos(162.23359375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,85.5,\clip(0,57,1280,90))\t(5059,5210,\clip(0,57,1280,57))}had left me in a dilemma
-Dialogue: 0,0:22:43.64,0:22:46.42,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,101.5)\an5\pos(146.662890625, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(2680,2731.75,\clip(0,57,1280,57))}For hundreds of years
-Dialogue: 0,0:22:46.42,0:22:48.40,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(188.5,84)\an5\pos(277.103125, 73.5)\be0.1\clip(0,90,1280,90)\t(0,95.25,\clip(0,57,1280,90))\t(1898.5,1941.5,\clip(0,57,1280,57))}I simply passed over the flowers surrounding me
-Dialogue: 0,0:22:48.40,0:22:52.54,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(234.53359375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,79,\clip(0,57,1280,90))\t(4006,4075.25,\clip(0,57,1280,57))}until I noticed a silhouette cast in light,
-Dialogue: 0,0:22:52.55,0:22:56.33,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(167.93359375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(3480,3631,\clip(0,57,1280,57))}and it happened to be you
-Dialogue: 0,0:22:57.09,0:23:02.53,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,91)\an5\pos(259.4640625, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(5350,5396.5,\clip(0,57,1280,57))}I couldn't help but shout toward the heavens
-Dialogue: 0,0:23:02.53,0:23:05.43,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(169,98)\an5\pos(267.347265625, 73.5)\be0.1\clip(0,90,1280,90)\t(0,85.5,\clip(0,57,1280,90))\t(2809,2859,\clip(0,57,1280,57))}Justice is the treatment this black world needs
-Dialogue: 0,0:23:05.43,0:23:08.15,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(182,136.5)\an5\pos(184.15234375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,92,\clip(0,57,1280,90))\t(2582,2651.25,\clip(0,57,1280,57))}I've learned of love's meaning
-Dialogue: 0,0:23:08.16,0:23:10.93,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,0)\an5\pos(242.9546875, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(2770,2771,\clip(0,57,1280,57))}For the sake of protecting our loved ones,
-Dialogue: 0,0:23:10.93,0:23:14.26,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(0,63)\an5\pos(170.8140625, 73.5)\be0.1\clip(0,90,1280,90)\t(0,1,\clip(0,57,1280,90))\t(3270,3302.5,\clip(0,57,1280,57))}let's become fools together
-Dialogue: 0,0:23:14.26,0:23:20.73,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(117,300)\an5\pos(213.471484375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,59.5,\clip(0,57,1280,90))\t(6167,6318,\clip(0,57,1280,57))}After all, we aren't in God's Garden
+Dialogue: 3,0:22:01.21,0:22:05.06,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3700,3851,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:01.46,0:22:01.46,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:01.21,0:22:05.06,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(55.94375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3700,3851,\clip(0,20,1280,20))}wa
+Dialogue: 1,0:22:01.46,0:22:01.63,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(55.94375, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}wa
+Dialogue: 3,0:22:01.21,0:22:05.06,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(83.025, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3700,3851,\clip(0,20,1280,20))}ta
+Dialogue: 1,0:22:01.63,0:22:01.81,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(83.025, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}ta
+Dialogue: 3,0:22:01.21,0:22:05.06,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(110.4, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3700,3851,\clip(0,20,1280,20))}shi
+Dialogue: 1,0:22:01.81,0:22:01.98,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(110.4, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}shi
+Dialogue: 3,0:22:01.21,0:22:05.06,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(149.46875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3700,3851,\clip(0,20,1280,20))}wa
+Dialogue: 1,0:22:01.98,0:22:02.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(149.46875, 38.5)\blur3\1c&H000000&\t(0,350,\blur8\alpha&HFF&)}wa
+Dialogue: 3,0:22:01.21,0:22:05.06,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(178.7375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3700,3851,\clip(0,20,1280,20))}a
+Dialogue: 1,0:22:02.33,0:22:02.48,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(178.7375, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}a
+Dialogue: 3,0:22:01.21,0:22:05.06,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(188.75, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3700,3851,\clip(0,20,1280,20))}i
+Dialogue: 1,0:22:02.48,0:22:02.64,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(188.75, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}i
+Dialogue: 3,0:22:01.21,0:22:05.06,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(215.31875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3700,3851,\clip(0,20,1280,20))}wo
+Dialogue: 1,0:22:02.64,0:22:02.81,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(215.31875, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}wo
+Dialogue: 3,0:22:01.21,0:22:05.06,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(254.55, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3700,3851,\clip(0,20,1280,20))}shi
+Dialogue: 1,0:22:02.81,0:22:03.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(254.55, 38.5)\blur3\1c&H000000&\t(0,230,\blur8\alpha&HFF&)}shi
+Dialogue: 3,0:22:01.21,0:22:05.06,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(275.4875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3700,3851,\clip(0,20,1280,20))}t
+Dialogue: 1,0:22:03.04,0:22:03.35,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(275.4875, 38.5)\blur3\1c&H000000&\t(0,310,\blur8\alpha&HFF&)}t
+Dialogue: 3,0:22:01.21,0:22:05.06,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(291.325, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3700,3851,\clip(0,20,1280,20))}ta
+Dialogue: 1,0:22:03.35,0:22:04.76,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(291.325, 38.5)\blur3\1c&H000000&\t(0,1410,\blur8\alpha&HFF&)}ta
+Dialogue: 1,0:22:04.24,0:22:04.31,Philosophy of Dear World - Romaji - Initial - Echo,,0,0,0,fx,{\an5\pos(296.025, 38.5)\blur3\1c&H000000&\t(0,70,\blur8\alpha&HFF&)}a
+Dialogue: 1,0:22:04.31,0:22:04.40,Philosophy of Dear World - Romaji - Initial - Echo,,0,0,0,fx,{\an5\pos(296.025, 38.5)\blur3\1c&H000000&\t(0,90,\blur8\alpha&HFF&)}a
+Dialogue: 1,0:22:04.40,0:22:04.49,Philosophy of Dear World - Romaji - Initial - Echo,,0,0,0,fx,{\an5\pos(296.025, 38.5)\blur3\1c&H000000&\t(0,90,\blur8\alpha&HFF&)}a
+Dialogue: 1,0:22:04.49,0:22:04.57,Philosophy of Dear World - Romaji - Initial - Echo,,0,0,0,fx,{\an5\pos(296.025, 38.5)\blur3\1c&H000000&\t(0,80,\blur8\alpha&HFF&)}a
+Dialogue: 1,0:22:04.57,0:22:04.76,Philosophy of Dear World - Romaji - Initial - Echo,,0,0,0,fx,{\an5\pos(296.025, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}a
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:21.45,0:22:21.45,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(60.50625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}hen
+Dialogue: 1,0:22:21.45,0:22:21.82,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(60.50625, 38.5)\blur3\1c&H000000&\t(0,370,\blur8\alpha&HFF&)}hen
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(81.0125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:21.82,0:22:21.98,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(81.0125, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(93.73125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}ke
+Dialogue: 1,0:22:21.98,0:22:22.15,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(93.73125, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}ke
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(113.64375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}n
+Dialogue: 1,0:22:22.15,0:22:22.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(113.64375, 38.5)\blur3\1c&H000000&\t(0,340,\blur8\alpha&HFF&)}n
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(127.725, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:22.49,0:22:22.66,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(127.725, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(141.51875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}no
+Dialogue: 1,0:22:22.66,0:22:22.83,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(141.51875, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}no
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(180.04375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}mu
+Dialogue: 1,0:22:22.83,0:22:23.01,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(180.04375, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}mu
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(208.68125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}re
+Dialogue: 1,0:22:23.01,0:22:23.37,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(208.68125, 38.5)\blur3\1c&H000000&\t(0,360,\blur8\alpha&HFF&)}re
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(239.50625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}ga
+Dialogue: 1,0:22:23.37,0:22:23.67,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(239.50625, 38.5)\blur3\1c&H000000&\t(0,300,\blur8\alpha&HFF&)}ga
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(273.3, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}ha
+Dialogue: 1,0:22:23.67,0:22:23.97,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(273.3, 38.5)\blur3\1c&H000000&\t(0,300,\blur8\alpha&HFF&)}ha
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(303.3, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}shi
+Dialogue: 1,0:22:23.97,0:22:24.22,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(303.3, 38.5)\blur3\1c&H000000&\t(0,250,\blur8\alpha&HFF&)}shi
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(331.5125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}ru
+Dialogue: 1,0:22:24.22,0:22:24.55,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(331.5125, 38.5)\blur3\1c&H000000&\t(0,330,\blur8\alpha&HFF&)}ru
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(363.74375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}yo
+Dialogue: 1,0:22:24.55,0:22:24.74,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(363.74375, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}yo
+Dialogue: 3,0:22:21.20,0:22:25.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(389.0875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4250,4401,\clip(0,20,1280,20))}ru
+Dialogue: 1,0:22:24.74,0:22:25.30,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(389.0875, 38.5)\blur3\1c&H000000&\t(0,560,\blur8\alpha&HFF&)}ru
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:26.58,0:22:26.58,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(57.20625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}tsu
+Dialogue: 1,0:22:26.58,0:22:26.97,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(57.20625, 38.5)\blur3\1c&H000000&\t(0,390,\blur8\alpha&HFF&)}tsu
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(84.71875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}ki
+Dialogue: 1,0:22:26.97,0:22:27.16,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(84.71875, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}ki
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(101.9125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:27.16,0:22:27.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(101.9125, 38.5)\blur3\1c&H000000&\t(0,330,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(119.1875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}mo
+Dialogue: 1,0:22:27.49,0:22:27.66,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(119.1875, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}mo
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(156.68125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}ko
+Dialogue: 1,0:22:27.66,0:22:27.85,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(156.68125, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}ko
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(170.0125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:27.85,0:22:28.22,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(170.0125, 38.5)\blur3\1c&H000000&\t(0,370,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(183.34375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}ko
+Dialogue: 1,0:22:28.22,0:22:28.38,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(183.34375, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}ko
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(208.08125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}ro
+Dialogue: 1,0:22:28.38,0:22:28.53,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(208.08125, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}ro
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(243.65, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}mo
+Dialogue: 1,0:22:28.53,0:22:28.87,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(243.65, 38.5)\blur3\1c&H000000&\t(0,340,\blur8\alpha&HFF&)}mo
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(282.0625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}mi
+Dialogue: 1,0:22:28.87,0:22:29.03,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(282.0625, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}mi
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(312.975, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}chi
+Dialogue: 1,0:22:29.03,0:22:29.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(312.975, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}chi
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(340.325, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}te
+Dialogue: 1,0:22:29.21,0:22:29.38,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(340.325, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}te
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(373.84375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}wa
+Dialogue: 1,0:22:29.38,0:22:29.54,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(373.84375, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}wa
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(409.84375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}ka
+Dialogue: 1,0:22:29.54,0:22:29.88,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(409.84375, 38.5)\blur3\1c&H000000&\t(0,340,\blur8\alpha&HFF&)}ka
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(435.73125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}ke
+Dialogue: 1,0:22:29.88,0:22:30.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(435.73125, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}ke
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(462.3875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}yu
+Dialogue: 1,0:22:30.05,0:22:30.20,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(462.3875, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}yu
+Dialogue: 3,0:22:26.33,0:22:31.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(490.225, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(4560,4711,\clip(0,20,1280,20))}ku
+Dialogue: 1,0:22:30.20,0:22:30.74,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(490.225, 38.5)\blur3\1c&H000000&\t(0,540,\blur8\alpha&HFF&)}ku
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:32.15,0:22:32.15,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(53.425, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}da
+Dialogue: 1,0:22:32.15,0:22:32.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(53.425, 38.5)\blur3\1c&H000000&\t(0,340,\blur8\alpha&HFF&)}da
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(77.64375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}re
+Dialogue: 1,0:22:32.49,0:22:32.76,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(77.64375, 38.5)\blur3\1c&H000000&\t(0,270,\blur8\alpha&HFF&)}re
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(88.4375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:32.76,0:22:33.01,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(88.4375, 38.5)\blur3\1c&H000000&\t(0,250,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(101.60625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}ka
+Dialogue: 1,0:22:33.01,0:22:33.20,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(101.60625, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}ka
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(135.45625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}no
+Dialogue: 1,0:22:33.20,0:22:33.45,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(135.45625, 38.5)\blur3\1c&H000000&\t(0,250,\blur8\alpha&HFF&)}no
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(156.1375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:33.45,0:22:33.69,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(156.1375, 38.5)\blur3\1c&H000000&\t(0,240,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(172.375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}shi
+Dialogue: 1,0:22:33.69,0:22:33.87,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(172.375, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}shi
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(208.85, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}mei
+Dialogue: 1,0:22:33.87,0:22:34.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(208.85, 38.5)\blur3\1c&H000000&\t(0,340,\blur8\alpha&HFF&)}mei
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(247.275, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}to
+Dialogue: 1,0:22:34.21,0:22:34.37,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(247.275, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}to
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(281.40625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}wa
+Dialogue: 1,0:22:34.37,0:22:34.69,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(281.40625, 38.5)\blur3\1c&H000000&\t(0,320,\blur8\alpha&HFF&)}wa
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(308.4875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}ta
+Dialogue: 1,0:22:34.69,0:22:34.88,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(308.4875, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}ta
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(335.8625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}shi
+Dialogue: 1,0:22:34.88,0:22:35.10,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(335.8625, 38.5)\blur3\1c&H000000&\t(0,220,\blur8\alpha&HFF&)}shi
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(372.78125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}no
+Dialogue: 1,0:22:35.10,0:22:35.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(372.78125, 38.5)\blur3\1c&H000000&\t(0,330,\blur8\alpha&HFF&)}no
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(393.4625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:35.43,0:22:35.74,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(393.4625, 38.5)\blur3\1c&H000000&\t(0,310,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(404.7875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}se
+Dialogue: 1,0:22:35.74,0:22:36.10,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(404.7875, 38.5)\blur3\1c&H000000&\t(0,360,\blur8\alpha&HFF&)}se
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(419.6875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}i
+Dialogue: 1,0:22:36.10,0:22:36.27,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(419.6875, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}i
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(433.54375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}gi
+Dialogue: 1,0:22:36.27,0:22:36.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(433.54375, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}gi
+Dialogue: 3,0:22:31.90,0:22:37.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(463.85625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5051.75,5124.5,\clip(0,20,1280,20))}ga
+Dialogue: 1,0:22:36.43,0:22:36.88,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(463.85625, 38.5)\blur3\1c&H000000&\t(0,450,\blur8\alpha&HFF&)}ga
+Dialogue: 3,0:22:37.04,0:22:42.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5140,5291,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:37.29,0:22:37.29,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:37.04,0:22:42.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(50.5625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5140,5291,\clip(0,20,1280,20))}di
+Dialogue: 1,0:22:37.29,0:22:37.62,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(50.5625, 38.5)\blur3\1c&H000000&\t(0,330,\blur8\alpha&HFF&)}di
+Dialogue: 3,0:22:37.04,0:22:42.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(70.58125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5140,5291,\clip(0,20,1280,20))}le
+Dialogue: 1,0:22:37.62,0:22:37.97,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(70.58125, 38.5)\blur3\1c&H000000&\t(0,350,\blur8\alpha&HFF&)}le
+Dialogue: 3,0:22:37.04,0:22:42.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(90.7125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5140,5291,\clip(0,20,1280,20))}m
+Dialogue: 1,0:22:37.97,0:22:38.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(90.7125, 38.5)\blur3\1c&H000000&\t(0,360,\blur8\alpha&HFF&)}m
+Dialogue: 3,0:22:37.04,0:22:42.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(118.5, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5140,5291,\clip(0,20,1280,20))}ma
+Dialogue: 1,0:22:38.33,0:22:38.54,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(118.5, 38.5)\blur3\1c&H000000&\t(0,210,\blur8\alpha&HFF&)}ma
+Dialogue: 3,0:22:37.04,0:22:42.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(153.26875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5140,5291,\clip(0,20,1280,20))}ni
+Dialogue: 1,0:22:38.54,0:22:39.00,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(153.26875, 38.5)\blur3\1c&H000000&\t(0,460,\blur8\alpha&HFF&)}ni
+Dialogue: 3,0:22:37.04,0:22:42.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(170.925, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5140,5291,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:39.00,0:22:39.36,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(170.925, 38.5)\blur3\1c&H000000&\t(0,360,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:37.04,0:22:42.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(188.0375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5140,5291,\clip(0,20,1280,20))}ma
+Dialogue: 1,0:22:39.36,0:22:39.88,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(188.0375, 38.5)\blur3\1c&H000000&\t(0,520,\blur8\alpha&HFF&)}ma
+Dialogue: 3,0:22:37.04,0:22:42.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(218.31875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5140,5291,\clip(0,20,1280,20))}ka
+Dialogue: 1,0:22:39.88,0:22:40.25,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(218.31875, 38.5)\blur3\1c&H000000&\t(0,370,\blur8\alpha&HFF&)}ka
+Dialogue: 3,0:22:37.04,0:22:42.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(242.28125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5140,5291,\clip(0,20,1280,20))}re
+Dialogue: 1,0:22:40.25,0:22:40.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(242.28125, 38.5)\blur3\1c&H000000&\t(0,350,\blur8\alpha&HFF&)}re
+Dialogue: 3,0:22:37.04,0:22:42.33,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(264.2125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5140,5291,\clip(0,20,1280,20))}ta
+Dialogue: 1,0:22:40.60,0:22:42.03,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(264.2125, 38.5)\blur3\1c&H000000&\t(0,1430,\blur8\alpha&HFF&)}ta
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:43.82,0:22:43.82,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(43.575, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}i
+Dialogue: 1,0:22:43.82,0:22:44.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(43.575, 38.5)\blur3\1c&H000000&\t(0,230,\blur8\alpha&HFF&)}i
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(61.05, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}ku
+Dialogue: 1,0:22:44.05,0:22:44.18,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(61.05, 38.5)\blur3\1c&H000000&\t(0,130,\blur8\alpha&HFF&)}ku
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(95.48125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}hya
+Dialogue: 1,0:22:44.18,0:22:44.34,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(95.48125, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}hya
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(129.9125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}ku
+Dialogue: 1,0:22:44.34,0:22:44.56,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(129.9125, 38.5)\blur3\1c&H000000&\t(0,220,\blur8\alpha&HFF&)}ku
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(156.99375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}ne
+Dialogue: 1,0:22:44.56,0:22:44.72,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(156.99375, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}ne
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(177.36875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}n
+Dialogue: 1,0:22:44.72,0:22:44.99,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(177.36875, 38.5)\blur3\1c&H000000&\t(0,270,\blur8\alpha&HFF&)}n
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(191.45, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:44.99,0:22:45.09,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(191.45, 38.5)\blur3\1c&H000000&\t(0,100,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(197.8875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}a
+Dialogue: 1,0:22:45.09,0:22:45.24,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(197.8875, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}a
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(216.3, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}ru
+Dialogue: 1,0:22:45.24,0:22:45.44,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(216.3, 38.5)\blur3\1c&H000000&\t(0,200,\blur8\alpha&HFF&)}ru
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(238.58125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}ki
+Dialogue: 1,0:22:45.44,0:22:45.73,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(238.58125, 38.5)\blur3\1c&H000000&\t(0,290,\blur8\alpha&HFF&)}ki
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(272.98125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}tsu
+Dialogue: 1,0:22:45.73,0:22:45.90,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(272.98125, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}tsu
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(302.95, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}zu
+Dialogue: 1,0:22:45.90,0:22:46.11,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(302.95, 38.5)\blur3\1c&H000000&\t(0,210,\blur8\alpha&HFF&)}zu
+Dialogue: 3,0:22:43.57,0:22:46.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(328.43125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(2774.25,2829.5,\clip(0,20,1280,20))}ke
+Dialogue: 1,0:22:46.11,0:22:46.29,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(328.43125, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}ke
+Dialogue: 3,0:22:46.39,0:22:48.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(201.5,84)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(100.75,202.5,\clip(0,20,1280,57))\t(1953.5,1996.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:46.60,0:22:46.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:46.39,0:22:48.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(201.5,84)\an5\pos(46.4375, 38.5)\be0.1\clip(0,57,1280,57)\t(100.75,202.5,\clip(0,20,1280,57))\t(1953.5,1996.5,\clip(0,20,1280,20))}a
+Dialogue: 1,0:22:46.60,0:22:46.76,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(46.4375, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}a
+Dialogue: 3,0:22:46.39,0:22:48.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(201.5,84)\an5\pos(69.1125, 38.5)\be0.1\clip(0,57,1280,57)\t(100.75,202.5,\clip(0,20,1280,57))\t(1953.5,1996.5,\clip(0,20,1280,20))}shi
+Dialogue: 1,0:22:46.76,0:22:46.96,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(69.1125, 38.5)\blur3\1c&H000000&\t(0,200,\blur8\alpha&HFF&)}shi
+Dialogue: 3,0:22:46.39,0:22:48.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(201.5,84)\an5\pos(102.625, 38.5)\be0.1\clip(0,57,1280,57)\t(100.75,202.5,\clip(0,20,1280,57))\t(1953.5,1996.5,\clip(0,20,1280,20))}mo
+Dialogue: 1,0:22:46.96,0:22:47.18,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(102.625, 38.5)\blur3\1c&H000000&\t(0,220,\blur8\alpha&HFF&)}mo
+Dialogue: 3,0:22:46.39,0:22:48.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(201.5,84)\an5\pos(131.2, 38.5)\be0.1\clip(0,57,1280,57)\t(100.75,202.5,\clip(0,20,1280,57))\t(1953.5,1996.5,\clip(0,20,1280,20))}to
+Dialogue: 1,0:22:47.18,0:22:47.31,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(131.2, 38.5)\blur3\1c&H000000&\t(0,130,\blur8\alpha&HFF&)}to
+Dialogue: 3,0:22:46.39,0:22:48.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(201.5,84)\an5\pos(163.18125, 38.5)\be0.1\clip(0,57,1280,57)\t(100.75,202.5,\clip(0,20,1280,57))\t(1953.5,1996.5,\clip(0,20,1280,20))}no
+Dialogue: 1,0:22:47.31,0:22:47.45,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(163.18125, 38.5)\blur3\1c&H000000&\t(0,140,\blur8\alpha&HFF&)}no
+Dialogue: 3,0:22:46.39,0:22:48.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(201.5,84)\an5\pos(197.625, 38.5)\be0.1\clip(0,57,1280,57)\t(100.75,202.5,\clip(0,20,1280,57))\t(1953.5,1996.5,\clip(0,20,1280,20))}ha
+Dialogue: 1,0:22:47.45,0:22:47.82,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(197.625, 38.5)\blur3\1c&H000000&\t(0,370,\blur8\alpha&HFF&)}ha
+Dialogue: 3,0:22:46.39,0:22:48.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(201.5,84)\an5\pos(225.01875, 38.5)\be0.1\clip(0,57,1280,57)\t(100.75,202.5,\clip(0,20,1280,57))\t(1953.5,1996.5,\clip(0,20,1280,20))}na
+Dialogue: 1,0:22:47.82,0:22:48.00,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(225.01875, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}na
+Dialogue: 3,0:22:46.39,0:22:48.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(201.5,84)\an5\pos(256.30625, 38.5)\be0.1\clip(0,57,1280,57)\t(100.75,202.5,\clip(0,20,1280,57))\t(1953.5,1996.5,\clip(0,20,1280,20))}ni
+Dialogue: 1,0:22:48.00,0:22:48.15,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(256.30625, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}ni
+Dialogue: 3,0:22:46.39,0:22:48.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(201.5,84)\an5\pos(291.2375, 38.5)\be0.1\clip(0,57,1280,57)\t(100.75,202.5,\clip(0,20,1280,57))\t(1953.5,1996.5,\clip(0,20,1280,20))}mo
+Dialogue: 1,0:22:48.15,0:22:48.31,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(291.2375, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}mo
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:48.55,0:22:48.55,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(50.30625, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}ki
+Dialogue: 1,0:22:48.55,0:22:48.68,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(50.30625, 38.5)\blur3\1c&H000000&\t(0,130,\blur8\alpha&HFF&)}ki
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(73.375, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}zu
+Dialogue: 1,0:22:48.68,0:22:48.86,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(73.375, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}zu
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(98.85625, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}ke
+Dialogue: 1,0:22:48.86,0:22:49.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(98.85625, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}ke
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(124.3375, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}zu
+Dialogue: 1,0:22:49.04,0:22:49.19,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(124.3375, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}zu
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(154.75625, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}ni
+Dialogue: 1,0:22:49.19,0:22:49.37,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(154.75625, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}ni
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(175.9875, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}i
+Dialogue: 1,0:22:49.37,0:22:49.55,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(175.9875, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}i
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(190.25, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}te
+Dialogue: 1,0:22:49.55,0:22:49.70,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(190.25, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}te
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(207.825, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:49.70,0:22:49.85,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(207.825, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(219.6, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}sa
+Dialogue: 1,0:22:49.85,0:22:50.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(219.6, 38.5)\blur3\1c&H000000&\t(0,200,\blur8\alpha&HFF&)}sa
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(247.6125, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}shi
+Dialogue: 1,0:22:50.05,0:22:50.20,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(247.6125, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}shi
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(277.18125, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}ko
+Dialogue: 1,0:22:50.20,0:22:50.41,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(277.18125, 38.5)\blur3\1c&H000000&\t(0,210,\blur8\alpha&HFF&)}ko
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(297.70625, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}n
+Dialogue: 1,0:22:50.41,0:22:50.76,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(297.70625, 38.5)\blur3\1c&H000000&\t(0,350,\blur8\alpha&HFF&)}n
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(318.325, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}da
+Dialogue: 1,0:22:50.76,0:22:51.08,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(318.325, 38.5)\blur3\1c&H000000&\t(0,320,\blur8\alpha&HFF&)}da
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(354.2125, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}rin
+Dialogue: 1,0:22:51.08,0:22:51.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(354.2125, 38.5)\blur3\1c&H000000&\t(0,350,\blur8\alpha&HFF&)}rin
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(382.95625, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}ka
+Dialogue: 1,0:22:51.43,0:22:51.66,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(382.95625, 38.5)\blur3\1c&H000000&\t(0,230,\blur8\alpha&HFF&)}ka
+Dialogue: 3,0:22:48.39,0:22:52.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(410.025, 38.5)\be0.1\clip(0,57,1280,57)\t(78,157,\clip(0,20,1280,57))\t(4064.25,4133.5,\clip(0,20,1280,20))}ku
+Dialogue: 1,0:22:51.66,0:22:52.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(410.025, 38.5)\blur3\1c&H000000&\t(0,730,\blur8\alpha&HFF&)}ku
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:52.78,0:22:52.78,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(51.9375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}so
+Dialogue: 1,0:22:52.78,0:22:52.96,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(51.9375, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}so
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(74.66875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}re
+Dialogue: 1,0:22:52.96,0:22:53.15,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(74.66875, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}re
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(108.29375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}wa
+Dialogue: 1,0:22:53.15,0:22:53.47,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(108.29375, 38.5)\blur3\1c&H000000&\t(0,320,\blur8\alpha&HFF&)}wa
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(131.125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:53.47,0:22:53.70,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(131.125, 38.5)\blur3\1c&H000000&\t(0,230,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(137.5625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}a
+Dialogue: 1,0:22:53.70,0:22:54.03,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(137.5625, 38.5)\blur3\1c&H000000&\t(0,330,\blur8\alpha&HFF&)}a
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(157.63125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}na
+Dialogue: 1,0:22:54.03,0:22:54.18,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(157.63125, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}na
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(182.4, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}ta
+Dialogue: 1,0:22:54.18,0:22:54.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(182.4, 38.5)\blur3\1c&H000000&\t(0,210,\blur8\alpha&HFF&)}ta
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(214.21875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}no
+Dialogue: 1,0:22:54.39,0:22:55.17,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(214.21875, 38.5)\blur3\1c&H000000&\t(0,780,\blur8\alpha&HFF&)}no
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(234.9, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:55.17,0:22:55.41,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(234.9, 38.5)\blur3\1c&H000000&\t(0,240,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(245.8, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}hi
+Dialogue: 1,0:22:55.41,0:22:55.57,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(245.8, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}hi
+Dialogue: 2,0:22:55.41,0:22:55.57,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(245.8, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}hi
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(269.86875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}ka
+Dialogue: 1,0:22:55.57,0:22:55.77,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(269.86875, 38.5)\blur3\1c&H000000&\t(0,200,\blur8\alpha&HFF&)}ka
+Dialogue: 2,0:22:55.57,0:22:55.77,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(269.86875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,200,\blur2\alpha&HFF&)}ka
+Dialogue: 3,0:22:52.53,0:22:56.05,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(291.41875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(3496.25,3523.5,\clip(0,20,1280,20))}ri
+Dialogue: 1,0:22:55.77,0:22:56.00,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(291.41875, 38.5)\blur3\1c&H000000&\t(0,230,\blur8\alpha&HFF&)}ri
+Dialogue: 2,0:22:55.77,0:22:56.00,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(291.41875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,230,\blur2\alpha&HFF&)}ri
+Dialogue: 1,0:22:56.15,0:22:56.30,Philosophy of Dear World - Romaji - Initial - Echo,,0,0,0,fx,{\an5\pos(245.8, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}hi
+Dialogue: 1,0:22:56.30,0:22:56.45,Philosophy of Dear World - Romaji - Initial - Echo,,0,0,0,fx,{\an5\pos(269.86875, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}ka
+Dialogue: 1,0:22:56.45,0:22:56.67,Philosophy of Dear World - Romaji - Initial - Echo,,0,0,0,fx,{\an5\pos(291.41875, 38.5)\blur3\1c&H000000&\t(0,220,\blur8\alpha&HFF&)}ri
+Dialogue: 1,0:22:56.83,0:22:56.98,Philosophy of Dear World - Romaji - Initial - F_Echo,,0,0,0,fx,{\an5\pos(245.8, 38.5)\blur4\1c&H000000&\alpha&HCA&\t(0,150,\blur10\alpha&HFF&)}hi
+Dialogue: 1,0:22:56.98,0:22:57.15,Philosophy of Dear World - Romaji - Initial - F_Echo,,0,0,0,fx,{\an5\pos(269.86875, 38.5)\blur4\1c&H000000&\alpha&HE2&\t(0,170,\blur10\alpha&HFF&)}ka
+Dialogue: 1,0:22:57.15,0:22:57.40,Philosophy of Dear World - Romaji - Initial - F_Echo,,0,0,0,fx,{\an5\pos(291.41875, 38.5)\blur4\1c&H000000&\alpha&HF7&\t(0,250,\blur10\alpha&HFF&)}ri
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:57.32,0:22:57.32,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(51.3, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}to
+Dialogue: 1,0:22:57.32,0:22:57.48,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(51.3, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}to
+Dialogue: 2,0:22:57.32,0:22:57.48,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(51.3, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}to
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(76.025, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}da
+Dialogue: 1,0:22:57.48,0:22:57.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(76.025, 38.5)\blur3\1c&H000000&\t(0,120,\blur8\alpha&HFF&)}da
+Dialogue: 2,0:22:57.48,0:22:57.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(76.025, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,120,\blur2\alpha&HFF&)}da
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(95.4375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}e
+Dialogue: 1,0:22:57.60,0:22:57.80,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(95.4375, 38.5)\blur3\1c&H000000&\t(0,200,\blur8\alpha&HFF&)}e
+Dialogue: 2,0:22:57.60,0:22:57.80,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(95.4375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,200,\blur2\alpha&HFF&)}e
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(115.05625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}na
+Dialogue: 1,0:22:57.80,0:22:58.18,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(115.05625, 38.5)\blur3\1c&H000000&\t(0,380,\blur8\alpha&HFF&)}na
+Dialogue: 2,0:22:57.80,0:22:58.18,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(115.05625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,380,\blur2\alpha&HFF&)}na
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(132.2625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}i
+Dialogue: 1,0:22:58.18,0:22:58.45,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(132.2625, 38.5)\blur3\1c&H000000&\t(0,270,\blur8\alpha&HFF&)}i
+Dialogue: 2,0:22:58.18,0:22:58.45,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(132.2625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,270,\blur2\alpha&HFF&)}i
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(161.9875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}sho
+Dialogue: 1,0:22:58.45,0:22:58.68,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(161.9875, 38.5)\blur3\1c&H000000&\t(0,230,\blur8\alpha&HFF&)}sho
+Dialogue: 2,0:22:58.45,0:22:58.68,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(161.9875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,230,\blur2\alpha&HFF&)}sho
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(188.41875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}u
+Dialogue: 1,0:22:58.68,0:22:58.86,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(188.41875, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}u
+Dialogue: 2,0:22:58.68,0:22:58.86,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(188.41875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,180,\blur2\alpha&HFF&)}u
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(209.175, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}do
+Dialogue: 1,0:22:58.86,0:22:59.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(209.175, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}do
+Dialogue: 2,0:22:58.86,0:22:59.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(209.175, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}do
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(229.93125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}u
+Dialogue: 1,0:22:59.02,0:22:59.19,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(229.93125, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}u
+Dialogue: 2,0:22:59.02,0:22:59.19,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(229.93125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}u
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(260.09375, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}wo
+Dialogue: 1,0:22:59.19,0:22:59.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(260.09375, 38.5)\blur3\1c&H000000&\t(0,240,\blur8\alpha&HFF&)}wo
+Dialogue: 2,0:22:59.19,0:22:59.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(260.09375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,240,\blur2\alpha&HFF&)}wo
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(283.0875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:22:59.43,0:22:59.56,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(283.0875, 38.5)\blur3\1c&H000000&\t(0,130,\blur8\alpha&HFF&)}
+Dialogue: 2,0:22:59.43,0:22:59.56,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(283.0875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,130,\blur2\alpha&HFF&)}
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(295.025, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}so
+Dialogue: 1,0:22:59.56,0:22:59.73,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(295.025, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}so
+Dialogue: 2,0:22:59.56,0:22:59.73,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(295.025, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}so
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(318.20625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}ra
+Dialogue: 1,0:22:59.73,0:22:59.91,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(318.20625, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}ra
+Dialogue: 2,0:22:59.73,0:22:59.91,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(318.20625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,180,\blur2\alpha&HFF&)}ra
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(347.10625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}ni
+Dialogue: 1,0:22:59.91,0:23:00.07,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(347.10625, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}ni
+Dialogue: 2,0:22:59.91,0:23:00.07,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(347.10625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}ni
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(382.60625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}mu
+Dialogue: 1,0:23:00.07,0:23:00.22,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(382.60625, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}mu
+Dialogue: 2,0:23:00.07,0:23:00.22,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(382.60625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,150,\blur2\alpha&HFF&)}mu
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(413.16875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}ke
+Dialogue: 1,0:23:00.22,0:23:00.38,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(413.16875, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}ke
+Dialogue: 2,0:23:00.22,0:23:00.38,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(413.16875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}ke
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(436.575, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}te
+Dialogue: 1,0:23:00.38,0:23:00.71,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(436.575, 38.5)\blur3\1c&H000000&\t(0,330,\blur8\alpha&HFF&)}te
+Dialogue: 2,0:23:00.38,0:23:00.71,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(436.575, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,330,\blur2\alpha&HFF&)}te
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(465.925, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}sa
+Dialogue: 1,0:23:00.71,0:23:00.91,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(465.925, 38.5)\blur3\1c&H000000&\t(0,200,\blur8\alpha&HFF&)}sa
+Dialogue: 2,0:23:00.71,0:23:00.91,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(465.925, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,200,\blur2\alpha&HFF&)}sa
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(490.41875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}ke
+Dialogue: 1,0:23:00.91,0:23:01.08,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(490.41875, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}ke
+Dialogue: 2,0:23:00.91,0:23:01.08,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(490.41875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}ke
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(513.45625, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}bi
+Dialogue: 1,0:23:01.08,0:23:01.25,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(513.45625, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}bi
+Dialogue: 2,0:23:01.08,0:23:01.25,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(513.45625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}bi
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(540.98125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}tsu
+Dialogue: 1,0:23:01.25,0:23:01.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(540.98125, 38.5)\blur3\1c&H000000&\t(0,350,\blur8\alpha&HFF&)}tsu
+Dialogue: 2,0:23:01.25,0:23:01.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(540.98125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,350,\blur2\alpha&HFF&)}tsu
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(570.95, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}zu
+Dialogue: 1,0:23:01.60,0:23:01.77,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(570.95, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}zu
+Dialogue: 2,0:23:01.60,0:23:01.77,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(570.95, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}zu
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(596.43125, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}ke
+Dialogue: 1,0:23:01.77,0:23:01.95,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(596.43125, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}ke
+Dialogue: 2,0:23:01.77,0:23:01.95,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(596.43125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,180,\blur2\alpha&HFF&)}ke
+Dialogue: 3,0:22:57.07,0:23:02.49,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(620.2875, 38.5)\be0.1\clip(0,57,1280,57)\t(125,251,\clip(0,20,1280,57))\t(5383.75,5428.5,\clip(0,20,1280,20))}ta
+Dialogue: 1,0:23:01.95,0:23:02.41,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(620.2875, 38.5)\blur3\1c&H000000&\t(0,460,\blur8\alpha&HFF&)}ta
+Dialogue: 2,0:23:01.95,0:23:02.41,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(620.2875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,460,\blur2\alpha&HFF&)}ta
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}
+Dialogue: 1,0:23:02.66,0:23:02.66,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(53.33125, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}ko
+Dialogue: 1,0:23:02.66,0:23:02.75,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(53.33125, 38.5)\blur3\1c&H000000&\t(0,90,\blur8\alpha&HFF&)}ko
+Dialogue: 2,0:23:02.66,0:23:02.75,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(53.33125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,90,\blur2\alpha&HFF&)}ko
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(77.9625, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}to
+Dialogue: 1,0:23:02.75,0:23:02.84,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(77.9625, 38.5)\blur3\1c&H000000&\t(0,90,\blur8\alpha&HFF&)}to
+Dialogue: 2,0:23:02.75,0:23:02.84,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(77.9625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,90,\blur2\alpha&HFF&)}to
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(105.20625, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}wa
+Dialogue: 1,0:23:02.84,0:23:03.01,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(105.20625, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}wa
+Dialogue: 2,0:23:02.84,0:23:03.01,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(105.20625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}wa
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(129.53125, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}ri
+Dialogue: 1,0:23:03.01,0:23:03.17,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(129.53125, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}ri
+Dialogue: 2,0:23:03.01,0:23:03.17,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(129.53125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}ri
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(157.94375, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}ga
+Dialogue: 1,0:23:03.17,0:23:03.34,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(157.94375, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}ga
+Dialogue: 2,0:23:03.17,0:23:03.34,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(157.94375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}ga
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(191.34375, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}yo
+Dialogue: 1,0:23:03.34,0:23:03.62,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(191.34375, 38.5)\blur3\1c&H000000&\t(0,280,\blur8\alpha&HFF&)}yo
+Dialogue: 2,0:23:03.34,0:23:03.62,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(191.34375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,280,\blur2\alpha&HFF&)}yo
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(227.70625, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}wo
+Dialogue: 1,0:23:03.62,0:23:04.01,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(227.70625, 38.5)\blur3\1c&H000000&\t(0,390,\blur8\alpha&HFF&)}wo
+Dialogue: 2,0:23:03.62,0:23:04.01,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(227.70625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,390,\blur2\alpha&HFF&)}wo
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(263.20625, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}su
+Dialogue: 1,0:23:04.01,0:23:04.11,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(263.20625, 38.5)\blur3\1c&H000000&\t(0,100,\blur8\alpha&HFF&)}su
+Dialogue: 2,0:23:04.01,0:23:04.11,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(263.20625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,100,\blur2\alpha&HFF&)}su
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(288.44375, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}be
+Dialogue: 1,0:23:04.11,0:23:04.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(288.44375, 38.5)\blur3\1c&H000000&\t(0,100,\blur8\alpha&HFF&)}be
+Dialogue: 2,0:23:04.11,0:23:04.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(288.44375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,100,\blur2\alpha&HFF&)}be
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(313.15, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}ru
+Dialogue: 1,0:23:04.21,0:23:04.32,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(313.15, 38.5)\blur3\1c&H000000&\t(0,110,\blur8\alpha&HFF&)}ru
+Dialogue: 2,0:23:04.21,0:23:04.32,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(313.15, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,110,\blur2\alpha&HFF&)}ru
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(343.3375, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}se
+Dialogue: 1,0:23:04.32,0:23:04.51,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(343.3375, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}se
+Dialogue: 2,0:23:04.32,0:23:04.51,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(343.3375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,190,\blur2\alpha&HFF&)}se
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(367.83125, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}ka
+Dialogue: 1,0:23:04.51,0:23:04.67,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(367.83125, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}ka
+Dialogue: 2,0:23:04.51,0:23:04.67,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(367.83125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}ka
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(384.575, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}i
+Dialogue: 1,0:23:04.67,0:23:05.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(384.575, 38.5)\blur3\1c&H000000&\t(0,350,\blur8\alpha&HFF&)}i
+Dialogue: 2,0:23:04.67,0:23:05.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(384.575, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,350,\blur2\alpha&HFF&)}i
+Dialogue: 3,0:23:02.49,0:23:05.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(408.0125, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2896.25,2941,\clip(0,20,1280,20))}de
+Dialogue: 1,0:23:05.02,0:23:05.35,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(408.0125, 38.5)\blur3\1c&H000000&\t(0,330,\blur8\alpha&HFF&)}de
+Dialogue: 2,0:23:05.02,0:23:05.35,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(408.0125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,330,\blur2\alpha&HFF&)}de
+Dialogue: 3,0:23:05.43,0:23:08.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,129.5)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2617.25,2683,\clip(0,20,1280,20))}
+Dialogue: 1,0:23:05.60,0:23:05.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:23:05.43,0:23:08.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,129.5)\an5\pos(55.94375, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2617.25,2683,\clip(0,20,1280,20))}wa
+Dialogue: 1,0:23:05.60,0:23:05.90,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(55.94375, 38.5)\blur3\1c&H000000&\t(0,300,\blur8\alpha&HFF&)}wa
+Dialogue: 2,0:23:05.60,0:23:05.90,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(55.94375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,300,\blur2\alpha&HFF&)}wa
+Dialogue: 3,0:23:05.43,0:23:08.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,129.5)\an5\pos(83.025, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2617.25,2683,\clip(0,20,1280,20))}ta
+Dialogue: 1,0:23:05.90,0:23:06.10,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(83.025, 38.5)\blur3\1c&H000000&\t(0,200,\blur8\alpha&HFF&)}ta
+Dialogue: 2,0:23:05.90,0:23:06.10,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(83.025, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,200,\blur2\alpha&HFF&)}ta
+Dialogue: 3,0:23:05.43,0:23:08.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,129.5)\an5\pos(110.4, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2617.25,2683,\clip(0,20,1280,20))}shi
+Dialogue: 1,0:23:06.10,0:23:06.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(110.4, 38.5)\blur3\1c&H000000&\t(0,330,\blur8\alpha&HFF&)}shi
+Dialogue: 2,0:23:06.10,0:23:06.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(110.4, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,330,\blur2\alpha&HFF&)}shi
+Dialogue: 3,0:23:05.43,0:23:08.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,129.5)\an5\pos(149.46875, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2617.25,2683,\clip(0,20,1280,20))}wa
+Dialogue: 1,0:23:06.43,0:23:06.80,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(149.46875, 38.5)\blur3\1c&H000000&\t(0,370,\blur8\alpha&HFF&)}wa
+Dialogue: 2,0:23:06.43,0:23:06.80,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(149.46875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,370,\blur2\alpha&HFF&)}wa
+Dialogue: 3,0:23:05.43,0:23:08.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,129.5)\an5\pos(182.3125, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2617.25,2683,\clip(0,20,1280,20))}ai
+Dialogue: 1,0:23:06.80,0:23:07.14,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(182.3125, 38.5)\blur3\1c&H000000&\t(0,340,\blur8\alpha&HFF&)}ai
+Dialogue: 2,0:23:06.80,0:23:07.14,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(182.3125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,340,\blur2\alpha&HFF&)}ai
+Dialogue: 3,0:23:05.43,0:23:08.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,129.5)\an5\pos(215.31875, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2617.25,2683,\clip(0,20,1280,20))}wo
+Dialogue: 1,0:23:07.14,0:23:07.31,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(215.31875, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}wo
+Dialogue: 2,0:23:07.14,0:23:07.31,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(215.31875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}wo
+Dialogue: 3,0:23:05.43,0:23:08.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,129.5)\an5\pos(254.55, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2617.25,2683,\clip(0,20,1280,20))}shi
+Dialogue: 1,0:23:07.31,0:23:07.50,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(254.55, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}shi
+Dialogue: 2,0:23:07.31,0:23:07.50,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(254.55, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,190,\blur2\alpha&HFF&)}shi
+Dialogue: 3,0:23:05.43,0:23:08.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,129.5)\an5\pos(275.4875, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2617.25,2683,\clip(0,20,1280,20))}t
+Dialogue: 1,0:23:07.50,0:23:07.66,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(275.4875, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}t
+Dialogue: 2,0:23:07.50,0:23:07.66,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(275.4875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}t
+Dialogue: 3,0:23:05.43,0:23:08.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(162.5,129.5)\an5\pos(291.325, 38.5)\be0.1\clip(0,57,1280,57)\t(81.25,163.5,\clip(0,20,1280,57))\t(2617.25,2683,\clip(0,20,1280,20))}ta
+Dialogue: 1,0:23:07.66,0:23:07.99,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(291.325, 38.5)\blur3\1c&H000000&\t(0,330,\blur8\alpha&HFF&)}ta
+Dialogue: 2,0:23:07.66,0:23:07.99,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(291.325, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,330,\blur2\alpha&HFF&)}ta
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:23:08.36,0:23:08.36,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(46.4375, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}a
+Dialogue: 1,0:23:08.36,0:23:08.54,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(46.4375, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}a
+Dialogue: 2,0:23:08.36,0:23:08.54,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(46.4375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,180,\blur2\alpha&HFF&)}a
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(66.50625, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}na
+Dialogue: 1,0:23:08.54,0:23:08.69,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(66.50625, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}na
+Dialogue: 2,0:23:08.54,0:23:08.69,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(66.50625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,150,\blur2\alpha&HFF&)}na
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(91.275, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}ta
+Dialogue: 1,0:23:08.69,0:23:08.92,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(91.275, 38.5)\blur3\1c&H000000&\t(0,230,\blur8\alpha&HFF&)}ta
+Dialogue: 2,0:23:08.69,0:23:08.92,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(91.275, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,230,\blur2\alpha&HFF&)}ta
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(123.09375, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}no
+Dialogue: 1,0:23:08.92,0:23:09.14,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(123.09375, 38.5)\blur3\1c&H000000&\t(0,220,\blur8\alpha&HFF&)}no
+Dialogue: 2,0:23:08.92,0:23:09.14,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(123.09375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,220,\blur2\alpha&HFF&)}no
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(143.775, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:23:09.14,0:23:09.24,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(143.775, 38.5)\blur3\1c&H000000&\t(0,100,\blur8\alpha&HFF&)}
+Dialogue: 2,0:23:09.14,0:23:09.24,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(143.775, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,100,\blur2\alpha&HFF&)}
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(147.35, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}i
+Dialogue: 1,0:23:09.24,0:23:09.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(147.35, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}i
+Dialogue: 2,0:23:09.24,0:23:09.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(147.35, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,150,\blur2\alpha&HFF&)}i
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(161.23125, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}ki
+Dialogue: 1,0:23:09.39,0:23:09.58,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(161.23125, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}ki
+Dialogue: 2,0:23:09.39,0:23:09.58,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(161.23125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,190,\blur2\alpha&HFF&)}ki
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(183.5125, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}ru
+Dialogue: 1,0:23:09.58,0:23:09.78,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(183.5125, 38.5)\blur3\1c&H000000&\t(0,200,\blur8\alpha&HFF&)}ru
+Dialogue: 2,0:23:09.58,0:23:09.78,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(183.5125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,200,\blur2\alpha&HFF&)}ru
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(202.375, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:23:09.78,0:23:09.91,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(202.375, 38.5)\blur3\1c&H000000&\t(0,130,\blur8\alpha&HFF&)}
+Dialogue: 2,0:23:09.78,0:23:09.91,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(202.375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,130,\blur2\alpha&HFF&)}
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(208.8125, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}a
+Dialogue: 1,0:23:09.91,0:23:10.09,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(208.8125, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}a
+Dialogue: 2,0:23:09.91,0:23:10.09,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(208.8125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,180,\blur2\alpha&HFF&)}a
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(227.75625, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}su
+Dialogue: 1,0:23:10.09,0:23:10.27,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(227.75625, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}su
+Dialogue: 2,0:23:10.09,0:23:10.27,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(227.75625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,180,\blur2\alpha&HFF&)}su
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(260.94375, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}no
+Dialogue: 1,0:23:10.27,0:23:10.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(260.94375, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}no
+Dialogue: 2,0:23:10.27,0:23:10.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(260.94375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}no
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(281.625, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:23:10.43,0:23:10.61,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(281.625, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}
+Dialogue: 2,0:23:10.43,0:23:10.61,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(281.625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,180,\blur2\alpha&HFF&)}
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(292.7625, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}ta
+Dialogue: 1,0:23:10.61,0:23:10.75,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(292.7625, 38.5)\blur3\1c&H000000&\t(0,140,\blur8\alpha&HFF&)}ta
+Dialogue: 2,0:23:10.61,0:23:10.75,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(292.7625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,140,\blur2\alpha&HFF&)}ta
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(320.5625, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}me
+Dialogue: 1,0:23:10.75,0:23:10.93,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(320.5625, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}me
+Dialogue: 2,0:23:10.75,0:23:10.93,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(320.5625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,180,\blur2\alpha&HFF&)}me
+Dialogue: 3,0:23:08.12,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(354.88125, 38.5)\be0.1\clip(0,57,1280,57)\t(120.25,241.5,\clip(0,20,1280,57))\t(2920.5,2921.5,\clip(0,20,1280,20))}ni
+Dialogue: 1,0:23:10.93,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(354.88125, 38.5)\blur3\1c&H000000&\t(0,110,\blur8\alpha&HFF&)}ni
+Dialogue: 2,0:23:10.93,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(354.88125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,110,\blur2\alpha&HFF&)}ni
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:23:11.04,0:23:11.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(51.44375, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}fu
+Dialogue: 1,0:23:11.04,0:23:11.26,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(51.44375, 38.5)\blur3\1c&H000000&\t(0,220,\blur8\alpha&HFF&)}fu
+Dialogue: 2,0:23:11.04,0:23:11.26,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(51.44375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,220,\blur2\alpha&HFF&)}fu
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(74.025, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}ta
+Dialogue: 1,0:23:11.26,0:23:11.41,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(74.025, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}ta
+Dialogue: 2,0:23:11.26,0:23:11.41,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(74.025, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,150,\blur2\alpha&HFF&)}ta
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(93.54375, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}ri
+Dialogue: 1,0:23:11.41,0:23:11.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(93.54375, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}ri
+Dialogue: 2,0:23:11.41,0:23:11.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(93.54375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,190,\blur2\alpha&HFF&)}ri
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(121.7875, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}de
+Dialogue: 1,0:23:11.60,0:23:11.78,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(121.7875, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}de
+Dialogue: 2,0:23:11.60,0:23:11.78,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(121.7875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,180,\blur2\alpha&HFF&)}de
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(141.65, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:23:11.78,0:23:11.98,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(141.65, 38.5)\blur3\1c&H000000&\t(0,200,\blur8\alpha&HFF&)}
+Dialogue: 2,0:23:11.78,0:23:11.98,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(141.65, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,200,\blur2\alpha&HFF&)}
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(148.25, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}o
+Dialogue: 1,0:23:11.98,0:23:12.15,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(148.25, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}o
+Dialogue: 2,0:23:11.98,0:23:12.15,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(148.25, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}o
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(166.25625, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}ro
+Dialogue: 1,0:23:12.15,0:23:12.31,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(166.25625, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}ro
+Dialogue: 2,0:23:12.15,0:23:12.31,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(166.25625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}ro
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(190.83125, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}ka
+Dialogue: 1,0:23:12.31,0:23:12.66,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(190.83125, 38.5)\blur3\1c&H000000&\t(0,350,\blur8\alpha&HFF&)}ka
+Dialogue: 2,0:23:12.31,0:23:12.66,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(190.83125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,350,\blur2\alpha&HFF&)}ka
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(221.275, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}mo
+Dialogue: 1,0:23:12.66,0:23:12.83,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(221.275, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}mo
+Dialogue: 2,0:23:12.66,0:23:12.83,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(221.275, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}mo
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(252.34375, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}no
+Dialogue: 1,0:23:12.83,0:23:13.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(252.34375, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}no
+Dialogue: 2,0:23:12.83,0:23:13.02,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(252.34375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,190,\blur2\alpha&HFF&)}no
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(283.79375, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}ni
+Dialogue: 1,0:23:13.02,0:23:13.34,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(283.79375, 38.5)\blur3\1c&H000000&\t(0,320,\blur8\alpha&HFF&)}ni
+Dialogue: 2,0:23:13.02,0:23:13.34,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(283.79375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,320,\blur2\alpha&HFF&)}ni
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(315.08125, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}na
+Dialogue: 1,0:23:13.34,0:23:13.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(315.08125, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}na
+Dialogue: 2,0:23:13.34,0:23:13.52,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(315.08125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,180,\blur2\alpha&HFF&)}na
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(340.11875, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}ro
+Dialogue: 1,0:23:13.52,0:23:13.70,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(340.11875, 38.5)\blur3\1c&H000000&\t(0,180,\blur8\alpha&HFF&)}ro
+Dialogue: 2,0:23:13.52,0:23:13.70,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(340.11875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,180,\blur2\alpha&HFF&)}ro
+Dialogue: 3,0:23:11.04,0:23:14.21,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(358.69375, 38.5)\be0.1\clip(0,57,1280,57)\t(0,1,\clip(0,20,1280,57))\t(3127.25,3175.5,\clip(0,20,1280,20))}u
+Dialogue: 1,0:23:13.70,0:23:14.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(358.69375, 38.5)\blur3\1c&H000000&\t(0,420,\blur8\alpha&HFF&)}u
+Dialogue: 2,0:23:13.70,0:23:14.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(358.69375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,420,\blur2\alpha&HFF&)}u
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(40, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}
+Dialogue: 1,0:23:14.39,0:23:14.39,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(40, 38.5)\blur3\1c&H000000&\t(0,0,\blur8\alpha&HFF&)}
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(53.33125, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}ko
+Dialogue: 1,0:23:14.39,0:23:14.56,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(53.33125, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}ko
+Dialogue: 2,0:23:14.39,0:23:14.56,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(53.33125, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}ko
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(79.99375, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}ko
+Dialogue: 1,0:23:14.56,0:23:14.71,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(79.99375, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}ko
+Dialogue: 2,0:23:14.56,0:23:14.71,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(79.99375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,150,\blur2\alpha&HFF&)}ko
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(116.15625, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}wa
+Dialogue: 1,0:23:14.71,0:23:14.90,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(116.15625, 38.5)\blur3\1c&H000000&\t(0,190,\blur8\alpha&HFF&)}wa
+Dialogue: 2,0:23:14.71,0:23:14.90,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(116.15625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,190,\blur2\alpha&HFF&)}wa
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(152.15625, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}ka
+Dialogue: 1,0:23:14.90,0:23:15.07,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(152.15625, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}ka
+Dialogue: 2,0:23:14.90,0:23:15.07,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(152.15625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}ka
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(179.575, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}mi
+Dialogue: 1,0:23:15.07,0:23:15.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(179.575, 38.5)\blur3\1c&H000000&\t(0,360,\blur8\alpha&HFF&)}mi
+Dialogue: 2,0:23:15.07,0:23:15.43,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(179.575, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,360,\blur2\alpha&HFF&)}mi
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(214.50625, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}no
+Dialogue: 1,0:23:15.43,0:23:15.58,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(214.50625, 38.5)\blur3\1c&H000000&\t(0,150,\blur8\alpha&HFF&)}no
+Dialogue: 2,0:23:15.43,0:23:15.58,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(214.50625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,150,\blur2\alpha&HFF&)}no
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(248.95, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}ha
+Dialogue: 1,0:23:15.58,0:23:15.78,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(248.95, 38.5)\blur3\1c&H000000&\t(0,200,\blur8\alpha&HFF&)}ha
+Dialogue: 2,0:23:15.58,0:23:15.78,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(248.95, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,200,\blur2\alpha&HFF&)}ha
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(276.04375, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}ko
+Dialogue: 1,0:23:15.78,0:23:15.95,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(276.04375, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}ko
+Dialogue: 2,0:23:15.78,0:23:15.95,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(276.04375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}ko
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(300.14375, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}ni
+Dialogue: 1,0:23:15.95,0:23:16.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(300.14375, 38.5)\blur3\1c&H000000&\t(0,170,\blur8\alpha&HFF&)}ni
+Dialogue: 2,0:23:15.95,0:23:16.12,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(300.14375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,170,\blur2\alpha&HFF&)}ni
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(326.85625, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}wa
+Dialogue: 1,0:23:16.12,0:23:16.28,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(326.85625, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}wa
+Dialogue: 2,0:23:16.12,0:23:16.28,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(326.85625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}wa
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(359.84375, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}ja
+Dialogue: 1,0:23:16.28,0:23:16.44,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(359.84375, 38.5)\blur3\1c&H000000&\t(0,160,\blur8\alpha&HFF&)}ja
+Dialogue: 2,0:23:16.28,0:23:16.44,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(359.84375, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,160,\blur2\alpha&HFF&)}ja
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(390.51875, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}na
+Dialogue: 1,0:23:16.44,0:23:17.83,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(390.51875, 38.5)\blur3\1c&H000000&\t(0,1390,\blur8\alpha&HFF&)}na
+Dialogue: 2,0:23:16.44,0:23:17.83,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(390.51875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,1390,\blur2\alpha&HFF&)}na
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(407.725, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}i
+Dialogue: 1,0:23:17.83,0:23:17.94,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(407.725, 38.5)\blur3\1c&H000000&\t(0,110,\blur8\alpha&HFF&)}i
+Dialogue: 2,0:23:17.83,0:23:17.94,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(407.725, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,110,\blur2\alpha&HFF&)}i
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(431.35625, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}ka
+Dialogue: 1,0:23:17.94,0:23:18.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(431.35625, 38.5)\blur3\1c&H000000&\t(0,100,\blur8\alpha&HFF&)}ka
+Dialogue: 2,0:23:17.94,0:23:18.04,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(431.35625, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,100,\blur2\alpha&HFF&)}ka
+Dialogue: 3,0:23:14.21,0:23:20.60,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(455.76875, 38.5)\be0.1\clip(0,57,1280,57)\t(87.75,176.5,\clip(0,20,1280,57))\t(6235.5,6386.5,\clip(0,20,1280,20))}ra
+Dialogue: 1,0:23:18.04,0:23:20.30,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(455.76875, 38.5)\blur3\1c&H000000&\t(0,2260,\blur8\alpha&HFF&)}ra
+Dialogue: 2,0:23:18.04,0:23:20.30,Philosophy of Dear World - Romaji - Initial,,0,0,0,fx,{\an5\pos(455.76875, 38.5)\bord1\blur0\1c&HBBEEFF&\3c&HBBEEFF&\t(0,2260,\blur2\alpha&HFF&)}ra
+Dialogue: 0,0:22:01.21,0:22:05.06,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(184.15234375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(3550,3701,\clip(0,57,1280,57))}I've learned of love's meaning
+Dialogue: 0,0:22:21.20,0:22:25.60,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(278.215234375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(4100,4251,\clip(0,57,1280,57))}A fleeing mob of peasants passed by in the night
+Dialogue: 0,0:22:26.33,0:22:31.04,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(253.948046875, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(4410,4561,\clip(0,57,1280,57))}As the moon waned, my spirit too grew dim
+Dialogue: 0,0:22:31.90,0:22:37.02,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,143.5)\an5\pos(219.1375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(4980,5052.75,\clip(0,57,1280,57))}Their orders went against my justice
+Dialogue: 0,0:22:37.04,0:22:42.33,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,300)\an5\pos(174.6765625, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(4990,5141,\clip(0,57,1280,57))}and left me with a dilemma
+Dialogue: 0,0:22:43.57,0:22:46.39,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,108.5)\an5\pos(146.662890625, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(2720,2775.25,\clip(0,57,1280,57))}For hundreds of years
+Dialogue: 0,0:22:46.39,0:22:48.39,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(201.5,84)\an5\pos(277.103125, 73.5)\be0.1\clip(0,90,1280,90)\t(0,101.75,\clip(0,57,1280,90))\t(1911.5,1954.5,\clip(0,57,1280,57))}I simply passed over the flowers surrounding me
+Dialogue: 0,0:22:48.39,0:22:52.52,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(156,136.5)\an5\pos(234.53359375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,79,\clip(0,57,1280,90))\t(3996,4065.25,\clip(0,57,1280,57))}until I noticed a silhouette cast in light,
+Dialogue: 0,0:22:52.53,0:22:56.05,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,52.5)\an5\pos(167.93359375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(3470,3497.25,\clip(0,57,1280,57))}and it happened to be you
+Dialogue: 0,0:22:57.07,0:23:02.49,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(250,87.5)\an5\pos(259.4640625, 73.5)\be0.1\clip(0,90,1280,90)\t(0,126,\clip(0,57,1280,90))\t(5340,5384.75,\clip(0,57,1280,57))}I couldn't help but shout toward the heavens
+Dialogue: 0,0:23:02.49,0:23:05.43,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(162.5,87.5)\an5\pos(223.741796875, 73.5)\be0.1\clip(0,90,1280,90)\t(0,82.25,\clip(0,57,1280,90))\t(2852.5,2897.25,\clip(0,57,1280,57))}In this world governed by cold reason
+Dialogue: 0,0:23:05.43,0:23:08.12,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(162.5,129.5)\an5\pos(184.15234375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,82.25,\clip(0,57,1280,90))\t(2552.5,2618.25,\clip(0,57,1280,57))}I've learned of love's meaning
+Dialogue: 0,0:23:08.12,0:23:11.04,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(240.5,0)\an5\pos(201.989453125, 73.5)\be0.1\clip(0,90,1280,90)\t(0,121.25,\clip(0,57,1280,90))\t(2920.5,2921.5,\clip(0,57,1280,57))}For a future with a place for you,
+Dialogue: 0,0:23:11.04,0:23:14.21,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(0,94.5)\an5\pos(184.03984375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,1,\clip(0,57,1280,90))\t(3080,3128.25,\clip(0,57,1280,57))}I'll become a fool at your side
+Dialogue: 0,0:23:14.21,0:23:20.60,Philosophy of Dear World - Translation - Initial,,0,0,0,fx,{\fad(175.5,300)\an5\pos(213.471484375, 73.5)\be0.1\clip(0,90,1280,90)\t(0,88.75,\clip(0,57,1280,90))\t(6085.5,6236.5,\clip(0,57,1280,57))}After all, we aren't in God's Garden
 Comment: 0,0:00:00.00,0:00:00.02,Signs,,0,0,0,,OPED
