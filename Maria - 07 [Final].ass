@@ -10,14 +10,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Maria
-Audio File: ../アニメ/[DameDesuYo] Junketsu no Maria/[DameDesuYo] Junketsu no Maria - 07 (1280x720 10bit AAC) [873A1506].mkv
-Video File: ../アニメ/[DameDesuYo] Junketsu no Maria/[DameDesuYo] Junketsu no Maria - 07 (1280x720 10bit AAC) [873A1506].mkv
+Audio File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/07/07 [20200F75].mkv
+Video File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/07/07 [20200F75].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 241
-Active Line: 253
-Video Position: 22453
+Video Zoom Percent: 0.625000
+Scroll Position: 2180
+Active Line: 2221
+Video Position: 26090
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -76,7 +76,7 @@ Dialogue: 21,0:00:49.42,0:00:50.82,Junketsu,,0,0,0,,I need to stop Maria!
 Dialogue: 21,0:02:33.29,0:02:33.92,Junketsu,,0,0,15,,Fire!
 Dialogue: 21,0:02:34.44,0:02:36.43,Junketsu,,0,0,15,,Gauls here, too!?
 Dialogue: 21,0:02:37.76,0:02:39.30,Junketsu,,0,0,15,,It's the royal cavalry!
-Dialogue: 21,0:02:44.16,0:02:45.01,Junketsu,,0,0,0,,It can't end here!
+Dialogue: 21,0:02:44.16,0:02:45.01,Junketsu,,0,0,0,,It can't end here...
 Dialogue: 21,0:02:47.63,0:02:48.60,Junketsu,,0,0,0,,Not yet...
 Dialogue: 21,0:02:49.42,0:02:50.62,Junketsu,,0,0,0,,They're surrounding us!
 Dialogue: 21,0:02:50.62,0:02:53.19,Junketsu,,0,0,0,,Retreat while we hold them off!
@@ -96,7 +96,7 @@ Dialogue: 21,0:03:31.95,0:03:35.15,Junketsu,,0,0,0,,Even if we win here,\N the r
 Dialogue: 21,0:03:35.72,0:03:37.86,Junketsu,,0,0,0,,We should get out of here and join the fun.
 Dialogue: 21,0:03:38.46,0:03:42.36,Junketsu,,0,0,0,,But that would break our agreement with Guillaume.
 Dialogue: 21,0:03:42.36,0:03:45.08,Junketsu,,0,0,0,,We won't make any gold if we stick around here.
-Dialogue: 21,0:03:45.08,0:03:47.58,Junketsu,,0,0,0,,Guillaume will understand, right?
+Dialogue: 21,0:03:45.08,0:03:47.58,Junketsu,,0,0,0,,Guillaume would understand, right?
 Dialogue: 21,0:03:48.22,0:03:50.58,Junketsu,,0,0,0,,Heh. All right, let's get moving!
 Dialogue: 21,0:03:57.55,0:03:58.55,Junketsu,,0,0,0,,S-Save me...
 Dialogue: 21,0:04:01.68,0:04:02.59,Junketsu,,0,0,0,,Go...
@@ -156,7 +156,7 @@ Dialogue: 21,0:06:18.14,0:06:21.65,Junketsu,,0,0,0,,Witch Maria! Whose side are 
 Dialogue: 21,0:06:21.98,0:06:24.41,Junketsu,,0,0,0,,She's letting England escape?
 Dialogue: 21,0:06:24.41,0:06:26.53,Junketsu,,0,0,0,,What in the world is she thinking?
 Dialogue: 21,0:06:27.07,0:06:28.88,Junketsu,,0,0,0,,Did you know, Maria?
-Dialogue: 21,0:06:28.88,0:06:33.23,Junketsu,,0,0,0,,There was once someone else who \Nshared your dream of saving everyone.
+Dialogue: 21,0:06:28.88,0:06:33.23,Junketsu,,0,0,0,,There was once someone like you who wanted to save the world.
 Dialogue: 21,0:06:33.93,0:06:35.34,Junketsu,,0,0,0,,But in the end...
 Dialogue: 21,0:06:36.41,0:06:38.25,Junketsu,,0,0,0,,It's useless, Maria.
 Dialogue: 21,0:06:38.25,0:06:40.29,Junketsu,,0,0,0,,You're wasting your time.
@@ -346,9 +346,9 @@ Dialogue: 22,0:17:05.50,0:17:09.28,Junketsu,,0,0,0,,{\bord0\t(3000,3750,1.5,\blu
 Dialogue: 20,0:17:09.80,0:17:11.51,Junketsu,,0,0,0,,{\blur8\bord0\c&H180020&\t(20,400,1,\blur0)}Why did you miss?
 Dialogue: 21,0:17:09.80,0:17:11.51,Junketsu,,0,0,0,,{\1a&HFF\bord0\t(20,250,1.5,\bord3)}Why did you miss?
 Dialogue: 22,0:17:09.80,0:17:11.51,Junketsu,,0,0,0,,{\blur6\bord0\t(20,400,1,\blur0)}Why did you miss?
-Dialogue: 21,0:17:13.00,0:17:14.47,Junketsu,,0,0,0,,I don't understand.
-Dialogue: 21,0:17:14.84,0:17:16.88,Junketsu,,0,0,0,,I just don't understand!
-Dialogue: 21,0:17:16.88,0:17:18.73,Junketsu,,0,0,0,,Understand what?
+Dialogue: 21,0:17:13.00,0:17:14.47,Junketsu,,0,0,0,,I don't know.
+Dialogue: 21,0:17:14.84,0:17:16.88,Junketsu,,0,0,0,,I just don't know!
+Dialogue: 21,0:17:16.88,0:17:18.73,Junketsu,,0,0,0,,know what?
 Dialogue: 21,0:17:18.73,0:17:22.47,Junketsu,,0,0,0,,How I feel about Maria any more.
 Dialogue: 21,0:17:22.94,0:17:24.17,Junketsu,,0,0,0,,Ezekiel.
 Dialogue: 21,0:17:24.17,0:17:25.98,Junketsu,,0,0,0,,You are my spear.
@@ -423,7 +423,7 @@ Dialogue: 21,0:21:09.28,0:21:12.33,Junketsu,,0,0,0,,That was very much like you,
 Dialogue: 21,0:21:12.33,0:21:14.71,Junketsu,,0,0,0,,I'm the one who led you astray...
 Dialogue: 21,0:21:16.83,0:21:19.10,Junketsu,,0,0,0,,Are you doing all right?
 Dialogue: 21,0:21:19.10,0:21:19.96,Junketsu,,0,0,0,,Yes.
-Dialogue: 21,0:21:19.96,0:21:24.47,Junketsu,,0,0,0,,Edwina's medicine works wonders. \NShe probably has the best around here.
+Dialogue: 21,0:21:19.96,0:21:24.47,Junketsu,,0,0,0,,Edwina's medicine works wonders. \NShe probably has the best around.
 Dialogue: 21,0:21:28.44,0:21:33.39,Junketsu,,0,0,0,,If this medicine was more available, \NI'm sure it would make a difference for the sick.
 Dialogue: 21,0:21:33.39,0:21:34.88,Junketsu,,0,0,0,,I see.
 Dialogue: 21,0:21:34.88,0:21:35.48,Junketsu,,0,0,0,,Then...
@@ -438,9 +438,9 @@ Dialogue: 21,0:21:49.62,0:21:52.62,Junketsu,,0,0,0,,Grandmother! Father's home!
 Dialogue: 21,0:21:52.95,0:21:55.00,Junketsu,,0,0,0,,Grandmother! Grandmother!
 Dialogue: 21,0:21:55.66,0:21:57.63,Junketsu,,0,0,0,,Grandmother!
 Dialogue: 21,0:23:33.31,0:23:34.39,Junketsu,,0,0,6,,{\an8}Thank you, Maria.
-Dialogue: 21,0:23:34.75,0:23:36.64,Junketsu,,0,0,6,,{\an8}A-Are you stupid or something!?
-Dialogue: 21,0:23:37.13,0:23:39.14,Junketsu,,0,0,6,,{\an8}Oh? So this is the rumored...
-Dialogue: 21,0:23:39.85,0:23:40.98,Junketsu,,0,0,6,,{\an8}Did you "do it" with Joseph?
+Dialogue: 21,0:23:34.75,0:23:36.64,Junketsu,,0,0,6,,{\an8}Wh-What! Don't be stupid!
+Dialogue: 21,0:23:37.13,0:23:39.14,Junketsu,,0,0,6,,{\an8}Oh? So this is the place?
+Dialogue: 21,0:23:39.85,0:23:40.98,Junketsu,,0,0,6,,{\an8}Did you do {\i1}it{\fsp4} {\r}with Joseph?
 Dialogue: 21,0:23:40.98,0:23:42.73,Junketsu,,0,0,6,,{\an8}It is about to occur.
 Dialogue: 21,0:23:42.73,0:23:43.98,Junketsu,,0,0,6,,{\an8\fad(0,350)}Are you serious?
 Comment: 0,0:02:26.91,0:02:28.92,Signs,,0,0,0,,"Story 7: War Feeds on War"
@@ -2259,21 +2259,21 @@ Comment: 0,0:18:01.74,0:18:07.72,Insert into virgin 07 - Translation,,0,0,0,kara
 Comment: 0,0:18:08.41,0:18:19.38,Insert into virgin 07 - Translation,,0,0,0,karaoke,just wanting to feel love and affection.
 Comment: 0,0:18:21.99,0:18:22.03,Default,,0,0,0,end frame,
 Dialogue: 0,0:17:03.55,0:17:09.75,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,0)\t(4686,6187,\1a&HFF&\4a&HFF&\blur10)}aogimiru sora e inoru
-Dialogue: 0,0:17:09.75,0:17:16.74,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(0,300)\blur10\t(29,488,\1a&H00&\4a&H96&\blur0)}tsukuwareru koto wo shinji
-Dialogue: 0,0:17:16.91,0:17:23.37,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,336)}kanau koto wa kiseki nara
-Dialogue: 0,0:17:23.60,0:17:27.01,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,400)}nageite wa
-Dialogue: 0,0:17:27.52,0:17:33.52,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,400)}sasaeru you ka
-Dialogue: 0,0:17:48.05,0:17:55.02,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,176)}aogimiru dake wo sora e
-Dialogue: 0,0:17:55.02,0:18:01.36,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(264,248)}sasageru inori no kotoba wa
-Dialogue: 0,0:18:01.46,0:18:07.99,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,276)}itsukushimi to awaremi wo
+Dialogue: 0,0:17:09.75,0:17:16.74,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(0,300)\blur10\t(29,488,\1a&H00&\4a&H96&\blur0)}sukuwareru koto wo shinjite
+Dialogue: 0,0:17:16.91,0:17:23.37,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,336)}kanau koto ga kiseki nara 
+Dialogue: 0,0:17:23.60,0:17:27.01,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,400)}naze ni hito wa
+Dialogue: 0,0:17:27.52,0:17:33.52,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,400)}sasageru no ka
+Dialogue: 0,0:17:48.05,0:17:55.02,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,176)}aogimiru dake no sora e
+Dialogue: 0,0:17:55.02,0:18:01.36,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(264,248)}sasageru inori no kotoba wa 
+Dialogue: 0,0:18:01.46,0:18:07.99,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,276)}tada motomeru chiisaki koe 
 Dialogue: 0,0:18:08.13,0:18:19.78,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,400)}tada motomeru chiisaki koe
-Dialogue: 0,0:17:03.55,0:17:09.75,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,0)\t(4686,6187,\1a&HFF&\4a&HFF&\blur10)}I looked up at the sky and prayed,
-Dialogue: 0,0:17:09.77,0:17:16.74,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(30,300)\blur10\t(59,518,\1a&H00&\4a&H96&\blur0)}believing in salvation.
-Dialogue: 0,0:17:16.91,0:17:23.37,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,336)}If I was answered with miracles,
-Dialogue: 0,0:17:23.60,0:17:27.01,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,400)}would that give me enough hope
-Dialogue: 0,0:17:27.52,0:17:33.52,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,400)}to live through this sorrow?
-Dialogue: 0,0:17:48.05,0:17:55.02,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,176)}I look up at the sky
-Dialogue: 0,0:17:55.02,0:18:01.36,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(264,248)}and offer up prayers
-Dialogue: 0,0:18:01.46,0:18:07.99,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,276)}in a pitiful voice
-Dialogue: 0,0:18:08.13,0:18:19.78,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,400)}just wanting to feel love and affection.
+Dialogue: 0,0:17:03.55,0:17:09.75,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,0)\t(4686,6187,\1a&HFF&\4a&HFF&\blur10)}We turn our eyes to the skies and pray
+Dialogue: 0,0:17:09.77,0:17:16.74,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(30,300)\blur10\t(59,518,\1a&H00&\4a&H96&\blur0)}believing in words of salvation
+Dialogue: 0,0:17:16.91,0:17:23.37,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,336)}If being heard would be a miracle, 
+Dialogue: 0,0:17:23.60,0:17:27.01,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,400)}then why do we still
+Dialogue: 0,0:17:27.52,0:17:33.52,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,400)}devote ourselves so?
+Dialogue: 0,0:17:48.05,0:17:55.02,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,176)}With our heads turned to the sky
+Dialogue: 0,0:17:55.02,0:18:01.36,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(264,248)}we offer up words of prayer
+Dialogue: 0,0:18:01.46,0:18:07.99,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,276)}each in our own lonely voice
+Dialogue: 0,0:18:08.13,0:18:19.78,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,400)}in search of love and affection
 Comment: 0,0:02:26.91,0:02:28.92,Signs,,0,0,0,,"Story 7: War Feeds on War"
