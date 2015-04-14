@@ -14,10 +14,10 @@ Audio File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/07/07 [20200F75].mkv
 Video File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/07/07 [20200F75].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 2180
-Active Line: 2221
-Video Position: 26090
+Video Zoom Percent: 0.750000
+Scroll Position: 378
+Active Line: 390
+Video Position: 3570
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -415,7 +415,7 @@ Dialogue: 21,0:20:21.21,0:20:26.99,Junketsu,,0,0,0,,{\q3}But I must ask, why go 
 Dialogue: 21,0:20:36.56,0:20:38.17,Junketsu,,0,0,0,,H-Hey...
 Dialogue: 21,0:20:38.17,0:20:42.59,Junketsu,,0,0,0,,I have a good plan for dealing with that witch...
 Dialogue: 21,0:20:42.59,0:20:43.43,Junketsu,,0,0,0,,Yes...
-Dialogue: 21,0:20:43.96,0:20:47.93,Junketsu,,0,0,0,,I'm sure our acquaintance will be a wonderful thing.
+Dialogue: 21,0:20:43.96,0:20:47.93,Junketsu,,0,0,0,,I'm sure our friendship will be a wonderful thing.
 Dialogue: 21,0:21:02.35,0:21:03.54,Junketsu,,0,0,0,,Thanks.
 Dialogue: 21,0:21:04.11,0:21:05.20,Junketsu,,0,0,0,,It's nothing.
 Dialogue: 21,0:21:05.64,0:21:08.20,Junketsu,,0,0,0,,I'm sorry I couldn't keep our promise.
@@ -444,6 +444,7 @@ Dialogue: 21,0:23:39.85,0:23:40.98,Junketsu,,0,0,6,,{\an8}Did you do {\i1}it{\fs
 Dialogue: 21,0:23:40.98,0:23:42.73,Junketsu,,0,0,6,,{\an8}It is about to occur.
 Dialogue: 21,0:23:42.73,0:23:43.98,Junketsu,,0,0,6,,{\an8\fad(0,350)}Are you serious?
 Comment: 0,0:02:26.91,0:02:28.92,Signs,,0,0,0,,"Story 7: War Feeds on War"
+Dialogue: 0,0:02:26.91,0:02:28.92,Signs,,0,0,0,,{\fad(484,0)\an2\shad0\fs75\bord2\be0.1\fnCataneo BT\b1\pos(640,650)\c&HFEFFFE&}{\fscx90\fscy90\3c&H000002&}—{\fscx100\fscy100} Story 7: War Feeds on War {\fscx90\fscy90}—{\fscx100\fscy100}
 Comment: 0,0:00:52.99,0:00:53.03,Default,,0,0,0,START FRAME,OP START FRAME
 Comment: 0,0:00:53.61,0:00:56.91,Philosophy of Dear World - Romaji,,0,0,0,karaoke,{\k17}wa{\k18}ta{\k17}shi {\k35}wa {\k15}a{\k16}i {\k17}wo {\k23}shi{\k31}t{\k141}ta
 Comment: 1,0:00:53.61,0:00:56.91,Philosophy of Dear World - Romaji - Echo,,0,0,0,karaoke,{\k17}{\k18}{\k17}{\k35}{\k15}{\k16}{\k17}{\k23}{\k120}{\k7\alpha&HFF&\-echo}a|{\k9}#|{\k9}#|{\k8}#|{\k19}#|
@@ -2260,16 +2261,16 @@ Comment: 0,0:18:08.41,0:18:19.38,Insert into virgin 07 - Translation,,0,0,0,kara
 Comment: 0,0:18:21.99,0:18:22.03,Default,,0,0,0,end frame,
 Dialogue: 0,0:17:03.55,0:17:09.75,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,0)\t(4686,6187,\1a&HFF&\4a&HFF&\blur10)}aogimiru sora e inoru
 Dialogue: 0,0:17:09.75,0:17:16.74,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(0,300)\blur10\t(29,488,\1a&H00&\4a&H96&\blur0)}sukuwareru koto wo shinjite
-Dialogue: 0,0:17:16.91,0:17:23.37,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,336)}kanau koto ga kiseki nara 
+Dialogue: 0,0:17:16.91,0:17:23.37,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,336)}kanau koto ga kiseki nara
 Dialogue: 0,0:17:23.60,0:17:27.01,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,400)}naze ni hito wa
 Dialogue: 0,0:17:27.52,0:17:33.52,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,400)}sasageru no ka
 Dialogue: 0,0:17:48.05,0:17:55.02,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,176)}aogimiru dake no sora e
-Dialogue: 0,0:17:55.02,0:18:01.36,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(264,248)}sasageru inori no kotoba wa 
-Dialogue: 0,0:18:01.46,0:18:07.99,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,276)}tada motomeru chiisaki koe 
+Dialogue: 0,0:17:55.02,0:18:01.36,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(264,248)}sasageru inori no kotoba wa
+Dialogue: 0,0:18:01.46,0:18:07.99,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,276)}tada motomeru chiisaki koe
 Dialogue: 0,0:18:08.13,0:18:19.78,Insert into virgin 07 - Romaji,,0,0,0,fx,{\fad(280,400)}tada motomeru chiisaki koe
 Dialogue: 0,0:17:03.55,0:17:09.75,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,0)\t(4686,6187,\1a&HFF&\4a&HFF&\blur10)}We turn our eyes to the skies and pray
 Dialogue: 0,0:17:09.77,0:17:16.74,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(30,300)\blur10\t(59,518,\1a&H00&\4a&H96&\blur0)}believing in words of salvation
-Dialogue: 0,0:17:16.91,0:17:23.37,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,336)}If being heard would be a miracle, 
+Dialogue: 0,0:17:16.91,0:17:23.37,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,336)}If being heard would be a miracle,
 Dialogue: 0,0:17:23.60,0:17:27.01,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,400)}then why do we still
 Dialogue: 0,0:17:27.52,0:17:33.52,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,400)}devote ourselves so?
 Dialogue: 0,0:17:48.05,0:17:55.02,Insert into virgin 07 - Translation,,0,0,0,fx,{\fad(280,176)}With our heads turned to the sky

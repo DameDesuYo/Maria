@@ -13,13 +13,14 @@ PlayDepth: 16
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: 10 [C105E61A].mkv
-Video File: 10 [C105E61A].mkv
+Audio File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/10/10 [C105E61A].mkv
+Video File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/10/10 [C105E61A].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Active Line: 9
-Video Position: 472
+Video Zoom Percent: 0.750000
+Scroll Position: 357
+Active Line: 377
+Video Position: 5468
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -131,7 +132,7 @@ Dialogue: 21,0:05:32.80,0:05:34.77,Junketsu,,0,0,0,,A decision won't be reached 
 Dialogue: 21,0:05:35.16,0:05:39.52,Junketsu,,0,0,0,,If you serve me well in this battle, \NI will personally take care of it.
 Dialogue: 21,0:05:39.80,0:05:42.02,Junketsu,,0,0,0,,So, for now, you need to fight!
 Dialogue: 21,0:05:43.29,0:05:46.53,Junketsu,,0,0,0,,Fight for Lady Maria's sake?
-Dialogue: 21,0:05:47.91,0:05:51.40,Junketsu,,0,0,0,,Have you no fear for the almighty Father?
+Dialogue: 21,0:05:47.91,0:05:51.40,Junketsu,,0,0,0,,Have you no fear for the Almighty Father?
 Dialogue: 21,0:05:51.82,0:05:53.38,Junketsu,,0,0,0,,Defying His word,
 Dialogue: 21,0:05:53.38,0:05:56.20,Junketsu,,0,0,0,,and meddling in the war with magic...
 Dialogue: 21,0:05:56.20,0:05:58.29,Junketsu,,0,0,0,,Don't you see the arrogance of your actions?
@@ -284,7 +285,7 @@ Dialogue: 21,0:13:39.69,0:13:42.51,Junketsu,,0,0,0,,Of course she's going to wor
 Dialogue: 21,0:13:43.51,0:13:45.95,Junketsu,,0,0,0,,I wish I could've seen Martha and Anne.
 Dialogue: 21,0:13:45.95,0:13:49.64,Junketsu,,0,0,0,,You still can. All you need to do is ask Heaven for forgiveness.
 Dialogue: 21,0:13:50.89,0:13:52.00,Junketsu,,0,0,0,,Forgiveness?
-Dialogue: 21,0:13:52.46,0:13:56.66,Junketsu,,0,0,0,,If you would only join us,\N all of this could end peacefully.
+Dialogue: 21,0:13:52.46,0:13:56.66,Junketsu,,0,0,0,,If you would only listen to us,\N all of this could end peacefully.
 Dialogue: 21,0:13:57.77,0:13:58.56,Junketsu,,0,0,0,,I'm sorry.
 Dialogue: 21,0:13:59.80,0:14:01.23,Junketsu,,0,0,0,,I'm sorry, Ezekiel.
 Dialogue: 21,0:14:01.75,0:14:03.00,Junketsu,,0,0,0,,Why?
@@ -411,8 +412,8 @@ Dialogue: 21,0:21:54.00,0:21:56.91,Junketsu,,0,0,0,,Well, I've got nothing to sa
 Dialogue: 21,0:21:56.91,0:21:57.92,Junketsu,,0,0,0,,And now...
 Dialogue: 21,0:23:32.89,0:23:35.14,Junketsu,,0,0,10,,{\an8}I give up...
 Dialogue: 21,0:23:35.14,0:23:37.02,Junketsu,,0,0,10,,{\an8}What a strong girl...
-Dialogue: 21,0:23:37.02,0:23:39.93,Junketsu,,0,0,10,,{\q2\an8}Those eyes have pissed me off since the moment I met you!
-Dialogue: 21,0:23:39.93,0:23:42.02,Junketsu,,0,0,10,,{\an8}Somebody! The bombard...
+Dialogue: 21,0:23:37.02,0:23:39.93,Junketsu,,0,0,10,,{\q2\an8}Those eyes have pissed me off since the first day I met you!
+Dialogue: 21,0:23:39.93,0:23:42.02,Junketsu,,0,0,10,,{\an8}Somebody! The bombard is...
 Dialogue: 21,0:23:42.02,0:23:44.02,Junketsu,,0,0,10,,{\fad(0,350)\an8}They're just like bugs...
 Comment: 0,0:23:32.89,0:23:35.14,Junketsu,,0,0,0,,I give up...
 Comment: 0,0:23:35.39,0:23:37.02,Junketsu,,0,0,0,,What a strong girl...
@@ -420,6 +421,7 @@ Comment: 0,0:23:37.02,0:23:39.93,Junketsu,,0,0,0,,I didn't like those eyes\Nfrom
 Comment: 0,0:23:40.53,0:23:42.02,Junketsu,,0,0,0,,Somebody! The bombard...
 Comment: 0,0:23:42.02,0:23:44.13,Junketsu,,0,0,0,,They're like bugs...
 Comment: 0,0:00:00.00,0:00:00.00,Junketsu,,0,0,0,,"Story 10: I Hate and I Love"
+Dialogue: 0,0:03:46.08,0:03:48.08,Signs,,0,0,0,,{\fad(484,0)\an2\shad0\fs75\bord2\be0.1\fnCataneo BT\b1\pos(640,650)\c&HFEFFFE&}{\fscx90\fscy90\3c&H000002&}—{\fscx100\fscy100} Story 10: I Hate and I Love {\fscx90\fscy90}—{\fscx100\fscy100}
 Comment: 0,0:20:41.30,0:20:41.34,Default,,0,0,0,start frame,
 Comment: 0,0:20:44.74,0:20:50.64,Insert into virgin 07 - Romaji,,0,0,0,karaoke,aogimiru sora e inoru
 Comment: 0,0:20:51.43,0:20:56.94,Insert into virgin 07 - Romaji,,0,0,0,karaoke,sukuwareru koto wo shinjite

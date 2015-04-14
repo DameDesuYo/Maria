@@ -16,10 +16,10 @@ Audio File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/04/04 [E3E6878E].mkv
 Video File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/04/04 [E3E6878E].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 222
-Active Line: 208
-Video Position: 15737
+Video Zoom Percent: 1.000000
+Scroll Position: 420
+Active Line: 440
+Video Position: 2849
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -482,6 +482,7 @@ Dialogue: 21,0:23:37.72,0:23:40.73,Junketsu,,0,0,10,,{\an8}This is the mystery I
 Dialogue: 21,0:23:40.73,0:23:41.60,Junketsu,,0,0,10,,{\an8}Stop!
 Dialogue: 21,0:23:41.85,0:23:42.27,Junketsu,,0,0,10,,{\an8}Begin!
 Comment: 0,0:23:42.27,0:23:44.27,Junketsu,,0,0,0,,SUBS|KFX
+Dialogue: 0,0:01:56.84,0:01:58.84,Signs,,0,0,0,,{\fad(484,0)\an2\shad0\fs75\bord2\be0.1\fnCataneo BT\b1\pos(650,650)\c&HFEFFFE&}{\fscx90\fscy90\3c&H000002&}—{\fscx100\fscy100} Story 4: Remember to Die {\fscx90\fscy90}—{\fscx100\fscy100}
 Comment: 0,0:00:22.96,0:00:23.00,Default,,0,0,0,START FRAME,OP START FRAME
 Comment: 0,0:00:23.58,0:00:26.88,Philosophy of Dear World - Romaji,,0,0,0,karaoke,{\k17}wa{\k18}ta{\k17}shi {\k35}wa {\k15}a{\k16}i {\k17}wo {\k23}shi{\k31}t{\k141}ta
 Comment: 1,0:00:23.58,0:00:26.88,Philosophy of Dear World - Romaji - Echo,,0,0,0,karaoke,{\k17}{\k18}{\k17}{\k35}{\k15}{\k16}{\k17}{\k23}{\k120}{\k7\alpha&HFF&\-echo}a|{\k9}#|{\k9}#|{\k8}#|{\k19}#|

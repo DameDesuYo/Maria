@@ -12,14 +12,14 @@ PlayDepth: 16
 
 [Aegisub Project Garbage]
 Last Style Storage: maria
-Audio File: 09 [DA3B7037].mkv
-Video File: 09 [DA3B7037].mkv
+Audio File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/09/09 [DA3B7037].mkv
+Video File: E:/encoding/DDY/2014-Winter/Junketsu no Maria/09/09 [DA3B7037].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 249
-Active Line: 288
-Video Position: 28083
+Video Zoom Percent: 0.875000
+Scroll Position: 303
+Active Line: 334
+Video Position: 3092
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -136,10 +136,10 @@ Dialogue: 21,0:07:26.85,0:07:27.74,Junketsu,,0,0,0,,This?
 Dialogue: 21,0:07:28.15,0:07:29.72,Junketsu,,0,0,0,,It's the metal arm you brought to me.
 Dialogue: 21,0:07:30.01,0:07:31.95,Junketsu,,0,0,0,,Oh, so that's what it was...
 Dialogue: 21,0:07:31.95,0:07:34.35,Junketsu,,0,0,0,,I hope you've been finding it useful.
-Dialogue: 21,0:07:34.35,0:07:37.01,Junketsu,,0,0,0,,Well, I guess it has...
+Dialogue: 21,0:07:34.35,0:07:37.01,Junketsu,,0,0,0,,Well, I guess I have...
 Dialogue: 21,0:07:37.01,0:07:38.53,Junketsu,,0,0,0,,I see.
 Dialogue: 21,0:07:39.25,0:07:41.18,Junketsu,,0,0,0,,So, what brought you out here?
-Dialogue: 21,0:07:41.57,0:07:44.02,Junketsu,,0,0,0,,Priapus had asked me to come here.
+Dialogue: 21,0:07:41.57,0:07:44.02,Junketsu,,0,0,0,,Did Priapus ask you to come too?
 Dialogue: 21,0:07:45.24,0:07:46.57,Junketsu,,0,0,0,,Galfa?
 Dialogue: 21,0:07:46.57,0:07:48.39,Junketsu,,0,0,0,,Sorry, I have to run.
 Dialogue: 21,0:08:26.31,0:08:29.02,Junketsu,,0,0,0,,{\ko122}Lady Maria! {\ko149}Lady Maria!
@@ -192,10 +192,10 @@ Dialogue: 20,0:11:08.85,0:11:09.64,Junketsu,,0,0,0,,{\1a&HFF&\t(485,777,\bord1\3
 Dialogue: 21,0:11:08.85,0:11:09.64,Junketsu,,0,0,0,,{\bord0\c&H180020&\t(527,777,1,\blur9)}Grandmother!
 Dialogue: 22,0:11:08.85,0:11:09.64,Junketsu,,0,0,0,,{\bord0\t(527,777,1,\blur7)}Grandmother!
 Dialogue: 21,0:11:19.90,0:11:21.19,Junketsu,,0,0,0,,Maria...
-Dialogue: 21,0:11:34.26,0:11:37.08,Junketsu,,0,0,0,,You mustn't do such things.
+Dialogue: 21,0:11:34.26,0:11:37.08,Junketsu,,0,0,0,,You mustn't encourage her.
 Dialogue: 21,0:11:37.75,0:11:41.79,Junketsu,,0,0,0,,Now, let us send our deepest prayers to Lady Martha
 Dialogue: 21,0:11:41.79,0:11:43.76,Junketsu,,0,0,0,,for her returning to the fold as a lamb of God.
-Dialogue: 21,0:11:46.24,0:11:47.32,Junketsu,,0,0,0,,Ezekiel...
+Dialogue: 21,0:11:46.24,0:11:47.32,Junketsu,,0,0,0,,Ezekiel.
 Dialogue: 21,0:11:47.89,0:11:48.62,Junketsu,,0,0,0,,I know...
 Dialogue: 21,0:11:50.72,0:11:52.89,Junketsu,,0,0,0,,This is a wonderful village.
 Dialogue: 21,0:11:52.89,0:11:54.44,Junketsu,,0,0,0,,May God bless you all.
@@ -235,7 +235,7 @@ Dialogue: 21,0:13:35.58,0:13:37.88,Junketsu,,0,0,0,,What!? How the hell did they
 Dialogue: 21,0:13:38.15,0:13:39.10,Junketsu,,0,0,0,,Well...
 Dialogue: 21,0:13:39.10,0:13:41.38,Junketsu,,0,0,0,,They used a gas to paralyze her...
 Dialogue: 21,0:13:41.38,0:13:43.50,Junketsu,,0,0,0,,Edwina, where are the other guild members?
-Dialogue: 21,0:13:43.50,0:13:46.14,Junketsu,,0,0,0,,They said they were off to visit Nice in Savoia...
+Dialogue: 21,0:13:43.50,0:13:46.14,Junketsu,,0,0,0,,They said they were off to visit Nice in Savoia.
 Dialogue: 21,0:13:48.97,0:13:51.48,Junketsu,,0,0,0,,You're going to save Maria!?
 Dialogue: 21,0:13:51.48,0:13:53.40,Junketsu,,0,0,0,,You'll be branded a heretic, too!
 Dialogue: 21,0:13:53.40,0:13:56.97,Junketsu,,0,0,0,,I believe the actions taken\Nwere motivated by cowardice.
@@ -280,7 +280,7 @@ Dialogue: 21,0:15:53.25,0:15:55.43,Junketsu,,0,0,0,,That cannot be done.
 Dialogue: 21,0:15:56.49,0:15:57.68,Junketsu,,0,0,0,,I see.
 Dialogue: 21,0:15:57.95,0:16:00.13,Junketsu,,0,0,0,,Can you make something to eat?
 Dialogue: 21,0:16:00.13,0:16:01.85,Junketsu,,0,0,0,,Will you be fine by yourself?
-Dialogue: 21,0:16:01.85,0:16:05.44,Junketsu,,0,0,0,,I can't keep waiting for the others to respond. We can't leave Maria alone, right?
+Dialogue: 21,0:16:01.85,0:16:05.44,Junketsu,,0,0,0,,I can't get in touch with the others,\N but we can't leave Maria alone, right?
 Dialogue: 21,0:16:05.74,0:16:07.44,Junketsu,,0,0,0,,It'll be fine!
 Dialogue: 21,0:16:08.48,0:16:13.63,Junketsu,,0,0,0,,Why are she and Maria so\Nintent on helping others?
 Dialogue: 21,0:16:14.43,0:16:15.45,Junketsu,,0,0,0,,What do you think?
@@ -343,7 +343,7 @@ Dialogue: 21,0:19:21.04,0:19:23.36,Junketsu,,0,0,0,,The same as... nothing?
 Dialogue: 21,0:19:24.22,0:19:25.13,Junketsu,,0,0,0,,God?
 Dialogue: 21,0:19:31.27,0:19:33.58,Junketsu,,0,0,0,,It's the same... The same?
 Dialogue: 21,0:19:34.15,0:19:35.16,Junketsu,,0,0,0,,The same...
-Dialogue: 21,0:19:35.66,0:19:37.78,Junketsu,,0,0,0,,Omnipresence is the same than nonexistence?
+Dialogue: 21,0:19:35.66,0:19:37.78,Junketsu,,0,0,0,,Omnipresence is the same as nonexistence?
 Dialogue: 21,0:19:38.05,0:19:41.53,Junketsu,,0,0,0,,Or rather, is a lack of physical form no different than nonexistence?
 Dialogue: 21,0:19:41.82,0:19:47.16,Junketsu,,0,0,0,,All you're doing is preaching a gospel \Nyou don't even understand yourself.
 Dialogue: 21,0:19:47.67,0:19:51.16,Junketsu,,0,0,0,,If God really appeared, \Neverything would be resolved instantly.
@@ -385,8 +385,9 @@ Dialogue: 21,0:21:48.20,0:21:50.12,Junketsu,,0,0,0,,Thank you, Maria.
 Dialogue: 21,0:23:34.30,0:23:36.10,Junketsu,,0,0,10,,{\an8}You inferior being with no knowledge of love,
 Dialogue: 21,0:23:36.10,0:23:38.27,Junketsu,,0,0,10,,{\an8}stop reigning over us already!
 Dialogue: 21,0:23:38.55,0:23:40.94,Junketsu,,0,0,10,,{\an8}Was the mole that bad?
-Dialogue: 21,0:23:40.94,0:23:43.94,Junketsu,,0,0,10,,{\an8\fad(0,350)}Now! Please shame me!
+Dialogue: 21,0:23:40.94,0:23:43.94,Junketsu,,0,0,10,,{\an8\fad(0,350)}Now, please shame me!
 Comment: 21,0:00:00.00,0:00:00.00,Junketsu,,0,0,0,,"Story 9: With a Grain of Salt"
+Dialogue: 0,0:02:06.98,0:02:08.98,Signs,,0,0,0,,{\fad(484,0)\an2\shad0\fs75\bord2\be0.1\fnCataneo BT\b1\pos(640,650)\c&HFEFFFE&}{\fscx90\fscy90\3c&H000002&}—{\fscx100\fscy100} Story 9: With a Grain of Salt {\fscx90\fscy90}—{\fscx100\fscy100}
 Comment: 0,0:00:32.97,0:00:33.01,Default,,0,0,0,START FRAME,OP START FRAME
 Comment: 0,0:00:33.59,0:00:36.89,Philosophy of Dear World - Romaji,,0,0,0,karaoke,{\k17}wa{\k18}ta{\k17}shi {\k35}wa {\k15}a{\k16}i {\k17}wo {\k23}shi{\k31}t{\k141}ta
 Comment: 1,0:00:33.59,0:00:36.89,Philosophy of Dear World - Romaji - Echo,,0,0,0,karaoke,{\k17}{\k18}{\k17}{\k35}{\k15}{\k16}{\k17}{\k23}{\k120}{\k7\alpha&HFF&\-echo}a|{\k9}#|{\k9}#|{\k8}#|{\k19}#|
